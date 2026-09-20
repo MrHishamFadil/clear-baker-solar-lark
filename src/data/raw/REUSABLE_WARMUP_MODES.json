@@ -1,0 +1,58 @@
+[
+  {
+    "id": "missing_value",
+    "titleAr": "رصد القيمة الغائبة",
+    "titleEn": "Spot the Missing Value",
+    "duration": "3–5 min",
+    "descAr": "عرض موقف واقعي سريع، وعلى المجموعات تحديد أي من قيم JPIS الخمس كانت غائبة وكيف نعيد إحياءها.",
+    "descEn": "Present a brief scenario; squads identify which of the 5 JPIS values was missing and how to restore it."
+  },
+  {
+    "id": "routine_relay",
+    "titleAr": "تتابع الروتين في ٦٠ ثانية",
+    "titleEn": "60-Second Routine Relay",
+    "duration": "3–5 min",
+    "descAr": "تنفيذ خطوة روتينية محددة (طرق الباب، تجهيز الطاولة، وضع الأحذية تحت المقاعد داخل الفصل) في أقل من دقيقة.",
+    "descEn": "Practice an exact routine step (door knocking, bag setup, shoes under desks inside class) in under a minute."
+  },
+  {
+    "id": "silent_challenge",
+    "titleAr": "التحدي الصامت التام",
+    "titleEn": "Silent Demonstration Challenge",
+    "duration": "3–5 min",
+    "descAr": "تنفيذ مهمة صفية معقدة بالكامل دون التلفظ بكلمة واحدة، بالاعتماد على لغة الجسد والتعاون الإيماني.",
+    "descEn": "Execute a classroom task completely silently, relying on body language, eye contact, and unity."
+  },
+  {
+    "id": "fix_dialogue",
+    "titleAr": "تصحيح الحوار (مخطط عبارات أنا)",
+    "titleEn": "Dialogue Repair (I-Statements)",
+    "duration": "4–6 min",
+    "descAr": "تحويل عبارة لوم أو غضب إلى عبارة 'أنا' مهذبة وبناءة وفق النموذج المعتمد بمدرسة JPIS.",
+    "descEn": "Transform an accusatory or frustrated phrase into a respectful, constructive I-statement."
+  },
+  {
+    "id": "charades",
+    "titleAr": "تمثيل القيم بدون كلام",
+    "titleEn": "Value Charades",
+    "duration": "3–5 min",
+    "descAr": "يمثل طالب سلوكاً يجسد إحدى القيم الخمس صامتاً، وتكتشف المجموعات القيمة والدليل النبوي المرتبط بها.",
+    "descEn": "A student silently acts out a virtuous routine; squads deduce the core value and connected Hadith."
+  },
+  {
+    "id": "four_corners",
+    "titleAr": "الأركان الأربعة لاتخاذ القرار",
+    "titleEn": "Four Corners Dilemma",
+    "duration": "5–7 min",
+    "descAr": "طرح معضلة سلوكية، ويتوجه الطلاب إلى ركن الخيار الذي يرونه يجسد الإحسان مع تقديم التعليل.",
+    "descEn": "Pose a real school dilemma; students move to the corner matching their principled choice and justify it."
+  },
+  {
+    "id": "mystery_routine",
+    "titleAr": "روتين اليوم المجهول",
+    "titleEn": "Mystery Routine of the Day",
+    "duration": "3–5 min",
+    "descAr": "سحب بطاقة عشوائية لأحد روتينات مدرسة JPIS العشرة واختبار تطبيق الصف لها دون إنذار مسبق.",
+    "descEn": "Draw a mystery card from the 10 JPIS routines and run a surprise whole-class execution check."
+  }
+]

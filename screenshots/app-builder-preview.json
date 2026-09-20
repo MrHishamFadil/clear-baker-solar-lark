@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fursan Al-Qiyam",
+      "hasCanvas": false,
+      "bodyTextLen": 1643,
+      "bodyTextHash": "a5a735f9e5e75509146c3a6870136081c564d0a7fc0ab4f052c01a1d3488f3de",
+      "bodyTextPrefix": "ف فُرسان القِيَم منصة مهارات الحياة والآداب · مدارس جدة الخاصة ا",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fursan Al-Qiyam",
+      "hasCanvas": false,
+      "bodyTextLen": 1437,
+      "bodyTextHash": "996f5fe9f3de10b8b92d69178210986a026e5088683b11bb2ff87e883ccad6c8",
+      "bodyTextPrefix": "ف فُرسان القِيَم 0 الصف الأول الابتدائي الصف الثاني الابتدائي ال",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}

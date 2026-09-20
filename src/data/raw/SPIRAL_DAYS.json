@@ -1,0 +1,692 @@
+[
+  {
+    "day": 1,
+    "week": 1,
+    "titleAr": "اليوم ١: الترحيب والتعارف وتأسيس بيئة التعلم الآمنة (Greet and Come In)",
+    "titleEn": "Day 1: Welcome, Belonging & Meet and Greet Foundations",
+    "focusAr": "تأسيس الانتماء، كسر الجليد، آداب إلقاء السلام والدخول المهذب للفصل والمختبرات (المهارات ١-٣)",
+    "focusEn": "Belonging, class identity, courteous greeting, and gentle door entry across subjects (Skills 1–3)",
+    "warmupType": "Meet & Greet Role Play",
+    "quickWarmup": {
+      "titleAr": "تحدي فرسان الانتماء والتعارف",
+      "titleEn": "Belonging & Greeting Quest",
+      "promptAr": "يمارس الطلاب تحية الإسلام بابتسامة مشرقة: يذكر كل طالب اسمه، وقوة خارقة يجلبها لصفنا، والقيمة التي يرجوها لهذا العام.",
+      "promptEn": "Students practice warm Salam and introductions: Each student shares his/her name, a superpower brought to class, and nominates a core value."
+    },
+    "newSkillsAr": [
+      "١. أدب الاستئذان وطرق الباب برفق ثلاثاً",
+      "٢. تنظيم الحقيبة وتجهيز الطاولة في ٦٠ ثانية",
+      "٣. سكينة الممرات والتزام اليمين"
+    ],
+    "newSkillsEn": [
+      "1. Gentle 3-Knock Door Entry",
+      "2. Bag Organization & 60-Second Desk Setup",
+      "3. Hallway Composure & Keeping Right"
+    ],
+    "spiralReviewAr": [
+      "تأسيس بيئة التعلم الآمنة وميثاق الاحترام المتبادل بين المعلم والطلاب"
+    ],
+    "spiralReviewEn": [
+      "Safe learning community foundations and mutual respect agreement"
+    ],
+    "physicalRehearsalAr": "محاكاة وقوف كامل الصف وإلقاء تحية الإسلام بوقار وابتسامة، وتطبيق الطرق الهادئ ثلاثاً بجانب الباب.",
+    "physicalRehearsalEn": "Whole-class physical modeling of respectful Salam with warm posture and gentle 3-knock entry from the side.",
+    "activityAr": "نشاط 'فرسان الانتماء': يذكر كل طالب اسمه، وقوة خارقة يجلبها للصف، ويختار القيمة الأهم التي يتمنى أن تسود بيننا هذا العام.",
+    "activityEn": "Belonging Quest: Every student shares their name, one personal superpower, and nominates the value our class needs most.",
+    "drillAr": "الملاحظة التقديرية الأولى: المعلم يلاحظ مع الطلاب كيف نقف، وكيف نلقي السلام بأدب ودفء.",
+    "drillEn": "Initial teacher observation: Modeling how we stand and greet with a warm, respectful Salam.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "نمذجة التحية ولقاء الزملاء: تمثيل أدوار الدخول المهذب للفصل (Model meet and greet. Use role play).",
+        "activityEn": "Model meet and greet. Use role play to establish courteous morning arrival."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "نشاط 'الفصل الرائع' (A Great Classroom): التعارف وحساب نقاط البداية الإيجابية للمجموعات.",
+        "activityEn": "Greet and Come In activity: 'A Great Classroom' team icebreaker."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "عادات صغيرة، روتينات واضحة، واستمرارية تصنع الانتماء العلمي: تنظيف المكان بعد الفسحة (Small habits, clear routines, consistency).",
+        "activityEn": "Small habits, clear routines, consistency, and a strong sense of belonging in the science lab."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "المواطنون الرقميون المسؤولون: صياغة ميثاق الصف الرقمي للاحترام والمسؤولية (IB PYP: Principled, Communicator).",
+        "activityEn": "Welcome as Responsible Digital Citizens: Create a class agreement for respect, responsibility and positive digital citizenship (IB PYP: Principled, Communicator)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "قواعد وتوقعات الصالة الرياضية: ألعاب الحركة والتحية البدنية (Essential PE Greetings & Movement Games).",
+        "activityEn": "PE Rules & Expectations: Essential PE Greetings, Movement & Greeting Games."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "الترحيب والتعارف: هدي النبي ﷺ في إفشاء السلام وطلاقة الوجه وحسن الاستقبال.",
+        "activityEn": "Islamic Greeting & Identity: The Prophetic Sunnah of spreading Salam with a bright smile."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية (١-٣): لعبة 'اسمي الجميل' (My Name): يتحرك الطلاب وعند إشارة المعلم يصافح زميله: 'مرحباً، أنا اسمي...'",
+    "juniorNoteEn": "Junior (Grades 1-3): 'My Name' game: Mix around, pair up, and greet: 'Hello, my name is...'"
+  },
+  {
+    "day": 2,
+    "week": 1,
+    "titleAr": "اليوم ٢: ترسيخ الروتينات والاصطفاف المنظم (Line Up & Team Routines)",
+    "titleEn": "Day 2: Line Up Routine, Songs & Class Efficiency",
+    "focusAr": "مراجعة اليوم الأول + إتقان الاصطفاف برقم القائمة، مؤقت الاصطفاف، وحفظ النظام في الممرات والمختبرات",
+    "focusEn": "Review Day 1 + Mastering line-up by number list, line-up songs, timers, and transitions",
+    "warmupType": "Line Up & Spot Errors",
+    "quickWarmup": {
+      "titleAr": "تحدي الاصطفاف الصامت في ٦٠ ثانية",
+      "titleEn": "60-Second Silent Line-Up Challenge",
+      "promptAr": "يقف الطلاب حسب ترتيب القائمة أو أرقامهم دون كلام؛ اختبار للتعاون والتركيز والوعي المكاني!",
+      "promptEn": "Students line up by roster number without speaking; testing silent coordination, teamwork, and spatial awareness!"
+    },
+    "newSkillsAr": [
+      "٤. أدب طالب العلم والاستماع اليقظ الفعال",
+      "٥. طهارة وسكينة دورات المياه وترشيد الماء"
+    ],
+    "newSkillsEn": [
+      "4. Attentive Listening & Scholar Posture",
+      "5. Restroom Etiquette & Water Conservation"
+    ],
+    "spiralReviewAr": [
+      "مراجعة اليوم ١: طرق الباب ثلاثاً، الحقيبة بجانب المقعد، والمشي المنضبط يميناً"
+    ],
+    "spiralReviewEn": [
+      "Day 1 Review: 3-knock entry, bag beside desk, disciplined right-side walking"
+    ],
+    "physicalRehearsalAr": "تدريب الاصطفاف بالرقم والتوجه للمختبر: إرجاع الكراسي، الوقوف بهدوء، المشي خلف الزميل، والأيدي بالجانب.",
+    "physicalRehearsalEn": "Line-up drill by number: push chair in, stand quietly, walk behind peer, hands by side, eyes forward.",
+    "activityAr": "لعبة 'لغز الاصطفاف البشري' (Human Puzzle): ترتب المجموعة نفسها تصاعدياً حسب الأرقام بأسرع وقت.",
+    "activityEn": "Human Puzzle Challenge: Teams assemble themselves in ascending numerical order swiftly and silently.",
+    "drillAr": "المعلم يستخدم مؤقت الـ ٤٥ ثانية للتحول من وضعية الجلوس إلى طابور مستقيم متراص.",
+    "drillEn": "Teacher uses a 45-second timer to transition from seated desk mode to an aligned, silent line.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "التدريب على الاصطفاف بقائمة الأرقام مع الأناشيد الإيقاعية والمؤقت (Practice lining up by number list, use song and timer).",
+        "activityEn": "Practice lining up by number list, use a song and timer to build automatic routine."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "نشاط الاصطفاف الترتيبي + بينجو الأرقام (Line Up + Bingo).",
+        "activityEn": "Ordinal Line Up + Number Bingo math connection."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "كيف نذهب لمختبر العلوم بانتظام، واستخدام بطاقات التعارف العلمية (How to go to science lab).",
+        "activityEn": "How to go to the science lab safely; get to know peers using science flash cards."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "تحدي اصطفاف الفريق التقني: كيف ترفع الروتينات من الإنتاجية (IB PYP: Thinker, Self-Management).",
+        "activityEn": "Line-Up and Team Efficiency Challenge: How routines improve productivity in tech labs (IB PYP: Thinker, Self-Management)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "إشارات البدنية القصيرة والطويلة، وتحديات الطابور السريعة والصامتة (PE Signals & Silent Line-Ups).",
+        "activityEn": "PE Short & Long whistle signals, line-up timer by number, and tactical line-up games."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "قوانين الصف والروتين اليومي: التزام النظام امتثالاً لقوله تعالى: ﴿وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَى﴾.",
+        "activityEn": "Classroom Laws & Order: Cooperation and mutual discipline as Islamic virtues."
+      }
+    },
+    "juniorNoteAr": "أنشودة الاصطفاف (Line Up Song): 'Eyes on the door, feet on the floor, hands by my side, and say no more!'",
+    "juniorNoteEn": "Line Up Song: 'Eyes on the door, feet on the floor, hands by my side, and say no more!'"
+  },
+  {
+    "day": 3,
+    "week": 1,
+    "titleAr": "اليوم ٣: الاستعداد للحصة وتنظيم مساحة التعلم (Get Ready For Class)",
+    "titleEn": "Day 3: Learning Readiness & Workspace Organization",
+    "focusAr": "مراجعة اليومين ١-٢ + تنظيم الدفاتر وتسمية الخزائن (Cubbies) وروتين الجاهزية (SIT → CHECK → PREPARE → LISTEN → START)",
+    "focusEn": "Review Days 1-2 + Materials readiness, copybook & cubby labeling, and readiness sequence",
+    "warmupType": "Desk Readiness Relay",
+    "quickWarmup": {
+      "titleAr": "تحدي فك الشفرة وتجهيز الطاولة في ٤٥ ثانية",
+      "titleEn": "Code Breaker Desk Readiness Challenge",
+      "promptAr": "المعلم يعرض رمز الأدوات المطلوبة (كتاب، دفتر، قلمان، مسطرة)؛ ترتب المجموعات طاولاتها في ٤٥ ثانية وتتخذ وضعية الاستماع!",
+      "promptEn": "Teacher flashes supply icons (book, copybook, 2 pens, ruler); squads organize desks in 45 seconds and enter listening posture!"
+    },
+    "newSkillsAr": [
+      "٦. حفظ النعمة وإماطة الأذى ونظافة الساحة بعد الفسحة",
+      "٧. نظام صلاة الظهر والاستعداد الصفي المنظم (١٢ خطوة)"
+    ],
+    "newSkillsEn": [
+      "6. Food Blessing, Leave No Trace & Clean Break",
+      "7. Classroom Prayer Routine & Reverence (12 Steps)"
+    ],
+    "spiralReviewAr": [
+      "مراجعة اليومين ١-٢: الطرق ثلاثاً، تنظيم الحقيبة، طابور الأرقام، والاستماع اليقظ"
+    ],
+    "spiralReviewEn": [
+      "Review Days 1–2: 3-knock entry, bag setup, numbered line-up, and scholar listening"
+    ],
+    "physicalRehearsalAr": "تطبيق روتين الجاهزية الخماسي: اجلس باعتدال (SIT) → تفقد أدواتك (CHECK) → جهز مكتبك (PREPARE) → أنصت (LISTEN) → ابدأ بإتقان (START).",
+    "physicalRehearsalEn": "Physical rehearsal of the 5-step readiness drill: SIT → CHECK → PREPARE → LISTEN → START.",
+    "activityAr": "نشاط تسمية الدفاتر والخزائن وتصنيف المستلزمات لضمان عدم ضياع الأدوات طوال العام.",
+    "activityEn": "Copybook and cubby organization workshop: Labeling binders and organizing supplies.",
+    "drillAr": "المعلم يغير المادة درامياً: 'انتهت الرياضيات والآن العلوم!' ويحسب سرعة تبديل الدفاتر دون فوضى.",
+    "drillEn": "Simulated lesson switch: 'Math is done, now Science!' Timing desk changeover cleanly.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "مناقشة المواد المطلوبة لكل حصة، وتسمية الدفاتر والخزائن بدقة (Discuss materials needed, label copies and cubbies).",
+        "activityEn": "Discuss materials needed for every lesson. Label copybooks and cubbies neatly."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "لعبة فك الشفرة الحسابية لتجهيز الأدوات ومراجعة ترتيب الدفاتر (Code breaker activity).",
+        "activityEn": "Get Ready for class + Code Breaker math activity."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "عرض الشرائح التعليمية: دفاتر منظمة، خزائن مرتبة، ومستلزمات جاهزة (Labeled books, neat binders, prepared supplies).",
+        "activityEn": "Visual slides: Labeled books, organized cubbies, neat binders, prepared supplies."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "روتين الإنتاجية الرقمية: ملفات منظمة، تسجيل دخول صحيح، والجاهزية للتعلم (IB PYP: Knowledgeable, Self-Management).",
+        "activityEn": "Digital Productivity Routine: Organized files, correct login, materials, focus and responsible device use (IB PYP: Knowledgeable, Self-Management)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "قواعد الأدوات الرياضية، لعبة إشارات المرور (Traffic Lights Game)، ولعبة المرآة (The Mirror Game).",
+        "activityEn": "Equipment rules, Traffic Lights game, and The Mirror Game for active focus."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "أدب الاستعداد للعلم: احترام الكتاب وتقدير أدوات المعرفة كأمانة ورزق من الله.",
+        "activityEn": "Etiquette of Knowledge Tools: Treating books and learning materials with respect and Amanah."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: روتين التنظيم الملون: علامة حمراء لكتاب القراءة، وزرقاء للرياضيات، وخضراء للعلوم.",
+    "juniorNoteEn": "Junior (Grades 1-3): Color-coded sticker routine: Red for ELA, Blue for Math, Green for Science."
+  },
+  {
+    "day": 4,
+    "week": 1,
+    "titleAr": "اليوم ٤: الانتقال السلس وضبط مستويات الصوت والرعاية الذاتية (Transitions & Voice Modes)",
+    "titleEn": "Day 4: Transitions, Voice Levels & Personal Safety",
+    "focusAr": "مراجعة الأيام ١-٣ + إتقان الانتقال بين الأنشطة، مستويات الصوت الأربعة، والمساحة الشخصية والنظافة",
+    "focusEn": "Review Days 1-3 + Mastering task transitions, the 4 voice levels, personal safety, and hygiene",
+    "warmupType": "Voice Level Switch & Music Freeze",
+    "quickWarmup": {
+      "titleAr": "لعبة تبديل مستويات الصوت وتجميد الحركة",
+      "titleEn": "Voice Level Switch & Movement Freeze",
+      "promptAr": "المعلم يرفع بطاقة المستوى: ٠ (صمت)، ١ (همس)، ٢ (طاولة)، ٣ (عرض). يتحول الصف لحظياً للمستوى المطلوب مع التوقف الفوري عند إشارة التجميد!",
+      "promptEn": "Teacher raises voice level card: 0 (Silence), 1 (Whisper), 2 (Table), 3 (Speaker). Class shifts immediately and freezes upon chime!"
+    },
+    "newSkillsAr": [
+      "٨. كف الأذى وسلامة اليدين والقدمين واحترام الممتلكات",
+      "٩. التعاون والإيثار والعمل كفريق واحد"
+    ],
+    "newSkillsEn": [
+      "8. Hands & Feet Safety & Respecting Property",
+      "9. Teamwork, Mutual Support & Fair Play"
+    ],
+    "spiralReviewAr": [
+      "مراجعة الأيام ١-٣: الاستئذان، تنظيم المقعد، طابور الأرقام، وجاهزية الدفاتر والخزائن"
+    ],
+    "spiralReviewEn": [
+      "Review Days 1–3: Door entry, desk setup, numbered line-up, and cubby organization"
+    ],
+    "physicalRehearsalAr": "تدريب التحول البدني: التوقف عن العمل (STOP) → تنظيف المساحة (CLEAN) → تنظيم الأدوات (ORGANIZE) → التأكد (CHECK) → الانتقال بسكينة (GO).",
+    "physicalRehearsalEn": "Physical transition drill: STOP → CLEAN → ORGANIZE → CHECK → GO.",
+    "activityAr": "لعبة 'لمس الألوان' (Color Touch Transition): الانتقال السلس بين الطاولات دون اصطدام أو رفع للصوت.",
+    "activityEn": "Color Touch Transition: Moving between learning stations safely and peacefully without bumping or shouting.",
+    "drillAr": "المعلم يستخدم مؤقت التحدي التنازلي (Countdown Challenge) للانتقال من عمل ثنائي إلى شرح جماعي في ٣٠ ثانية.",
+    "drillEn": "30-Second Countdown Challenge to switch from partner discussion to whole-class focus.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "تمثيل أدوار إجراءات الانتقال السليم وتحمل مسؤولية الأدوات الشخصية (Role play proper transition procedures).",
+        "activityEn": "Role play proper transition procedures for moving around and being responsible for one's belongings."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "إتقان الانتقال بين حل المسائل الفردية والشرح التفاعلي (Transition slides 1-5).",
+        "activityEn": "Transition practice between individual problem solving and interactive slides."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "التدريب على نمط الصوت المناسب وتمثيل الأدوار في سيناريوهات المختبر (Practice voice mode & role models).",
+        "activityEn": "Practice voice mode & role modeling with different science lab scenarios."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "إدارة التحولات الرقمية: التمييز بين السلوك المنتج والسلوك المشتت أثناء تبديل المهام (IB PYP: Thinker, Principled).",
+        "activityEn": "Managing Digital Transitions: Identify productive versus distracting behavior when switching tasks (IB PYP: Thinker, Principled)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "المساحة الشخصية والسلامة البدنية، لعبة تجميد الحركة (Music Freeze)، وتحدي العد التنازلي.",
+        "activityEn": "Personal Space & Safety, Rules of transition, Music Freeze game, Countdown Challenge, Color Touch Transition."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "السكينة والوقار في الحركة، وآداب خفض الصوت امتثالاً للتوجيه القرآني: ﴿وَاغْضُضْ مِن صَوْتِكَ﴾.",
+        "activityEn": "Islamic Poise & Voice Control: Lowering voice and moving with grace and Sakinah."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: تدريب النظافة الذاتية: اغسل → جفف → تخلص من المنديل في السلة → نظف مساحتك.",
+    "juniorNoteEn": "Junior (Grades 1-3): Self-care routine: Wash → Dry → Trash tissue → Clean your space."
+  },
+  {
+    "day": 5,
+    "week": 1,
+    "titleAr": "اليوم ٥: الخروج المنظم من الصف والإنصات اليقظ (Leaving the Class & Orderly Exit)",
+    "titleEn": "Day 5: Orderly Dismissal, Pushing Chairs & Attentive Listening",
+    "focusAr": "مراجعة مهارات الأسبوع الأول (١-٥) + إتقان إجراءات مغادرة الفصل، إرجاع المقاعد، وحفظ البيانات",
+    "focusEn": "Week 1 Cumulative Review (1–5) + Orderly dismissal, tucking in chairs, and digital logout",
+    "warmupType": "Rapid Dismissal Simulation",
+    "quickWarmup": {
+      "titleAr": "محاكاة مغادرة الفصل النموذجية في ٦٠ ثانية",
+      "titleEn": "60-Second Model Classroom Exit Simulation",
+      "promptAr": "عند قرع الجرس: يغلق الطلاب الدفاتر، يدخلون الكراسي أسفل الطاولات، يتفقدون نظافة الأرضية، ويصطفون بهدوء!",
+      "promptEn": "Upon chime: Students close books, push chairs in, check floor cleanliness, and line up peacefully!"
+    },
+    "newSkillsAr": [
+      "١٠. الاستعداد للانصراف وحفظ الأمانة ومغادرة الصف بنظام"
+    ],
+    "newSkillsEn": [
+      "10. Orderly Dismissal, Amanah & Clean Exit"
+    ],
+    "spiralReviewAr": [
+      "مراجعة شاملة للأسبوع الأول: الاستئذان، الحقيبة، الاصطفاف، الاستعداد، الانتقال، والنظافة"
+    ],
+    "spiralReviewEn": [
+      "Comprehensive Week 1 Review: Door entry, bag setup, line-up, readiness, transitions, and hygiene"
+    ],
+    "physicalRehearsalAr": "تدريب الخروج المنظم: ادفع الكرسي (Push Chair) → تفقد المساحة (Check Area) → قف بهدوء (Stand) → توجه للطابور (Walk to Line).",
+    "physicalRehearsalEn": "Physical exit drill: Push in chair → Check area → Stand quietly → Walk to line.",
+    "activityAr": "جولة المختبرات وقوانين السلامة: جولة في مختبر العلوم وحاسب المدرسة للتطبيق العملي لإجراءات الخروج.",
+    "activityEn": "Lab Tour & Safety Rules: Science lab and ICT lab tour practicing orderly departure.",
+    "drillAr": "إشارة التوقف والإنصات (Stop Signal & Listening): المعلم يرفع يده أو يطلق صفارة؛ يتجمد الصف وينصت خلال ثانيتين.",
+    "drillEn": "Stop Signal & Listening drill: Freezing and paying undivided attention within 2 seconds of the teacher signal.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "التدريب على حركات مغادرة الصف: دفع الكراسي، ترتيب الطاولات، والتأكد من عدم ترك متعلقات (Practice actions for leaving).",
+        "activityEn": "Practice actions for leaving classroom: pushing chairs in, making sure desks are tidy and lining up."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "إجراءات مغادرة الحصة وحساب الوقت المستغرق لتنظيم الطاولات (Leaving class slides 5-10).",
+        "activityEn": "Leaving the class routines and measuring time needed to pack up."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "تعليمات مغادرة مختبر العلوم: تنظيف طاولة التجارب، إرجاع الأدوات، وإعادة المقاعد (Lab tour & instructions).",
+        "activityEn": "Leaving the class: Science Lab tour, lab safety instructions, and cleaning after class."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "المسؤولية الرقمية قبل المغادرة: احفظ العمل → أغلق البرامج → سجل الخروج → ادفع الكرسي (IB PYP: Responsible, Principled).",
+        "activityEn": "Digital Responsibility Before Leaving: Save → Close → Log Out → Push Chair → Check Area (IB PYP: Responsible, Principled)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "إشارة التوقف والاستماع، وروتينات مغادرة الصالة الرياضية بانتظام (Stop Signal & Leaving Gym Routines).",
+        "activityEn": "Stop Signal & Listening; Leaving PE Routines for the classroom & Gym."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "كيفية الخروج من الصف: أدب المشي دون تدافع ودعاء الخروج من المكان وبركة النظام.",
+        "activityEn": "Islamic Manners of Leaving: Orderly dismissal without pushing and reciting dismissal Dua."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: نموذج (أنا أفعل - نحن نفعل - أنت تفعل): المس رأسك، قف، ادفع كرسيك، وقف خلفه بهدوء.",
+    "juniorNoteEn": "Junior (Grades 1-3): 'I do - We do - You do': Touch your head, stand up, push chair in, stand behind it."
+  },
+  {
+    "day": 6,
+    "week": 2,
+    "titleAr": "اليوم ٦: ترتيب الحقيبة وجدولة الواجبات ومسؤولية البداية (Packing the Bag & STEM)",
+    "titleEn": "Day 6: Bag Organization, Homework Tracking & Daily Planning",
+    "focusAr": "تدشين الأسبوع الثاني + إتقان حزم الحقيبة حسب الجدول المدرسي، والفرز بين المهم وغير الضروري",
+    "focusEn": "Week 2 Launch + Packing bags according to daily schedule, homework planning, and STEM sorting",
+    "warmupType": "Bag Audit & Sorting Quest",
+    "quickWarmup": {
+      "titleAr": "تحدي فرز الحقيبة: مهم مقابل غير ضروري",
+      "titleEn": "Bag Audit: Essential vs Not Needed Challenge",
+      "promptAr": "تفتح المجموعات حقائبها وتفرز: الكتب المطلوبة لليوم فقط، علبة الأقلام، والماء؛ وإزالة أي أوراق أو ألعاب غير ضرورية لتقليل الوزن!",
+      "promptEn": "Squads inspect bags: Only today's scheduled books, pencil case, and water bottle stay; clearing clutter to protect back health!"
+    },
+    "newSkillsAr": [
+      "تطوير المهارة ٢: فحص جدول الواجبات اليومي وتنظيم مساحات التخزين",
+      "تطوير المهارة ٩: الروح الرياضية والتعاون في المهام المشتركة"
+    ],
+    "newSkillsEn": [
+      "Advanced Skill 2: Daily homework schedule tracking and locker organization",
+      "Advanced Skill 9: Teamwork, Fair Play and cooperative problem solving"
+    ],
+    "spiralReviewAr": [
+      "مراجعة تراكمية للأسبوع الأول: طرق الباب، الاصطفاف، مستويات الصوت، وإجراءات الخروج"
+    ],
+    "spiralReviewEn": [
+      "Cumulative Week 1 Review: Door entry, numbered line-up, voice modes, and dismissal"
+    ],
+    "physicalRehearsalAr": "تطبيق حزم الحقيبة الصحيح: الكتب الثقيلة بمحاذاة الظهر، الزمزمية في الجيب الخارجي، ووضع الحقيبة ملاصقة للمقعد.",
+    "physicalRehearsalEn": "Physical bag packing drill: Heavy books against the back, water in side pouch, bag tucked beside desk.",
+    "activityAr": "نشاط حزم الحقيبة مع نشاط STEM الحسابي: قياس وزن الحقائب ومطابقتها مع الجدول الدراسي لليوم.",
+    "activityEn": "Packing the Bag + STEM activity: Measuring bag weight and auditing against daily timetable.",
+    "drillAr": "فحص جدول الواجبات: كل طالب يفتح مذكرته ويتأكد من تسجيل المهام المطلوبة قبل إغلاق الحقيبة.",
+    "drillEn": "Homework chart audit: Every student verifies daily assignments are logged before zipping bag.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "ممارسة ومناقشة أهمية فحص جدول الواجبات وحزم الحقيبة حسب الاحتياج اليومي (Practice checking homework chart).",
+        "activityEn": "Practice and discuss importance of checking homework chart and packing bags according to daily needs."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "نشاط ترتيب الحقيبة مع مهمة STEM حسابية لتقدير الأحجام والأوزان (Packing Bag + STEM Activity).",
+        "activityEn": "Packing the Bag + STEM Activity calculating optimal weight and schedule fit."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "حزم الحقائب وتعليمات المختبر والارتباط بالصحة الجسدية وسلامة الظهر (Packing bags & Lab instructions).",
+        "activityEn": "Packing the bags, lab tour instructions, and ergonomics of back health."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "التنظيم الرقمي والمسؤولية الشخصية: استكشاف هياكل المجلدات والتسمية الواضحة للملفات (IB PYP: Self-Management, Thinker).",
+        "activityEn": "Digital Organization and Personal Responsibility: Explore folder structures and meaningful file naming (IB PYP: Self-Management, Thinker)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "العمل الجماعي واللعب النظيف، وتنظيم الحقائب الرياضية (Teamwork & Fair Play).",
+        "activityEn": "Teamwork & Fair Play: Cooperating in group challenges and maintaining gym bag order."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "ترتيب الحقيبة والاستعداد للانصراف: حفظ الأدوات وحسن التدبير وعدم الإهمال.",
+        "activityEn": "Orderly Organization in Islam: Good stewardship, avoiding wastefulness, and valuing supplies."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: أغنية الحقيبة المنظمة: 'كتبي في الداخل، زمزميتي في الجانب، ومقعدي نظيف ومرتب!'",
+    "juniorNoteEn": "Junior (Grades 1-3): Neat Bag Song: 'Books inside, water on the side, ready for school with joy and pride!'"
+  },
+  {
+    "day": 7,
+    "week": 2,
+    "titleAr": "اليوم ٧: المحافظة على ممتلكات المدرسة والأمانة (Respecting School Property & Amanah)",
+    "titleEn": "Day 7: Respecting School Property, Devices & Amanah",
+    "focusAr": "مراجعة الأيام ١-٦ + احترام المقاعد، الجدران، الأجهزة التقنية، واعتبار ممتلكات المدرسة أمانة شرعية",
+    "focusEn": "Review Days 1-6 + Respecting desks, walls, technology, and treating school property as Amanah",
+    "warmupType": "Maze & Touch-Free Challenge",
+    "quickWarmup": {
+      "titleAr": "لعبة المتاهة بدون لمس الجدران",
+      "titleEn": "Maze Game: Navigate Without Touching",
+      "promptAr": "تحدي حركي: يتحرك الطلاب في مسار مخصص في الفصل دون لمس الطاولات أو الجدران بأيديهم أو حقائبهم؛ تعزيزاً للوعي الحركي واحترام المكان!",
+      "promptEn": "Kinesthetic challenge: Students navigate an indoor classroom path without touching walls or desks with hands or bags!"
+    },
+    "newSkillsAr": [
+      "تطوير المهارة ٨: حماية ممتلكات المدرسة والمقاعد من الخدش أو الكتابة",
+      "تطوير المهارة ٥: المحافظة على مرافق المدرسة ودورات المياه كأمانة"
+    ],
+    "newSkillsEn": [
+      "Advanced Skill 8: Protecting school desks and walls from marks or damage",
+      "Advanced Skill 5: Maintaining school facilities and restrooms as sacred trust"
+    ],
+    "spiralReviewAr": [
+      "مراجعة الأيام ١-٦: الطرق ثلاثاً، طابور الأرقام، تجهيز الطاولة، الانتقال، وترتيب الحقيبة"
+    ],
+    "spiralReviewEn": [
+      "Review Days 1–6: Door knocking, line-up, desk prep, transitions, and bag packing"
+    ],
+    "physicalRehearsalAr": "محاكاة دور أبطال حماية الممتلكات: فحص الطاولة والتأكد من خلوها من أي آثار حبر، وترك المقعد نظيفاً للزميل القادم.",
+    "physicalRehearsalEn": "Property Care Superheroes rehearsal: Inspecting desk surface, ensuring zero pencil marks, and leaving it pristine.",
+    "activityAr": "لعبة 'ارسم في المتاهة دون لمسها' (Draw on the maze without touching it): نشاط العلوم للتحكم الحركي الدقيق.",
+    "activityEn": "Science Game: Draw on the maze without touching the boundaries to build spatial self-control.",
+    "drillAr": "فحص الطاولات والأجهزة: المعلم يدرب الطلاب على الإبلاغ الفوري عن أي خلل بدلاً من تجاهله أو العبث به.",
+    "drillEn": "Desk and device inspection: Training students to report any pre-existing flaw immediately (Amanah).",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "تمثيل أدوار احترام ممتلكات المدرسة والتنظيف بعد الفسحة (Role play respecting school property).",
+        "activityEn": "Role play respecting school property and cleaning after breaks; writing courteous reminders."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "مراجعة قواعد الحفاظ على الممتلكات والشرائح التفاعلية (Respecting School Property slides 10-15).",
+        "activityEn": "Respecting School Property slides 10-15; calculating the value of preserving resources."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "لعبة المتاهة: ارسم على المتاهة دون لمسها، وتطبيق قواعد عدم ترك أثر (Draw on maze without touching).",
+        "activityEn": "Game: Draw on the maze without touching it; Leave No Trace scientific ethic."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "احترام التكنولوجيا والأجهزة: عدم مسح أعمال الآخرين، وعدم استخدام حسابات غير مصرح بها، والأمانة (IB PYP: Principled, Caring).",
+        "activityEn": "Respecting Technology and Digital Property: Do not delete others' work or misuse accounts; connect to Amanah (IB PYP: Principled, Caring)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "الانتقال السلس في الصالة الرياضية واحترام الأدوات والملاعب والكرات (PE Transitions & Equipment Care).",
+        "activityEn": "Gym transitions and handling sports equipment with care and stewardship."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "المحافظة على ممتلكات المدرسة كأمانة شرعية: ﴿إِنَّ اللَّهَ يَأْمُرُكُمْ أَن تُؤَدُّوا الْأَمَانَاتِ إِلَىٰ أَهْلِهَا﴾.",
+        "activityEn": "School Property as Amanah: The sacred Islamic obligation of preserving public and shared wealth."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: أبطال الحفاظ على الصف: 'طاولتي بيتي الثاني، أحافظ عليها نظيفة وجميلة!'",
+    "juniorNoteEn": "Junior (Grades 1-3): Classroom Care Heroes: 'My desk is my learning home; I keep it clean and bright!'"
+  },
+  {
+    "day": 8,
+    "week": 2,
+    "titleAr": "اليوم ٨: روتين صلاة الظهر المدرسي والسكينة النبوية (Classroom Prayer Routine & Reverence)",
+    "titleEn": "Day 8: JPIS Classroom Prayer Routine & Hallway Sakinah",
+    "focusAr": "مراجعة الأيام ١-٧ + التطبيق العملي لروتين الصلاة الصفي (١٢ خطوة): وضع الأحذية تحت المقاعد داخل الفصل والسير بوقار",
+    "focusEn": "Review Days 1-7 + Practicing the 12-step classroom prayer routine: shoes placed under desks inside class and Sakinah walk",
+    "warmupType": "Prayer Routine Sequence Drill",
+    "quickWarmup": {
+      "titleAr": "تحدي ترتيب خطوات روتين الصلاة الصفي في ٦٠ ثانية",
+      "titleEn": "60-Second Classroom Prayer Sequence Challenge",
+      "promptAr": "ترتب المجموعات بطاقات روتين الصلاة الاثنتي عشرة بالترتيب الصحيح: إيقاف العمل → حفظ الكتب → تفقد الوضوء → وضع الأحذية تحت المقاعد داخل الفصل → المشي بسكينة!",
+      "promptEn": "Squads put the 12 prayer routine cards in order: Stop work → Stow books → Wudu check → Shoes under desks inside class → Silent Sakinah walk!"
+    },
+    "newSkillsAr": [
+      "تطوير المهارة ٧: إتقان روتين صلاة الظهر المدرسي كاملاً دون استعجال أو فوضى",
+      "تطوير المهارة ٣: سكينة الممرات والتزام الهدوء أثناء التوجه للمصلى والعودة"
+    ],
+    "newSkillsEn": [
+      "Advanced Skill 7: Full mastery of the 12-step classroom prayer routine",
+      "Advanced Skill 3: Hallway Sakinah during movement to and from the Musalla"
+    ],
+    "spiralReviewAr": [
+      "مراجعة الأيام ١-٧: طرق الباب، الاصطفاف، الجاهزية، الانتقال، الخروج، الحقيبة، وحفظ الممتلكات"
+    ],
+    "spiralReviewEn": [
+      "Review Days 1–7: Door entry, line-up, readiness, transitions, exit, bags, and property care"
+    ],
+    "physicalRehearsalAr": "محاكاة واقعية داخل الفصل: خلع الحذاء بهدوء، وضعه بانتظام تحت المقعد أو بمحاذاة الجدار، الاصطفاف بالجورب النظيف، والسير بسكينة للمصلى، ثم العودة للفصل لارتدائه.",
+    "physicalRehearsalEn": "Classroom physical rehearsal: Place shoes neatly under desks inside class, line up in clean socks, walk with Sakinah to Musalla, and return to put shoes on.",
+    "activityAr": "لعبة 'البحث عن الكنز العلمي والأخلاقي' (Scavenger Hunt): نشاط العلوم للربط بين النظام في الأدوات والنظام في الصلاة.",
+    "activityEn": "Scavenger Hunt Game: Science tools and orderly placement mirroring reverent prayer routine.",
+    "drillAr": "المعلم يراقب المشي بالسكينة في الممرات تطبيقاً لحديث: «إِذَا أُقِيمَتِ الصَّلَاةُ فَلَا تَأْتُوهَا تَسْعَوْنَ، وَأْتُوهَا تَمْشُونَ، وَعَلَيْكُمُ السَّكِينَةُ».",
+    "drillEn": "Hallway Sakinah observation: Ensuring zero running and complete calm during prayer movement.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "مناقشة الإجراءات المتبعة لوقت الصلاة وكتابة مذكرات السكينة (Discuss procedure to be followed for prayer break).",
+        "activityEn": "Discuss procedure to be followed for prayer break; reflecting on reverence and mindfulness."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "تنظيم الوقت لحصة الصلاة والشرائح التفاعلية (Prayer Break slides 15-20).",
+        "activityEn": "Prayer break scheduling slides 15-20; timing transitions to prayer without rushing."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "لعبة البحث عن الأدوات العلمية والتنظيم الدقيق المشابه لترتيب الصفوف في الصلاة (Scavenger Hunt: Science tools).",
+        "activityEn": "Scavenger Hunt Game: Science Tools and connecting physical precision to prayer rows."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "إدارة الوقت والتقنية والصلاة: إيقاف الأجهزة وحفظ العمل بهدوء وتقديم الصلاة على كل مشتت (IB PYP: Balanced, Reflective).",
+        "activityEn": "Technology, Prayer and Time Management: Create a balanced schedule that prioritizes prayer over screen time (IB PYP: Balanced, Reflective)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "القواعد الذهبية الأربع للروح الرياضية وضبط النفس وسكينة الجسد (The 4 Golden Rules of Sportsmanship).",
+        "activityEn": "The 4 Golden Rules of Sportsmanship: Self-control, bodily composure, and respectful conduct."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "روتين وقت الصلاة: فضل إسباغ الوضوء، تسوية الصفوف، الخشوع في الركوع والسجود، وأذكار ما بعد الصلاة.",
+        "activityEn": "Prayer Etiquette & Khushu': Complete wudu, straightening prayer rows, serenity in prayer, and post-prayer Adhkar."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: تدريب خطوات الصلاة: 'حذائي تحت مقعدي، جوربي نظيف، وأمشي بهدوء كالفراشة إلى المصلى.'",
+    "juniorNoteEn": "Junior (Grades 1-3): 'Shoes under my desk, socks clean and white, walking to prayer with peace and delight.'"
+  },
+  {
+    "day": 9,
+    "week": 2,
+    "titleAr": "اليوم ٩: نظافة الساحة والصفوف بعد الفسحة (Cleaning After Breaks & Leave No Trace)",
+    "titleEn": "Day 9: Playground Cleanliness, Leave No Trace & Clean Breaks",
+    "focusAr": "مراجعة الأيام ١-٨ + إتقان تنظيف الفصل والساحة بعد الفسحة بمؤقت تنازلي، وتطبيق خطوات الطريقة العلمية",
+    "focusEn": "Review Days 1-8 + Timed clean-up after breaks, playground cleanliness, and scientific inspection",
+    "warmupType": "Timed Clean-Up Blitz",
+    "quickWarmup": {
+      "titleAr": "تحدي تنظيف الساحة والفصل في دقيقتين بمؤقت",
+      "titleEn": "2-Minute Clean-Up Challenge on a Timer",
+      "promptAr": "المعلم يطلق مؤقت الدقيقتين: تتنافس المجموعات لجمع أي قصاصات ورق، مسح الطاولات، والتأكد من عدم ترك أي أثر (Leave No Trace)!",
+      "promptEn": "Teacher starts 2-minute timer: Squads clear floor scraps, wipe tables, and verify their station leaves zero trace!"
+    },
+    "newSkillsAr": [
+      "تطوير المهارة ٦: إماطة الأذى عن ممرات المدرسة وساحات الفسحة وحفظ بقايا الطعام",
+      "تطوير المهارة ٨: التعاون في إبقاء البيئة المدرسية نظيفة ومبهجة"
+    ],
+    "newSkillsEn": [
+      "Advanced Skill 6: Removing litter from playgrounds and preserving food blessings",
+      "Advanced Skill 8: Cooperative classroom beautification and cleanliness"
+    ],
+    "spiralReviewAr": [
+      "مراجعة الأيام ١-٨: الاستئذان، الاصطفاف، الجاهزية، الانتقال، الخروج، الحقيبة، الممتلكات، والصلاة"
+    ],
+    "spiralReviewEn": [
+      "Review Days 1–8: Door entry, line-up, readiness, transitions, exit, bags, property, and prayer"
+    ],
+    "physicalRehearsalAr": "تدريب 'قبل وبعد الفسحة': قبل الفسحة (توقف → نظف → رتب → تأكد) | بعد الفسحة (عد بهدوء → رتب → اجلس باعتدال → أنصت).",
+    "physicalRehearsalEn": "Physical Break Routine: Before Break (STOP → CLEAN → ORGANIZE → CHECK) | After Break (RETURN → ORGANIZE → SIT → LISTEN).",
+    "activityAr": "خطوات المنهج العلمي ونشيد العلوم: ربط دقة الملاحظة العلمية برصد نظافة البيئة الصفية والمدرسية.",
+    "activityEn": "Scientific Method Steps and song: Connecting scientific observation to maintaining school environment.",
+    "drillAr": "تفتيش محطات العمل الرقمية والمكتبية: فحص الفأرة ولوحة المفاتيح والكرسي والأرضية بموجب قائمة التحقق.",
+    "drillEn": "Workstation inspection: Checking keyboard, mouse, chair, cables, desk and floor against clean checklist.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "ممارسة تنظيف المكان بعد الفسحة بالمؤقت وكتابة شعارات النظافة (Practice cleaning after break on a timer).",
+        "activityEn": "Practice cleaning after break on a timer; composing environmental pledges."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "تحدي تنظيف الساحة والصفوف والشرائح التفاعلية (Cleaning after Breaks slides 20-25).",
+        "activityEn": "Cleaning after Breaks slides 20-25; graphing waste reduction and clean-up speed."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "خطوات الطريقة العلمية وأنشودتها: الملاحظة، الفرضية، والتجربة لحماية البيئة الصفية من التلوث.",
+        "activityEn": "Scientific Method Steps and song: Observing, hypothesizing, and acting to protect classroom ecology."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "تحدي مساحة العمل الرقمية النظيفة: تنظيف محطة العمل المادية والمكتب والملفات غير الضرورية (IB PYP: Caring, Self-Management).",
+        "activityEn": "Clean Digital Workspace Challenge: Organize physical workstation, desktop and files (IB PYP: Caring, Self-Management)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "أركان المسؤولية في التربية البدنية وتنظيف الصالة الرياضية وإرجاع الكرات (The Pillars of PE Responsibility).",
+        "activityEn": "The Pillars of PE Responsibility: Packing away equipment and keeping courts litter-free."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "المحافظة على نظافة الساحة بعد الفسحة: «إِمَاطَةُ الْأَذَى عَنِ الطَّرِيقِ صَدَقَةٌ» وحفظ النعمة وشكرها.",
+        "activityEn": "Cleanliness & Food Gratitude: Removing harm from paths as Sadaqah and revering food blessings."
+      }
+    },
+    "juniorNoteAr": "أنشودة الفسحة (Break Time Song): 'Line up, hands up, clap clap clap, hands to the back, head to the snack!'",
+    "juniorNoteEn": "Break Time Song: 'Line up, hands up, clap clap clap, hands to the back, head to the snack!'"
+  },
+  {
+    "day": 10,
+    "week": 2,
+    "titleAr": "اليوم ١٠: طرق التعبير الإيجابي ومهرجان إثبات الإتقان (Ways of Expression & Show Mastery)",
+    "titleEn": "Day 10: Respectful Expression, I-Statements & Mastery Festival",
+    "focusAr": "تتويج مهارات الأسبوعين التمهيديين (١-١٠) + مخطط التعبير بصيغة 'أنا' (I-Statements) وتحدي إثبات الإتقان الشامل",
+    "focusEn": "Cumulative 2-Week Mastery Festival (1–10) + Respectful I-Statement Chart, Apple Experiment & Show What You Know",
+    "warmupType": "I-Statement Communication Simulator",
+    "quickWarmup": {
+      "titleAr": "تحدي تحويل الرسائل الغاضبة إلى عبارات 'أنا' المحترمة",
+      "titleEn": "Transform Rude Comments to Respectful I-Statements",
+      "promptAr": "المعلم يعرض موقف خلاف: يحول الطلاب العبارة الهجومية إلى: 'أنا أشعر بـ... عندما... لأنني أحتاج إلى... وأقترح أن...'.",
+      "promptEn": "Teacher presents a conflict: Students rewrite an attack into: 'I feel [feeling] when [action] because [need]. I propose [solution].'"
+    },
+    "newSkillsAr": [
+      "تتويج كافة مهارات الحياة العشر ومنظومة القيم الخمس",
+      "التوقيع الرسمي على الميثاق الصفي وتوزيع أوسمة الإتقان"
+    ],
+    "newSkillsEn": [
+      "Culmination of all 10 Life Skills & 5 Core Values",
+      "Official signing of Classroom Agreement Charter & Mastery Awards"
+    ],
+    "spiralReviewAr": [
+      "المراجعة التراكمية الكبرى لكافة مهارات الأسبوعين التمهيديين (الأيام ١ إلى ١٠)"
+    ],
+    "spiralReviewEn": [
+      "Grand Cumulative Spiral Review of all 10 Orientation Days across all subjects"
+    ],
+    "physicalRehearsalAr": "العرض الشامل لإثبات الإتقان: يمثل الطلاب محطات المهارات العشر عملياً كفريق واحد ويوثقون توقيع الميثاق الذهبي.",
+    "physicalRehearsalEn": "Grand Whole-Class Mastery Showcase: Demonstrating the 10 routines in a live relay and signing the Golden Charter.",
+    "activityAr": "مخطط عبارات 'أنا' (I-Statement Chart) وتجربة التفاحة العلمية (The Apple Science Experiment) التي تبين أثر الكلمات الجارحة والكلمات الطيبة.",
+    "activityEn": "The I-Statement Chart & The Apple Science Experiment showing the deep impact of kind vs bruised words.",
+    "drillAr": "تحدي التربية البدنية والمهارات: 'أثبت ما تعلمته' (PE Challenge – Show What You Know) في محطات حركية سريعة.",
+    "drillEn": "PE Challenge: 'Show What You Know' obstacle course demonstrating self-control, teamwork, and agility.",
+    "subjects": {
+      "ela": {
+        "nameAr": "اللغة الإنجليزية (ELA)",
+        "activityAr": "طرق التعبير وكيفية التواصل الفعال باستخدام مخطط 'أنا' (Ways of expression; use the 'I statement chart').",
+        "activityEn": "Ways of expression, how to effectively communicate. Use the 'I statement chart'."
+      },
+      "math": {
+        "nameAr": "الرياضيات (Math)",
+        "activityAr": "طرق التعبير الرياضي والشرائح التفاعلية الختامية (Ways of Expression slides 25-30).",
+        "activityEn": "Ways of Expression slides 25-30: Communicating mathematical thinking courteously."
+      },
+      "science": {
+        "nameAr": "العلوم (Science)",
+        "activityAr": "مخطط التعبير بصيغة 'أنا' وتجربة التفاحة العلمية (The Apple Science Experiment) عن أثر الكلمات الطيبة.",
+        "activityEn": "I statement chart & The Apple Science Experiment proving words impact living things."
+      },
+      "ict": {
+        "nameAr": "الحاسب (ICT)",
+        "activityAr": "التعبير المسؤول عبر الإنترنت: إعادة كتابة الرسائل غير اللائقة إلى تعليقات محترمة وبناءة (IB PYP: Communicator, Open-Minded).",
+        "activityEn": "Responsible Expression Online: Rewrite inappropriate messages into respectful comments and responses (IB PYP: Communicator, Open-Minded)."
+      },
+      "pe": {
+        "nameAr": "التربية البدنية (PE)",
+        "activityAr": "تحدي التربية البدنية الختامي: أثبت ما تعلمته من مهارات وانضباط وروح رياضية (PE Challenge – Show What You Know).",
+        "activityEn": "PE Challenge – Show What You Know: Multi-station skills, sportsmanship, and physical mastery."
+      },
+      "islamic": {
+        "nameAr": "التربية الإسلامية (Islamic)",
+        "activityAr": "طرق التعبير عن المشاعر والاحتياجات بأدب وإحسان: ﴿وَقُولُوا لِلنَّاسِ حُسْنًا﴾ والكلمة الطيبة صدقة.",
+        "activityEn": "Islamic Manners of Speech: 'And speak to people good words' (Quran 2:83) & Kind words as Sadaqah."
+      }
+    },
+    "juniorNoteAr": "للصفوف الأولية: عجلة المشاعر والكلمات الطيبة: 'عندما أغضب، أتنفس بعمق وأتحدث بهدوء مع معلمي.'",
+    "juniorNoteEn": "Junior (Grades 1-3): Feelings & Kind Words Wheel: 'When upset, I take a deep breath and speak gently.'"
+  }
+]

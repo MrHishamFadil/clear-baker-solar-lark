@@ -1,0 +1,17 @@
+[
+  {
+    "id": "cp_1",
+    "promptAr": "ما الروتين الذي ساعد فصلنا اليوم على أن يكون أكثر سكينة وإنجازاً؟",
+    "promptEn": "Which routine contributed most to our calm and productive learning today?"
+  },
+  {
+    "id": "cp_2",
+    "promptAr": "كيف طبقت قيمة اليوم (الرحمة / الشجاعة / الاحترام / المسؤولية / الصدق) في تعاملك مع زملائك؟",
+    "promptEn": "How did you personally live today's core value with your peers?"
+  },
+  {
+    "id": "cp_3",
+    "promptAr": "شيء واحد سألتزم بتحسينه وإتقانه غداً بإذن الله في صفنا:",
+    "promptEn": "One specific routine I commit to mastering tomorrow with excellence:"
+  }
+]

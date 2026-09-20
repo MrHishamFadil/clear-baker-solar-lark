@@ -1,0 +1,144 @@
+{
+  "stages": [
+    {
+      "stage": 1,
+      "level": 1,
+      "nameAr": "بذرة الإحسان",
+      "nameEn": "Seed of Excellence",
+      "target": 100,
+      "minScore": 0,
+      "maxScore": 100,
+      "icon": "fa-seedling",
+      "descAr": "بداية غرس العادات اليومية وتأسيس بيئة التعلم الآمنة",
+      "descEn": "Planting daily habits and establishing safe community foundations"
+    },
+    {
+      "stage": 2,
+      "level": 2,
+      "nameAr": "غرس القيم",
+      "nameEn": "Nurturing the Values",
+      "target": 250,
+      "minScore": 101,
+      "maxScore": 250,
+      "icon": "fa-tree",
+      "descAr": "نمو السلوكيات النبيلة وتطبيقها بتوجيه المعلم",
+      "descEn": "Practicing noble routines with teacher guidance and active peer support"
+    },
+    {
+      "stage": 3,
+      "level": 3,
+      "nameAr": "فرسان الانضباط",
+      "nameEn": "Knights of Discipline",
+      "target": 450,
+      "minScore": 251,
+      "maxScore": 450,
+      "icon": "fa-shield-halved",
+      "descAr": "الالتزام الذاتي بالروتينات في الفصل والممرات والمصلى",
+      "descEn": "Self-directed mastery across classrooms, hallways, and prayer routines"
+    },
+    {
+      "stage": 4,
+      "level": 4,
+      "nameAr": "قادة السلوك",
+      "nameEn": "Behavior Leaders",
+      "target": 700,
+      "minScore": 451,
+      "maxScore": 700,
+      "icon": "fa-crown",
+      "descAr": "مساعدة الزملاء وتقديم القدوة الحسنة للجميع",
+      "descEn": "Inspiring peers and demonstrating exemplary role modeling for younger grades"
+    },
+    {
+      "stage": 5,
+      "level": 5,
+      "nameAr": "منارة الإحسان",
+      "nameEn": "Beacon of Ihsan",
+      "target": 1000,
+      "minScore": 701,
+      "maxScore": 1000,
+      "icon": "fa-sun",
+      "descAr": "الوصول للإتقان الشامل امتثالاً للهدي النبوي الشريف",
+      "descEn": "Achieving comprehensive Ihsan mastery in all words, actions, and worship"
+    }
+  ],
+  "streaks": {
+    "titleAr": "سلاسل الالتزام السلوكي للصف (Class Streaks)",
+    "titleEn": "Classroom Behavioral Streaks",
+    "items": [
+      {
+        "id": "morning_calm",
+        "titleAr": "سلسلة الحضور الهادئ والاستئذان برفق",
+        "titleEn": "Morning Calm & Polite Entry Streak",
+        "days": 5,
+        "targetDays": 5,
+        "icon": "fa-door-open"
+      },
+      {
+        "id": "clean_space",
+        "titleAr": "سلسلة ترك المكان أنظف مما كان (Leave No Trace)",
+        "titleEn": "Leave No Trace Cleanliness Streak",
+        "days": 7,
+        "targetDays": 7,
+        "icon": "fa-broom"
+      },
+      {
+        "id": "prayer_sakinah",
+        "titleAr": "سلسلة سكينة صلاة الظهر وتنظيم الأحذية تحت المقاعد",
+        "titleEn": "Prayer Reverence & Shoes Under Desks Streak",
+        "days": 10,
+        "targetDays": 10,
+        "icon": "fa-mosque"
+      }
+    ]
+  },
+  "badges": [
+    {
+      "id": "b-1",
+      "titleAr": "وسام حماة السكينة",
+      "titleEn": "Keepers of Sakinah",
+      "icon": "fa-feather",
+      "descAr": "يمنح للفصل عند المشي بسكينة في الممرات دون ركض لمدة أسبوع كامل",
+      "descEn": "Awarded for 5 consecutive days of serene, right-aligned hallway walking"
+    },
+    {
+      "id": "b-2",
+      "titleAr": "وسام عمار المصلى",
+      "titleEn": "Musalla Champions",
+      "icon": "fa-kaaba",
+      "descAr": "يمنح للصف عند إتقان روتين وضع الأحذية تحت المقاعد داخل الفصل والسير بسكينة للمصلى",
+      "descEn": "Awarded for flawless execution of placing shoes under desks inside class and Sakinah walk"
+    },
+    {
+      "id": "b-3",
+      "titleAr": "وسام فرسان الأمانة",
+      "titleEn": "Guardians of Amanah",
+      "icon": "fa-hand-holding-heart",
+      "descAr": "يمنح للصف عند إعادة كافة الأدوات المستعارة وترك ممتلكات المدرسة سليمة",
+      "descEn": "Awarded for returning borrowed belongings and protecting school equipment"
+    },
+    {
+      "id": "b-4",
+      "titleAr": "وسام صوت الحكمة",
+      "titleEn": "Voice of Wisdom",
+      "icon": "fa-volume-low",
+      "descAr": "يمنح للصف عند الالتزام التام بمستويات الصوت المحددة في كل نشاط",
+      "descEn": "Awarded for perfect adherence to target voice levels across lessons"
+    },
+    {
+      "id": "b-5",
+      "titleAr": "وسام رواد الإحسان",
+      "titleEn": "Pioneers of Ihsan",
+      "icon": "fa-star-half-stroke",
+      "descAr": "يمنح للصف عند إكمال ٥٠ مهمة واقعية وسلوكية بنجاح",
+      "descEn": "Awarded upon completing 50 real-life daily missions with teacher sign-off"
+    },
+    {
+      "id": "b-6",
+      "titleAr": "وسام الفريق الذهبي",
+      "titleEn": "The Golden Squad",
+      "icon": "fa-medal",
+      "descAr": "يمنح للفصل بأكمله عند بلوغ مرحلة منارة الإحسان (١٠٠٠ نقطة)",
+      "descEn": "Awarded to the entire class upon reaching the Beacon of Ihsan milestone"
+    }
+  ]
+}

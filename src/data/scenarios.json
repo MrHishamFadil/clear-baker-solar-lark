@@ -1,0 +1,707 @@
+[
+  {
+    "id": 1,
+    "character": "سعود",
+    "characterEn": "Saud",
+    "titleAr": "الباب مغلق وسعود متأخر دقيقتين",
+    "titleEn": "Closed Door & Saud is 2 Minutes Late",
+    "contextAr": "وصل سعود إلى باب الفصل بعد بدء الحصة بدقيقتين، ووجد الباب مغلقاً والمعلم يشرح في الداخل. ماذا يفعل سعود ليتصرف كبطل حقيقي؟",
+    "contextEn": "Saud arrives at the classroom door 2 minutes after class began. The door is shut and the teacher is teaching inside. What should Saud do?",
+    "optionsAr": [
+      {
+        "text": "يطرق الباب بقوة بيده وقدمه ليسمعه المعلم سريعاً ويدخل مسرعاً.",
+        "correct": false,
+        "feedback": "غير صحيح! الطرق العنيف يفزع الطلاب والمعلم ويخالف أدب الاستئذان."
+      },
+      {
+        "text": "يطرق ٣ طرقات خفيفة بأطراف أصابعه، يقف جانباً، وينتظر الإذن بسلام وابتسامة.",
+        "correct": true,
+        "feedback": "ممتاز ومبهر! طبق سعود هدي النبي ﷺ في الاستئذان ثلاثاً والوقوف جانباً ثم إلقاء السلام والدخول برفق."
+      },
+      {
+        "text": "يفتح الباب فوراً دون أي استئذان ويتسلل إلى مقعده بهدوء.",
+        "correct": false,
+        "feedback": "غير صحيح! الدخول المباغت دون إذن يشتت انتباه الصف وينتهك خصوصية الدرس."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Bang on the door with fists and kick it so the teacher hears him quickly.",
+        "correct": false,
+        "feedback": "Incorrect! Banging startles the class and violates the Adab of Isti'dhan."
+      },
+      {
+        "text": "Tap gently 3 times with fingertips, stand to the side, and wait for permission with Salam.",
+        "correct": true,
+        "feedback": "Brilliant champion! Saud followed the Sunnah of asking permission thrice and standing to the side."
+      },
+      {
+        "text": "Turn the knob directly without knocking and sneak in toward his seat.",
+        "correct": false,
+        "feedback": "Incorrect! Bursting in without permission disrupts learning and violates classroom respect."
+      }
+    ],
+    "hadithAnchorAr": "«الاستئذان ثلاث، فإن أذن لك وإلا فارجع» — الأدب النبوي في الاستئذان.",
+    "hadithAnchorEn": "'Permission is to be asked thrice; if granted enter, otherwise return.' — Sunnah Adab.",
+    "pypProfileAr": "ذو مبادئ (Principled)",
+    "pypProfileEn": "Principled & Caring"
+  },
+  {
+    "id": 2,
+    "character": "فيصل",
+    "characterEn": "Faisal",
+    "titleAr": "فيصل في الممر متجهاً لدورة المياه",
+    "titleEn": "Faisal in the Hallway Heading to the Restroom",
+    "contextAr": "أخذ فيصل بطاقة الخروج للحمام، ووجد الممر فارغاً ومغرياً للركض والقفز. ماذا يفعل فيصل؟",
+    "contextEn": "Faisal received the restroom pass. The hallway is completely empty and tempting for a fast sprint. How should Faisal behave?",
+    "optionsAr": [
+      {
+        "text": "ينطلق بأقصى سرعة كلاعب كرة قدم ليوفر الوقت ويتسلى في الممر.",
+        "correct": false,
+        "feedback": "خطر! الركض في الممرات قد يسبب انزلاقاً خطيراً واصطداماً بأبواب الفصول."
+      },
+      {
+        "text": "يمشي بهدوء وسكينة ويلتزم الجانب الأيمن محافظاً على وقاره واحترام الفصول المجاورة.",
+        "correct": true,
+        "feedback": "رائع وبطل! التزم فيصل بحديث النبي ﷺ: «عليكم بالسكينة والوقار» وعكس صورة الطالب ذي المبادئ."
+      },
+      {
+        "text": "يمشي وهو يضرب بيده على كل باب يمر بجانبه ليعرف من في الداخل.",
+        "correct": false,
+        "feedback": "سلوك خاطئ! هذا إزعاج شديد وإيذاء للطلاب المعلمين في الفصول المجاورة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Sprint at full speed like a striker to have fun and test his speed.",
+        "correct": false,
+        "feedback": "Danger! Hallway running causes severe slips, collisions, and breaks school safety."
+      },
+      {
+        "text": "Walk with calm serenity on the right side, maintaining dignity and quietness.",
+        "correct": true,
+        "feedback": "Splendid! Faisal embodies the Prophet's instruction: 'Adhere to tranquility' and acts as a Principled learner."
+      },
+      {
+        "text": "Walk while slapping every classroom door he passes to hear the echo.",
+        "correct": false,
+        "feedback": "Disruptive! Banging on hallway doors startles students and interrupts lessons."
+      }
+    ],
+    "hadithAnchorAr": "«عليكم بالسكينة والوقار» — السكينة والهدوء عبادة وأمان.",
+    "hadithAnchorEn": "'Adhere to tranquility and dignity' — Calmness is worship and safety.",
+    "pypProfileAr": "متأمل (Reflective)",
+    "pypProfileEn": "Reflective & Principled"
+  },
+  {
+    "id": 3,
+    "character": "سلمان وريان",
+    "characterEn": "Salman & Rayan",
+    "titleAr": "انتهاء الفسحة وبقايا العصير على المقعد",
+    "titleEn": "Break Ends: Juice Box & Crumbs on the Bench",
+    "contextAr": "دق جرس انتهاء الفسحة، ولاحظ سلمان أن صديقه ريان نسي علبة عصير فارغة ومنديلاً على المقعد الذي كانا يجلسان عليه. ماذا يفعل سلمان؟",
+    "contextEn": "The bell rings ending break. Salman notices his friend Rayan forgot an empty juice box and wrapper on their bench. What should Salman do?",
+    "optionsAr": [
+      {
+        "text": "يتجاهل الأمر ويركض للصف، قائلاً في نفسه: هذه ليست قمامتي بل قمامة ريان!",
+        "correct": false,
+        "feedback": "تصرف سلبي! المؤمن يحب لأخيه ما يحب لنفسه ويحرص على نظافة بيئته."
+      },
+      {
+        "text": "ينبه ريان بلطف ويساعده فوراً في رميها في سلة المهملات ومسح المقعد: «لا تترك أثراً».",
+        "correct": true,
+        "feedback": "ما شاء الله! طبق سلمان قيمة التعاون والإحسان ونال أجر إماطة الأذى عن الطريق وحفظ جمال مدرسته."
+      },
+      {
+        "text": "يصرخ على ريان أمام الطلاب في الساحة ويعنفه بصوت مرتفع.",
+        "correct": false,
+        "feedback": "خاطئ! النصيحة على الملأ فضيحة؛ الأدب النبوي هو الرفق والستر والتعاون."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Ignore it and dash to class, thinking: 'Not my garbage, Rayan left it!'",
+        "correct": false,
+        "feedback": "Selfish choice! Caring stewards take collective responsibility for their school environment."
+      },
+      {
+        "text": "Kindly remind Rayan, help him toss it in the bin, and wipe the bench clean.",
+        "correct": true,
+        "feedback": "True hero! Salman showed brotherly teamwork and earned the reward of removing harm."
+      },
+      {
+        "text": "Yell loudly at Rayan in front of everyone in the schoolyard to embarrass him.",
+        "correct": false,
+        "feedback": "Wrong! The Sunnah teaches gentle guidance, privacy, and kind brotherly support."
+      }
+    ],
+    "hadithAnchorAr": "«إماطة الأذى عن الطريق صدقة» — حفظ البيئة عبادة وصدقة جارية.",
+    "hadithAnchorEn": "'Removing harm from the pathway is an act of charity.'",
+    "pypProfileAr": "مهتم (Caring)",
+    "pypProfileEn": "Caring & Balanced"
+  },
+  {
+    "id": 4,
+    "character": "خالد",
+    "characterEn": "Khalid",
+    "titleAr": "الاستعداد لصلاة الظهر وتنظيم الحذاء في الفصل",
+    "titleEn": "Dhuhr Prayer Prep & Classroom Shoe Placement",
+    "contextAr": "حان وقت صلاة الظهر وأعلن المعلم بدء الاستعداد. لاحظ خالد أن زميلاً ترك كتبه مبعثرة على الطاولة وأسرع نحو الباب بحذائه دون تفقد وضوئه أو وضع الحذاء بهدوء تحت الطاولة. ماذا يفعل خالد؟",
+    "contextEn": "Dhuhr prayer time arrives and the teacher instructs everyone to prepare. Khalid notices a classmate left books scattered and rushed toward the door with shoes on without checking Wudu or placing shoes neatly under the desk. What should Khalid do?",
+    "optionsAr": [
+      {
+        "text": "يتجاهل الأمر ويركض ليتجاوزه في الصف عند الباب ليكون الأول.",
+        "correct": false,
+        "feedback": "غير مناسب: الاستعجال والتدافع يعطلان السكينة، والتصرف البناء هو التذكير الهادئ بروتين الصف."
+      },
+      {
+        "text": "يذكره بلطف بحفظ كتبه ووضع حذائه مرتباً تحت طاولته ثم الاصطفاف بهدوء.",
+        "correct": true,
+        "feedback": "بارك الله فيك! ذكر زميله بروتين الفصل للصلاة، وساعد على حفظ النظام والسير بسكينة."
+      },
+      {
+        "text": "يصرخ عليه بصوت مرتفع أمام الجميع ليوبخه.",
+        "correct": false,
+        "feedback": "غير ملائم: النصيحة والتذكير يكونان بالرفق والهدوء لتعزيز روح الفريق والتعاون."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Ignore him and sprint to beat him to the front of the line at the door.",
+        "correct": false,
+        "feedback": "Unhelpful choice: Rushing and racing disrupt Sakinah; the constructive path is gentle peer coaching."
+      },
+      {
+        "text": "Calmly remind him to pack his books, place his shoes neatly under his desk, and line up safely together.",
+        "correct": true,
+        "feedback": "Excellent! Khalid modeled the classroom prayer routine and supported his peer with gentle teamwork."
+      },
+      {
+        "text": "Shout loudly at him across the classroom to call him out.",
+        "correct": false,
+        "feedback": "Ineffective approach: Respectful reminders given with kindness build a supportive classroom community."
+      }
+    ],
+    "hadithAnchorAr": "«إِذَا أُقِيمَتِ الصَّلَاةُ فَلَا تَأْتُوهَا تَسْعَوْنَ، وَأْتُوهَا تَمْشُونَ وَعَلَيْكُمُ السَّكِينَةُ» (متفق عليه) — السكينة في التوجه للصلاة.",
+    "hadithAnchorEn": "'When prayer is called, do not come running, but walk with calmness and tranquility.' (Agreed upon) — Walking with Sakinah.",
+    "pypProfileAr": "ذو مبادئ (Principled)",
+    "pypProfileEn": "Principled & Caring"
+  },
+  {
+    "id": 5,
+    "character": "عبدالله وطارق",
+    "characterEn": "Abdullah & Tariq",
+    "titleAr": "سقوط المقلمة أثناء شرح الدرس",
+    "titleEn": "Spilled Pencil Case During the Lesson",
+    "contextAr": "بينما المعلم يشرح مفهوماً مهماً، تحرك عبدالله فاصطدمت يده سهواً بمقلمة طارق وتناثرت أقلامه على الأرض. ماذا يفعل الاثنان؟",
+    "contextEn": "While the teacher is explaining a key concept, Abdullah accidentally bumps Tariq's pencil case, sending crayons across the floor. What should they do?",
+    "optionsAr": [
+      {
+        "text": "يبدأ طارق في الصراخ ولوم عبدالله بصوت مرتفع يعطل الدرس.",
+        "correct": false,
+        "feedback": "غير مناسب: رفع الصوت يعطل تركيز الصف؛ والتصرف البناء هو تفهم أن الحادث غير مقصود."
+      },
+      {
+        "text": "يعتذر عبدالله بهمس، ويساعده بهدوء وسرعة في جمع الأقلام دون مقاطعة المعلم.",
+        "correct": true,
+        "feedback": "قمة النضج والأدب! اعتذار فوري، تعاون صامت، واحترام كامل لوقت الدرس."
+      },
+      {
+        "text": "يضحك عبدالله ويترك الأقلام على الأرض مبعثرة لطارق وحده.",
+        "correct": false,
+        "feedback": "غير ملائم: التعاون الفوري وتحمل مسؤولية الخطأ العفوي يقويان روابط الصداقة والأخوة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Tariq shouts at Abdullah in anger, disrupting the entire classroom lesson.",
+        "correct": false,
+        "feedback": "Raising one's voice interrupts everyone's learning; accepting honest accidents with patience preserves harmony."
+      },
+      {
+        "text": "Abdullah whispers a sincere apology and immediately helps gather pencils quietly.",
+        "correct": true,
+        "feedback": "Exemplary maturity! Swift apology, quiet teamwork, and deep respect for the teacher's lesson."
+      },
+      {
+        "text": "Abdullah laughs and walks away, leaving Tariq to crawl for his pencils alone.",
+        "correct": false,
+        "feedback": "Unhelpful reaction; taking gentle responsibility and helping a friend shows true sportsmanship."
+      }
+    ],
+    "hadithAnchorAr": "«والله في عون العبد ما كان العبد في عون أخيه» — التعاون والتسامح.",
+    "hadithAnchorEn": "'Allah assists His servant as long as he assists his companion.'",
+    "pypProfileAr": "متواصل ومتعاون (Communicator & Caring)",
+    "pypProfileEn": "Communicator & Caring"
+  },
+  {
+    "id": 6,
+    "character": "فهد",
+    "characterEn": "Fahad",
+    "titleAr": "قلم غالي الثمن تحت المقعد وقت الانصراف",
+    "titleEn": "An Expensive Pen Under the Desk at Dismissal",
+    "contextAr": "أثناء فحص فهد لأرضية مقعده قبل الانصراف، وجد قلماً جميلاً وباهظ الثمن لا يخصه. ماذا يفعل فهد؟",
+    "contextEn": "While scanning under his desk at dismissal, Fahad spots an expensive, shiny marker that doesn't belong to him. What should Fahad do?",
+    "optionsAr": [
+      {
+        "text": "يضعه في جيبه بسرعة ويقول: «وجدته تحت طاولتي فهو من نصيبي!»",
+        "correct": false,
+        "feedback": "خلاف الأمانة: اللقطة في المدرسة أمانة يجب تسليمها للمعلم أو إعادتها لصاحبها."
+      },
+      {
+        "text": "يسلمه فوراً للمعلم قائلاً: «وجدته تحت الطاولة يا أستاذ»، لحفظ الأمانة وإعادته لزميله.",
+        "correct": true,
+        "feedback": "أمانة الفرسان! طبق فهد وصية النبي ﷺ: «أدِّ الأمانة إلى من ائتمنك» واستحق ثقة الجميع."
+      },
+      {
+        "text": "يدوس عليه أو يرميه في سلة المهملات لأنه لا يحتاجه.",
+        "correct": false,
+        "feedback": "غير مسؤول: حفظ ممتلكات الزملاء أمانة، ورميها يسبب إهداراً وضيقاً للغير."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Shove it secretly into his pocket, thinking: 'Finders keepers!'",
+        "correct": false,
+        "feedback": "Inconsistent with integrity; school belongings found must be returned or handed to staff."
+      },
+      {
+        "text": "Hand it straight to the teacher: 'I found this under the desk', guarding the trust.",
+        "correct": true,
+        "feedback": "Integrity champion! Fahad upheld the Hadith: 'Fulfill the trust to those who trust you'."
+      },
+      {
+        "text": "Step on it or toss it into the trash can because he doesn't need it.",
+        "correct": false,
+        "feedback": "Disregard for property; safeguarding others' stationery shows care and high character."
+      }
+    ],
+    "hadithAnchorAr": "«أدِّ الأمانة إلى من ائتمنك» — الأمانة تاج المسلم وفخره.",
+    "hadithAnchorEn": "'Fulfill the trust to those who entrusted you.' — Integrity.",
+    "pypProfileAr": "ذو مبادئ (Principled)",
+    "pypProfileEn": "Principled & Reflective"
+  },
+  {
+    "id": 7,
+    "character": "حمزة وزياد",
+    "characterEn": "Hamza & Ziyad",
+    "titleAr": "صناديق الأدوات الفنية الثقيلة",
+    "titleEn": "Heavy Art Supplies in the Hallway",
+    "contextAr": "شاهد حمزة زميله زياد يحمل صندوقاً كرتونياً ثقيلاً يحتوي على أدوات التربية الفنية وكان يكاد يسقط منه. ماذا يفعل حمزة؟",
+    "contextEn": "Hamza sees his classmate Ziyad struggling to carry a heavy cardboard box of art supplies that is about to slip from his hands. What should Hamza do?",
+    "optionsAr": [
+      {
+        "text": "يسرع للمساعدة قائلاً: «يا زياد، دعني أحمل معك من هذا الجانب»، ويتقاسمان الثقل.",
+        "correct": true,
+        "feedback": "إيثار ومروءة! جسد حمزة قول النبي ﷺ: «المؤمن للمؤمن كالبنيان يشد بعضه بعضاً» وخفف عن أخيه."
+      },
+      {
+        "text": "يقف يراقبه ويضحك عندما يرى الصندوق يتأرجح بين يديه.",
+        "correct": false,
+        "feedback": "سلوك يحتاج تقويماً: الضحك عند تعب الزميل يضعف روح التعاون؛ والواجب المسارعة بالعون."
+      },
+      {
+        "text": "يمر بجانبه مسرعاً متظاهراً بأنه لم يره حتى لا يتعب نفسه.",
+        "correct": false,
+        "feedback": "سلبية: المبادرة الكريمة ومساعدة الزميل تزرعان المحبة والمروءة في مدرستنا."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Rush forward saying: 'Let me take this side Ziyad!' and share the weight together.",
+        "correct": true,
+        "feedback": "Heroic kindness! Hamza lived the Prophet's teaching of believers supporting each other like a solid structure."
+      },
+      {
+        "text": "Stand watching and laugh as the box wobbles precariously in Ziyad's hands.",
+        "correct": false,
+        "feedback": "Unconstructive reaction: Watching a peer struggle without helping misses an opportunity for kindness."
+      },
+      {
+        "text": "Walk briskly past, pretending he didn't see him so he doesn't have to carry anything.",
+        "correct": false,
+        "feedback": "Missed opportunity: Proactive peer support builds a strong and caring classroom community."
+      }
+    ],
+    "hadithAnchorAr": "«المؤمن للمؤمن كالبنيان يشد بعضه بعضاً» — التكاتف والقوة.",
+    "hadithAnchorEn": "'Believers are like a solid building, each part strengthening the other.'",
+    "pypProfileAr": "مهتم (Caring)",
+    "pypProfileEn": "Caring & Inquirer"
+  },
+  {
+    "id": 8,
+    "character": "راكان وبدر",
+    "characterEn": "Rakan & Badr",
+    "titleAr": "الحماس في طابور حصة التربية البدنية",
+    "titleEn": "High Energy in the PE Lineup",
+    "contextAr": "أثناء الوقوف في طابور حصة التربية البدنية، شعر راكان بحماس وطاقة عالية، وأراد أن يدفع بدر للأمام من باب المزاح. ماذا يفعل راكان؟",
+    "contextEn": "While lining up for PE class, Rakan feels super energized and is tempted to shove Badr forward as a playful prank. What should Rakan do?",
+    "optionsAr": [
+      {
+        "text": "يدفعه بقوة ليسقط على من أمامه ويضحك الجميع في الطابور.",
+        "correct": false,
+        "feedback": "خطر كبير! الدفع في الطوابير قد يسبب كسوراً وإصابات خطيرة ويجرح كرامة الزميل."
+      },
+      {
+        "text": "يضبط نفسه، يضع يديه جانباً، ويفرغ طاقته لاحقاً في التمارين الرياضية بالميدان.",
+        "correct": true,
+        "feedback": "بطل يملك زمام نفسه! «ليس الشديد بالصُّرَعَة، إنما الشديد الذي يملك نفسه عند الغضب والحماس»."
+      },
+      {
+        "text": "يلمس ظهر بدر مراراً وتكراراً ليزعجه ويشتت انتباهه.",
+        "correct": false,
+        "feedback": "إيذاء وتعدٍّ على المساحة الشخصية! أمرنا النبي ﷺ بكف الأذى واحترام الآخرين."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Give him a hard push so Badr crashes into the boys in front, causing laughs.",
+        "correct": false,
+        "feedback": "Dangerous prank! Shoving in lines leads to severe injuries and violates safety rules."
+      },
+      {
+        "text": "Exercise self-control, keep hands to his side, and channel energy into sports drills later.",
+        "correct": true,
+        "feedback": "Champion of self-discipline! The Prophet ﷺ taught that the real strong person controls himself."
+      },
+      {
+        "text": "Poke Badr's shoulder repeatedly to annoy him and distract the whole line.",
+        "correct": false,
+        "feedback": "Boundary breach! Annoying peers disrupts classroom harmony and breaks personal space rules."
+      }
+    ],
+    "hadithAnchorAr": "«ليس الشديد بالصُّرَعَة، إنما الشديد الذي يملك نفسه» — ضبط النفس والقوة الحقيقية.",
+    "hadithAnchorEn": "'The strong is not the one who overcomes others, but the one who controls himself.'",
+    "pypProfileAr": "ذو مبادئ ومتزن (Principled & Balanced)",
+    "pypProfileEn": "Principled & Balanced"
+  },
+  {
+    "id": 9,
+    "character": "نواف وسلطان",
+    "characterEn": "Nawaf & Sultan",
+    "titleAr": "نسيان قلم الرصاص في اختبار قصير",
+    "titleEn": "Forgotten Pencil Before a Quick Quiz",
+    "contextAr": "أعلن المعلم عن نشاط كتابي، فاكتشف سلطان أنه نسي مقلمته في البيت وشعر بالقلق والإحراج. لاحظه نواف، ماذا يفعل؟",
+    "contextEn": "The teacher announces an interactive writing task. Sultan realizes he left his pencil case at home and feels stressed and embarrassed. Nawaf notices. What should Nawaf do?",
+    "optionsAr": [
+      {
+        "text": "يبتسم له بلطف ويخرج قلماً وممحاة إضافيين من مقلمته ويعيرهما له قائلاً: «أبشر، نحن فريق واحد!»",
+        "correct": true,
+        "feedback": "كرم وروح تعاون رائعة! فرّج نواف عن زميله، «ومن فرج عن مسلم كربة من كرب الدنيا فرج الله عنه كربة من كرب يوم القيامة»."
+      },
+      {
+        "text": "يقول له بصوت عالٍ: «لماذا لا تتذكر أدواتك؟ لن أعطيك شيئاً!»",
+        "correct": false,
+        "feedback": "التصرف اللطيف والدعم الهادئ يقويان التعاون والمحبة، والتوجيه يكون بالرفق والكلمة الطيبة بعيداً عن الإحراج."
+      },
+      {
+        "text": "يخفي أقلامه الإضافية حتى لا يستعيرها أحد.",
+        "correct": false,
+        "feedback": "المبادرة الكريمة ومشاركة الأدوات تنشران المودة وروح التعاون بين الجميع."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Smiles warmly, takes out a spare pencil and eraser, and lends them: 'Don't worry, we are a team!'",
+        "correct": true,
+        "feedback": "Exemplary team spirit and compassion! The Prophet ﷺ said: 'Whoever relieves a believer's hardship, Allah relieves his hardship.'"
+      },
+      {
+        "text": "Loudly announces: 'Why did you forget your tools? I am not lending you anything!'",
+        "correct": false,
+        "feedback": "Public embarrassment disrupts classroom harmony. Gentle support and polite communication build mutual trust."
+      },
+      {
+        "text": "Quickly hides his spare pencils inside his desk so no one asks to borrow them.",
+        "correct": false,
+        "feedback": "Holding back needed help misses an opportunity for kindness and supportive teamwork."
+      }
+    ],
+    "hadithAnchorAr": "«من فرج عن مسلم كربة من كرب الدنيا فرج الله عنه كربة من كرب يوم القيامة» — الإحسان وتفريج الكرب.",
+    "hadithAnchorEn": "'Whoever relieves a believer of a hardship, Allah relieves him of a hardship on Judgment Day.'",
+    "pypProfileAr": "مهتم (Caring)",
+    "pypProfileEn": "Caring & Open-minded"
+  },
+  {
+    "id": 10,
+    "character": "عبدالعزيز",
+    "characterEn": "Abdulaziz",
+    "titleAr": "صنبور ماء مفتوح بعد الوضوء",
+    "titleEn": "Running Water Tap After Wudu",
+    "contextAr": "بعد انتهاء وقت الوضوء لصلاة الظهر، لاحظ عبدالعزيز أن صنبور ماء بقي مفتوحاً يهدر الماء بغزارة في المغاسل ولا يوجد أحد عنده. ماذا يفعل؟",
+    "contextEn": "After Wudu for Dhuhr, Abdulaziz notices a faucet left running, wasting gallons of water with nobody around. What should Abdulaziz do?",
+    "optionsAr": [
+      {
+        "text": "يقول في نفسه: «لست أنا من فتحه فلست مسؤولاً عنه!» ويخرج مسرعاً.",
+        "correct": false,
+        "feedback": "سلبية وعدم مبالاة! حفظ نعمة الماء والمرافق العامة مسؤولية كل مسلم في أي مكان."
+      },
+      {
+        "text": "يتوجه فوراً للصنبور ويغلقه بإحكام، حماية لنعمة الماء وطلباً للأجر في حفظ البيئة.",
+        "correct": true,
+        "feedback": "بطل استثنائي! مارس عبدالعزيز المسؤولية وحفظ النعمة والنهي عن الإسراف كما علمنا نبينا ﷺ."
+      },
+      {
+        "text": "يلعب بالماء المتدفق ويزيد في فتحه أكثر.",
+        "correct": false,
+        "feedback": "إسراف وإفساد في الأرض! قوله تعالى: ﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Shrug and think: 'I didn't turn it on, so not my problem!' and walk away.",
+        "correct": false,
+        "feedback": "Bystander apathy! Conserving water and protecting shared resources is every student's duty."
+      },
+      {
+        "text": "Steps forward immediately and shuts it firmly, saving water and honoring the divine blessing.",
+        "correct": true,
+        "feedback": "Eco-steward champion! Abdulaziz acted with principled responsibility, preventing waste."
+      },
+      {
+        "text": "Plays with the splashing water and twists it wider to make a bigger splash.",
+        "correct": false,
+        "feedback": "Severe waste! Quran 7:31: 'Eat and drink, but waste not by excess, for Allah loves not the wasters.'"
+      }
+    ],
+    "hadithAnchorAr": "«لا تسرف في الماء ولو كنت على نهرٍ جارٍ» — حفظ النعمة ومسؤولية الأمانة.",
+    "hadithAnchorEn": "'Do not waste water even if you were at a running stream.' — Environmental stewardship.",
+    "pypProfileAr": "متأمل وذو مبادئ (Reflective & Principled)",
+    "pypProfileEn": "Reflective & Principled"
+  },
+  {
+    "id": 11,
+    "character": "سلمان",
+    "characterEn": "Salman",
+    "titleAr": "من يحتاج مساعدة؟ طالب جديد وحيد في الساحة (تحدي قصة القيم)",
+    "titleEn": "Who Needs Help? Helping a Friend Challenge (Value Story Challenge)",
+    "contextAr": "لاحظ سلمان في وقت الفسحة طالباً جديداً يقف وحيداً تماماً في ساحة المدرسة. يبدو الصبي خجولاً وليس لديه أحد ليلعب معه. ماذا يجب على سلمان أن يفعل ليظهر قيمة الرحمة؟",
+    "contextEn": "Salman notices a new classmate standing all alone in the playground during recess. The boy looks shy and has no one to play with. What should Salman do? What is the best choice that shows Compassion?",
+    "optionsAr": [
+      {
+        "text": "يتجاهله ويستمر في اللعب مع أصدقائه، قائلاً في نفسه: «سيعثر على أصدقاء لاحقاً بمفرده».",
+        "correct": false,
+        "feedback": "تصرف سلبي: التجاهل يترك الزميل الجديد يشعر بالعزلة والغربة؛ وقيمة الرحمة النبوية تحثنا على المبادرة والاحتواء والتآخي."
+      },
+      {
+        "text": "يتوجه إليه بابتسامة دافئة، يُلقي عليه السلام: «السلام عليكم ورحمة الله»، ويدعوه بلطف لمشاركتهم اللعب.",
+        "correct": true,
+        "feedback": "ما شاء الله! قمة الرحمة والشهامة النبوية. قال النبي ﷺ: «الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ»."
+      },
+      {
+        "text": "يصرخ عليه بصوت مرتفع عبر الساحة أمام الجميع: «يا هذا! لماذا تقف وحيداً هكذا؟!»",
+        "correct": false,
+        "feedback": "سلوك خاطئ ومحرج: الصراخ العلني يزيد خجل زميلك؛ والأدب النبوي هو الاقتراب برفق والحديث بلطف ومودة وبشاشة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Ignore him and keep playing with his friends, thinking: 'He will find friends later.'",
+        "correct": false,
+        "feedback": "Bystander indifference: Leaving a newcomer isolated misses a golden opportunity to show brotherly care and empathy."
+      },
+      {
+        "text": "Walk over with a warm smile, say 'As-salamu alaykum', and kindly invite him to join the game.",
+        "correct": true,
+        "feedback": "Outstanding empathy and Sunnah character! The Prophet ﷺ said: 'The merciful are shown mercy by the Most Merciful; show mercy to those on earth'."
+      },
+      {
+        "text": "Yell loudly across the yard: 'Hey, why are you standing all by yourself?'",
+        "correct": false,
+        "feedback": "Unkind and embarrassing: Shouting across the yard makes a shy peer feel more exposed. True kindness approaches gently with privacy."
+      }
+    ],
+    "hadithAnchorAr": "«الرَّاحِمُونَ يَرْحَمُهُمُ الرَّحْمَنُ، ارْحَمُوا مَنْ فِي الأَرْضِ يَرْحَمْكُمْ مَنْ فِي السَّمَاءِ» (رواه الترمذي وصححه الألباني) — التراحم وبناء الأخوة الإيمانية.",
+    "hadithAnchorEn": "'The merciful are shown mercy by the Most Merciful. Show mercy to those on earth, and the One in the heavens will show mercy to you.' (Tirmidhi) — Compassion.",
+    "pypProfileAr": "مهتم ومتواصل (Caring & Communicator)",
+    "pypProfileEn": "Caring & Communicator"
+  },
+  {
+    "id": 12,
+    "character": "طارق",
+    "characterEn": "Tariq",
+    "titleAr": "انسكاب وجبة الإفطار في الكافيتريا (تحدي النجدة والعون)",
+    "titleEn": "Spilled Breakfast Tray in the Cafeteria (Caring & Helping Challenge)",
+    "contextAr": "أثناء استلام وجبة الإفطار في كافيتريا المدرسة، تعثر طالب في الصفوف الأولية وسقطت صينيته على الأرض وتناثر طعامه وشعر بالحرج والارتباك. كان طارق يقف قريباً منه ومعه وجبته. ماذا يفعل طارق ليظهر روح الإحسان والرحمة؟",
+    "contextEn": "In the school cafeteria, a younger primary student trips, dropping his breakfast tray with food spilling onto the floor. The younger boy feels shocked and embarrassed. Tariq is standing nearby with his tray. What should Tariq do to embody Ihsan and Compassion?",
+    "optionsAr": [
+      {
+        "text": "يقف جانباً ويضحك مع زملائه ويشير إليه في طابور الكافيتريا.",
+        "correct": false,
+        "feedback": "مرفوض تماماً: السخرية من عثرات الصغار تجرح مشاعرهم وتنافي الرحمة والمروءة التي حثنا عليها ديننا الحنيف."
+      },
+      {
+        "text": "يضع صينيته بأمان، يطمئن الصغير بابتسامة: «لا بأس يا بطل»، يساعده على مسح المكان، ويصطحبه لمشرف الكافيتريا لاستبدال وجبته.",
+        "correct": true,
+        "feedback": "فارس شهم ونبيل! قال رسول الله ﷺ: «مَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ»، فجمع بين النجدة والرحمة والمسؤولية."
+      },
+      {
+        "text": "يتفادى المكان بسرعة حتى لا يطلب منه أحد المساعدة في التنظيف.",
+        "correct": false,
+        "feedback": "سلبية: التهرب من مساعدة المحتاج يفوت عليك أجر الصدقة وإغاثة الملهوف."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Stand aside and giggle with his friends, pointing at the younger boy in line.",
+        "correct": false,
+        "feedback": "Disrespectful: Laughing at accidents hurts feelings and contradicts the noble Islamic character of brotherhood."
+      },
+      {
+        "text": "Set his own tray down safely, comfort the boy: 'It's okay buddy!', help him up, clean the spill, and escort him to staff for a replacement.",
+        "correct": true,
+        "feedback": "True chivalry and compassion! The Prophet ﷺ said: 'Whoever relieves a brother in need, Allah will be in his need'."
+      },
+      {
+        "text": "Dodge around the spill quickly to avoid being asked to help clean up.",
+        "correct": false,
+        "feedback": "Selfish passivity: Stepping away from someone in trouble misses an opportunity for rewarded community service."
+      }
+    ],
+    "hadithAnchorAr": "«مَنْ كَانَ فِي حَاجَةِ أَخِيهِ كَانَ اللَّهُ فِي حَاجَتِهِ» (متفق عليه) — عون الضعيف وإغاثة الملهوف.",
+    "hadithAnchorEn": "'Whoever fulfills the needs of his brother, Allah will fulfill his needs.' (Agreed upon) — Mutual Aid.",
+    "pypProfileAr": "مهتم وذو مبادئ (Caring & Principled)",
+    "pypProfileEn": "Caring & Principled"
+  },
+  {
+    "id": 13,
+    "character": "عمر",
+    "characterEn": "Omar",
+    "titleAr": "تمزق صفحة من كتاب المكتبة المدرسية (تحدي الشجاعة وقول الصدق)",
+    "titleEn": "Torn Library Book Page (Courage & Honesty Challenge)",
+    "contextAr": "أثناء قراءة عمر لكتاب قيّم في مركز مصادر التعلم (المكتبة)، تمزقت صفحة منه بالخطأ ودون قصد. لم يشاهده أحد من الطلاب أو أمين المكتبة. ماذا يفعل عمر ليتصرف كطالب ذي مبادئ وشجاعة أخلاقية؟",
+    "contextEn": "While reading a valuable book in the library learning center, Omar accidentally tears a page. Nobody saw him do it. How should Omar act as a Principled student demonstrating moral Courage and Honesty?",
+    "optionsAr": [
+      {
+        "text": "يعيد الكتاب سراً إلى الرف بين الكتب الأخرى وكأن شيئاً لم يحدث.",
+        "correct": false,
+        "feedback": "خيانة للأمانة: إخفاء الخطأ يضر بممتلكات المدرسة وقد يحمل زميلاً آخر المسؤولية ظلماً."
+      },
+      {
+        "text": "يتوجه بشجاعة وأدب إلى أمين المكتبة، يوضح له ما حدث باعتذار صادق، ويطلب مساعدته في إصلاح الصفحة بلاصق مخصص للكتب.",
+        "correct": true,
+        "feedback": "شجاعة أخلاقية باهرة! قال رسول الله ﷺ: «عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ». الاعتراف بالخطأ والصدق ميزة الفرسان."
+      },
+      {
+        "text": "يمزق الصفحة بالكامل ويرميها في السلة حتى لا يكتشف أحد التمزق.",
+        "correct": false,
+        "feedback": "تفاقم الخطأ: الإتلاف المتعمد ذنب مضاعف يخالف خلق الصدق والأمانة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Slip the book secretly back onto the shelf among other books as if nothing happened.",
+        "correct": false,
+        "feedback": "Lack of integrity: Hiding an accident harms shared property and might wrongly shift blame onto the next borrower."
+      },
+      {
+        "text": "Courageously approach the librarian, politely explain what happened, apologize, and ask to help tape it neatly.",
+        "correct": true,
+        "feedback": "Magnificent moral courage! The Prophet ﷺ said: 'Adhere to truthfulness, for truthfulness leads to righteousness.' Owning mistakes is true leadership."
+      },
+      {
+        "text": "Rip the whole page out completely and throw it away so nobody discovers the tear.",
+        "correct": false,
+        "feedback": "Compounding damage: Destroying school property multiplies the mistake and violates honesty."
+      }
+    ],
+    "hadithAnchorAr": "«عَلَيْكُمْ بِالصِّدْقِ فَإِنَّ الصِّدْقَ يَهْدِي إِلَى الْبِرِّ» (متفق عليه) — الصدق منجاة وفضيلة.",
+    "hadithAnchorEn": "'Hold fast to truthfulness, for truthfulness leads to righteousness.' (Agreed upon) — Integrity & Honesty.",
+    "pypProfileAr": "ذو مبادئ وشجاع (Principled & Courageous)",
+    "pypProfileEn": "Principled & Courageous"
+  },
+  {
+    "id": 14,
+    "character": "حمزة ومعاذ",
+    "characterEn": "Hamza & Muaath",
+    "titleAr": "اختلاف الرأي في تصميم مشروع العلوم (تحدي الإنصات والاحترام)",
+    "titleEn": "Differing Ideas in the Science Team Project (Active Listening & Respect Challenge)",
+    "contextAr": "أثناء عمل فريق الفرسان في مشروع بحث العلوم، اقترح حمزة فكرة لتصميم النموذج، بينما طرح معاذ فكرة مختلفة تماماً. شعر حمزة برغبة قوية في فرض رأيه ورفض فكرة زميله. كيف يتصرف حمزة باحترام وتفتح ذهني؟",
+    "contextEn": "During collaborative group research for the Science unit, Hamza suggests a project design, while Muaath proposes an entirely different approach. Hamza feels an urge to insist on his own way and dismiss Muaath's idea. How should Hamza act with Respect and Open-mindedness?",
+    "optionsAr": [
+      {
+        "text": "يصمت ويستمع لمعاذ باهتمام حتى يكمل فكرته، ثم يناقش معه نقاط القوة في كلا الاقتراحين للوصول إلى تصميم يجمع أفضل ما لديهما بروح الفريق.",
+        "correct": true,
+        "feedback": "عقلية علمية وأدب رفيع! الإنصات الفعال وحسن الاستماع لآراء الزملاء من صفات الفارس المسلم المتعلم ذي العقل المتفتح (Open-minded)."
+      },
+      {
+        "text": "يقاطع معاذاً في منتصف حديثه ويقول: «فكرتي هي الأفضل ولن نستمع لغيرها!»",
+        "correct": false,
+        "feedback": "سوء أدب: مقاطعة المتحدث والاستبداد بالرأي يفسدان روح العمل الجماعي وينتهكان ميثاق الصف."
+      },
+      {
+        "text": "ينسحب من المجموعة غاضباً ويرفض المشاركة في المشروع.",
+        "correct": false,
+        "feedback": "سلوك غير ناضج: الاختلاف في وجهات النظر أمر طبيعي ومثمر، والتعاون يبني الحلول المشتركة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Listen attentively without interrupting until Muaath finishes, then calmly evaluate strengths of both ideas to create a hybrid design together.",
+        "correct": true,
+        "feedback": "Superb collaborative maturity! Active listening and honoring diverse viewpoints embody the IB Open-minded profile and Sunnah respect."
+      },
+      {
+        "text": "Interrupt Muaath mid-sentence and insist loudly: 'My idea is the best, we are doing it my way!'",
+        "correct": false,
+        "feedback": "Poor sportsmanship: Cutting off a speaking teammate breaks classroom agreements and undermines mutual respect."
+      },
+      {
+        "text": "Storm off angrily in a huff and refuse to contribute to the group assignment.",
+        "correct": false,
+        "feedback": "Immature reaction: Diverse ideas enrich projects. Principled learners solve disagreements through constructive dialogue."
+      }
+    ],
+    "hadithAnchorAr": "«مَا كَانَ الرِّفْقُ فِي شَيْءٍ إِلَّا زَانَهُ، وَلَا نُزِعَ مِنْ شَيْءٍ إِلَّا شَانَهُ» (رواه مسلم) — الرفق وأدب الحوار.",
+    "hadithAnchorEn": "'Gentleness is not in anything except that it beautifies it, and is not removed from anything except that it mars it.' (Muslim) — Respectful Dialogue.",
+    "pypProfileAr": "منفتح العقل ومتواصل (Open-minded & Communicator)",
+    "pypProfileEn": "Open-minded & Communicator"
+  },
+  {
+    "id": 15,
+    "character": "يوسف",
+    "characterEn": "Yousef",
+    "titleAr": "المصاحف وسجادات الصلاة بعد أداء صلاة الظهر (تحدي الإحسان والمسؤولية)",
+    "titleEn": "Musalla Qurans & Prayer Rugs After Dhuhr (Stewardship & Responsibility Challenge)",
+    "contextAr": "بعد انتهاء صلاة الظهر وأذكار الصلاة في مصلى المدرسة، لاحظ يوسف أن بعض الطلاب تركوا المصاحف مفتوحة على الأرض وخرجوا مسرعين تاركين سجادات الصف غير مصفوفة. كان يوسف يريد اللحاق بالحصة القادمة. ماذا يفعل ليكون قدوة في الإحسان؟",
+    "contextEn": "Following Dhuhr prayer and Adhkar in the school Musalla, Yousef notices a couple of Qurans left open on the carpet and a prayer rug bunched up. Yousef wants to get to his next class. How can Yousef act as a role model of Ihsan and Stewardship?",
+    "optionsAr": [
+      {
+        "text": "يتجاهل المصاحف والسجاد قائلاً: «لست أنا من قرأ فيها، ومشرف المصلى سيرتبها لاحقاً».",
+        "correct": false,
+        "feedback": "تفريط في الأجر: تعظيم كتاب الله ونظافة المصلى شرف لكل مسلم وفضيلة عظيمة."
+      },
+      {
+        "text": "يتوقف لدقيقة واحدة بكل سكينة، يغلق المصاحف بخشوع ويضعها في مكانها المخصص على الرفوف، ويرتب السجادة برفق ثم يخرج بوقار.",
+        "correct": true,
+        "feedback": "إحسان وخشوع ومسؤولية راقية! قال تعالى: ﴿ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ﴾. نال يوسف أجر تعظيم شعائر الله ونظافة مسجده."
+      },
+      {
+        "text": "يركض مسرعاً ويدوس فوق السجاد متجاهلاً حرمة المكان.",
+        "correct": false,
+        "feedback": "خطأ جسيم: المشي بسرعة أو إهمال الترتيب في المصلى يتنافى مع أدب المساجد والسكينة."
+      }
+    ],
+    "optionsEn": [
+      {
+        "text": "Ignore the Qurans and rugs, thinking: 'I didn't use them, the custodian will fix it.'",
+        "correct": false,
+        "feedback": "Missed virtue: Revering the Holy Quran and maintaining the prayer hall is a badge of honor for every believer."
+      },
+      {
+        "text": "Pause for one minute with reverence, gently close the Qurans and place them on the shelf, straighten the prayer rug, then exit peacefully.",
+        "correct": true,
+        "feedback": "Heartfelt reverence and stewardship! Quran 22:32: 'And whoever honors the symbols of Allah — indeed, it is from the piety of hearts.' Exemplary Ihsan!"
+      },
+      {
+        "text": "Sprint across the prayer hall stepping on crumpled rugs to reach the door first.",
+        "correct": false,
+        "feedback": "Disrespectful rush: Rushing in the Musalla violates the sacred Adab of prayer spaces and breaks composure."
+      }
+    ],
+    "hadithAnchorAr": "﴿ذَٰلِكَ وَمَن يُعَظِّمْ شَعَائِرَ اللَّهِ فَإِنَّهَا مِن تَقْوَى الْقُلُوبِ﴾ (سورة الحج: ٣٢) — تعظيم بيوت الله وشعائره.",
+    "hadithAnchorEn": "'And whoever honors the symbols of Allah — indeed, it is from the piety of hearts.' (Quran 22:32) — Sacred Space Respect.",
+    "pypProfileAr": "متأمل وذو مبادئ (Reflective & Principled)",
+    "pypProfileEn": "Reflective & Principled"
+  }
+]

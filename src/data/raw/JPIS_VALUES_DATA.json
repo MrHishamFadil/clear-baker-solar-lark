@@ -1,0 +1,430 @@
+[
+  {
+    "id": "compassion",
+    "nameAr": "الرحمة والتعاطف",
+    "nameEn": "Compassion",
+    "icon": "fa-hand-holding-heart",
+    "color": "emerald",
+    "definitionAr": "أن تشعر بما يشعر به إخوانك، وتبادر بإعانتهم والرفق بهم، وتحب لهم ما تحب لنفسك.",
+    "definitionEn": "Feeling what others feel, acting proactively with kindness, and wishing for your brother what you love for yourself.",
+    "quranHadithAr": "قال رسول الله ﷺ: «الراحمون يرحمهم الرحمن، ارحموا من في الأرض يرحمكم من في السماء» (الترمذي).",
+    "quranHadithEn": "The Prophet ﷺ said: 'Those who are merciful will be shown mercy by the Most Merciful. Be merciful to those on earth, and the One in the heavens will be merciful to you.'",
+    "pypLinkAr": "مهتم (Caring) ومنفتح عقلياً (Open-minded)",
+    "pypLinkEn": "Caring & Open-minded",
+    "scenarioGame": {
+      "titleAr": "لعبة: من يحتاج إلى المساعدة؟ (Who Needs Help?)",
+      "titleEn": "Who Needs Help? Helping a Friend Challenge",
+      "contextAr": "لاحظ سلمان زميلاً جديداً يقف وحده في ساحة المدرسة وقت الفسحة خجولاً ومتردداً وليس لديه من يلعب معه. ماذا يجب على سلمان أن يفعل؟",
+      "contextEn": "Salman notices a new classmate standing all alone in the playground during recess. The boy looks shy and has no one to play with. What should Salman do?",
+      "optionsAr": [
+        {
+          "text": "يتجاهله ويكمل اللعب مع أصدقائه قائلاً: «سيتعرف على أصدقاء لاحقاً».",
+          "correct": false,
+          "feedback": "تصرف غير مناسب! الصديق الصالح ينتبه لزميله الذي يشعر بالوحدة ويبادر بمساعدته."
+        },
+        {
+          "text": "يذهب إليه بابتسامة دافئة، يسلّم عليه بلطف، ويدعوه ليلعب مع مجموعتهم.",
+          "correct": true,
+          "feedback": "أحسنت! هذا تصرف رائع يجسد الرحمة واللطف، وجعل الزميل الجديد يشعر بالسعادة والترحيب."
+        },
+        {
+          "text": "يناديه بصوت عالٍ من بعيد: «لماذا تقف وحدك هناك؟» أمام الجميع.",
+          "correct": false,
+          "feedback": "هذا التصرف يحرج الزميل! مساعدة الآخرين تكون دائماً باللطف والحديث الهادئ."
+        }
+      ],
+      "optionsEn": [
+        {
+          "text": "Ignore him and keep playing with his friends, thinking: 'He will find friends later.'",
+          "correct": false,
+          "feedback": "Not a good choice! A kind classmate notices when someone feels left out."
+        },
+        {
+          "text": "Walk over with a warm smile, say 'As-salamu alaykum', and kindly invite him to join the game.",
+          "correct": true,
+          "feedback": "Great choice! Salman showed true kindness and made his new classmate feel welcome."
+        },
+        {
+          "text": "Yell loudly across the yard: 'Hey, why are you standing all by yourself?'",
+          "correct": false,
+          "feedback": "That would hurt his feelings! Kindness is always gentle and polite, never embarrassing."
+        }
+      ]
+    },
+    "pairTask": {
+      "titleAr": "دعوة شريك والاستماع لمشاعره",
+      "titleEn": "Partner Inclusion & Active Listening",
+      "instructionAr": "يعمل كل طالب مع زميل لم يتحدث معه كثيراً هذا الأسبوع: يستمع له وهو يتحدث عن أمر يسعده لمدة دقيقة كاملة دون مقاطعة، ثم يعيد صياغة مشاعره بصدق: «أشعر أنك كنت سعيداً جداً عندما...».",
+      "instructionEn": "Work with a peer you haven't spoken with much: Listen to him share something that brings him joy for 1 minute without interrupting, then paraphrase his feelings with empathy."
+    },
+    "groupChallenge": {
+      "titleAr": "تحدي المجموعة: متى أساعد ومتى أطلب معلماً؟",
+      "titleEn": "Group Decision: Independent Help vs Adult Support",
+      "instructionAr": "تتلقى كل مجموعة ٤ مواقف مدرسية: تحدد المجموعات بوعي متى تتدخل لمساعدة الزميل مباشرة وبشكل آمن، ومتى يجب طلب مساعدة المعلم فوراً لحفظ السلامة.",
+      "instructionEn": "Groups evaluate 4 school scenarios: Decide when to assist a peer independently and safely, and when to seek immediate adult help for safety."
+    },
+    "realLifeMission": {
+      "titleAr": "صنيعة معروف غير متوقعة وخفية",
+      "titleEn": "One Unnoticed Act of Spontaneous Kindness",
+      "taskAr": "يقوم كل طالب اليوم بعمل معروف خفي لزميل (التقاط قلم سقط، إفساح مقعد، مساعدة في حمل شيء، أو كلمة تشجيع دافئة) دون أن يطلب شكراً من أحد!",
+      "taskEn": "Perform one unnoticed act of spontaneous kindness today (picking up dropped supplies, making room, warm encouragement) without seeking praise!",
+      "requiresTeacherSignoff": true
+    },
+    "reflectionQuestionsAr": [
+      "من استفاد من تصرفي اليوم؟",
+      "هل استأذنت بلطف قبل تقديم المساعدة؟",
+      "متى تتحول المساعدة إلى تدخل أو قيام بعمل الآخر بدلاً من إعانته على التعلم؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Who benefited from my action today?",
+      "Did I ask respectfully before offering help?",
+      "When can help become unhelpful if I take over someone's learning instead of assisting?"
+    ]
+  },
+  {
+    "id": "courage",
+    "nameAr": "الشجاعة وضبط النفس",
+    "nameEn": "Courage",
+    "icon": "fa-shield-heart",
+    "color": "amber",
+    "definitionAr": "أن تفعل الصواب وتصدع بالحق وتضبط نفسك عند الانفعال، وتجرؤ على الاعتراف بالخطأ وطلب المساعدة عند الحاجة.",
+    "definitionEn": "Doing the right thing, speaking truth, mastering self-control, admitting mistakes bravely, and asking for help when needed.",
+    "quranHadithAr": "قال رسول الله ﷺ: «المؤمن القوي خير وأحب إلى الله من المؤمن الضعيف، وفي كلٍّ خير» (مسلم).",
+    "quranHadithEn": "The Prophet ﷺ said: 'The strong believer is better and more beloved to Allah than the weak believer, while there is good in both.'",
+    "pypLinkAr": "شجاع/مجازف (Risk-taker) وذو مبادئ (Principled)",
+    "pypLinkEn": "Risk-taker & Principled",
+    "scenarioGame": {
+      "titleAr": "لعبة: السؤال بشجاعة عند عدم الفهم",
+      "titleEn": "Speaking Up Safely: Asking When Unsure",
+      "contextAr": "شرح المعلم قاعدة لغوية سريعة، وفهمها معظم الطلاب بينما شعر فهد بأنه لم يفهم نقطة مهمة. خاف فهد أن يضحك عليه زملاؤه إذا رفع يده ليسأل. ماذا يفعل فهد؟",
+      "contextEn": "The teacher explained a grammar rule. Most understood, but Fahad felt confused about a key step. Fahad worried peers might laugh if he raised his hand. What should he do?",
+      "optionsAr": [
+        {
+          "text": "يبقى صامتاً متظاهراً بالفهم، ويفشل لاحقاً في حل المسألة وحده.",
+          "correct": false,
+          "feedback": "تردد وخوف! الخجل في طلب العلم يحرم صاحبه من الفهم."
+        },
+        {
+          "text": "يتحلى بالشجاعة الإيجابية ويرفع يده بهدوء قائلاً: 'أستاذي، هل يمكن إعادة توضيح هذه النقطة؟'",
+          "correct": true,
+          "feedback": "شجاعة الفرسان! لا يتعلم العلم مستحٍ ولا مستكبر؛ الشجاع يسأل ليتعلم ويشجع غيره."
+        },
+        {
+          "text": "يغضب ويلقي قلمه على الطاولة ويقول: 'هذا الدرس صعب وغير مفهوم!'",
+          "correct": false,
+          "feedback": "انفعال سلبي! الشجاعة ليست غضباً بل هي طلب المعرفة بأدب ووضوح."
+        }
+      ],
+      "optionsEn": [
+        {
+          "text": "Stay silent pretending to understand, then struggle and fail the exercise alone.",
+          "correct": false,
+          "feedback": "Hesitation and fear! Shy concealment prevents true learning."
+        },
+        {
+          "text": "Exercise positive courage, raise hand calmly, and say: 'Teacher, could you clarify that step?'",
+          "correct": true,
+          "feedback": "True courage! A courageous learner asks openly to master knowledge and inspires others."
+        },
+        {
+          "text": "Throw his pencil in frustration and shout: 'This lesson makes no sense!'",
+          "correct": false,
+          "feedback": "Negative impulse! True courage is composed and asks respectfully."
+        }
+      ]
+    },
+    "pairTask": {
+      "titleAr": "تدريب الجرأة على قول: «أحتاج مساعدة يا أخي»",
+      "titleEn": "Courageous Request: 'I Need Help Brother'",
+      "instructionAr": "يتدرب الزميلان على نطق عبارات الشجاعة: 'أنا لم أفهم هذه النقطة، هل تشرحها لي؟'، و'أنا ارتكبت خطأ صغيراً وأود تصحيحه' بكل ثقة وهدوء.",
+      "instructionEn": "Partners practice confident phrasing: 'I didn't quite grasp this step, could you explain it to me?' and 'I made a mistake and want to fix it.'"
+    },
+    "groupChallenge": {
+      "titleAr": "تحدي تمثيل الاعتراف بالخطأ وإصلاحه",
+      "titleEn": "Group Challenge: Admitting a Mistake & Repairing Trust",
+      "instructionAr": "تمثل كل مجموعة سيناريو قصير لطالب كسر مسطرة زميله بالخطأ: كيف يتقدم بشجاعة ويعتذر بصدق ويصلح الضرر دون خوف أو إنكار؟",
+      "instructionEn": "Groups role-play an accidental ruler break: How to bravely step forward, apologize sincerely, and repair damage without denial?"
+    },
+    "realLifeMission": {
+      "titleAr": "مهمة رفع اليد والسؤال عن غير المفهوم",
+      "titleEn": "Brave Questioning Mission",
+      "taskAr": "إذا مر مفهوم لم تفهمه تماماً اليوم في أي مادة: تحلَّ بالشجاعة وارفع يدك بهدوء واطلب التوضيح دون أي تردد!",
+      "taskEn": "If you encounter any unclear concept today: Bravely raise your hand calmly and request clarification without hesitation!",
+      "requiresTeacherSignoff": true
+    },
+    "reflectionQuestionsAr": [
+      "هل كان تصرفي اليوم شجاعاً أم متهوراً أم غير آمن؟",
+      "ما الذي ساعدني على التصرف بشجاعة وهدوء؟",
+      "كيف يكون الاعتراف بالخطأ نوعاً رفيعاً من أنواع الشجاعة؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Was my action today courageous, impulsive, or unsafe?",
+      "What helped me act with calm courage?",
+      "How is admitting an honest mistake one of the highest forms of courage?"
+    ]
+  },
+  {
+    "id": "respect",
+    "nameAr": "الاحترام وحسن الأدب",
+    "nameEn": "Respect",
+    "icon": "fa-hands-holding-child",
+    "color": "blue",
+    "definitionAr": "توقير المعلم، وإكرام الزميل، وحفظ النظام والسكينة، ومراعاة مشاعر الآخرين ومساحتهم الشخصية.",
+    "definitionEn": "Revering teachers, honoring classmates, maintaining tranquility and order, and valuing others' feelings and personal boundaries.",
+    "quranHadithAr": "قال رسول الله ﷺ: «ليس منا من لم يرحم صغيرنا، ويعرف شرف كبيرنا» (الترمذي واللفظ له).",
+    "quranHadithEn": "The Prophet ﷺ said: 'He is not one of us who does not show mercy to our young and respect the honor of our elders.'",
+    "pypProfile": [
+      "Principled",
+      "Communicator"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "متواصل"
+    ],
+    "scenarioGame": {
+      "titleAr": "لعبة: الاختلاف في الرأي بأدب الفرسان",
+      "titleEn": "Respectful Disagreement Challenge",
+      "contextAr": "أثناء عمل جماعي في حصة العلوم، اقترح طارق فكرة لم تعجب عبدالله. كاد عبدالله أن يصرخ: 'فكرتك غبية ولن تنجح أبداً!'، ماذا يفعل عبدالله ليعبر باحترام؟",
+      "contextEn": "During science group work, Tariq proposed an idea Abdullah disliked. Abdullah almost snapped: 'Your idea is silly and will never work!'. How should Abdullah disagree respectfully?",
+      "optionsAr": [
+        {
+          "text": "يسخر من طارق أمام المجموعة ليثبت أن رأيه هو الأصح.",
+          "correct": false,
+          "feedback": "سلوك جارح يفسد الأخوة وينافي أدب الحوار الإسلامي."
+        },
+        {
+          "text": "يقول بلطف: 'أشكرك يا طارق على فكرتك، ما رأيك لو جربنا كذا بدليل كذا؟' مناقشاً الفكرة لا الشخص.",
+          "correct": true,
+          "feedback": "قمة الرقي والاحترام! هاجم الفكرة بأدلة علمية ولم يهاجم شخص زميله."
+        },
+        {
+          "text": "ينسحب من المجموعة بغضب ويجلس وحده عابساً.",
+          "correct": false,
+          "feedback": "انسحاب سلبي! المؤمن يخالط الناس ويصبر ويتواصل بحكمة."
+        }
+      ],
+      "optionsEn": [
+        {
+          "text": "Mock Tariq's idea in front of the team to prove his own opinion is superior.",
+          "correct": false,
+          "feedback": "Disrespectful! Attacking a classmate ruins collaboration and breaks brotherhood."
+        },
+        {
+          "text": "Say politely: 'Thank you Tariq. What if we also tested this evidence?' debating the idea, not the person.",
+          "correct": true,
+          "feedback": "Exemplary respect! Respectful communicators critique ideas with evidence without humiliating peers."
+        },
+        {
+          "text": "Pout angrily, fold arms, and refuse to participate in the group task.",
+          "correct": false,
+          "feedback": "Sullen withdrawal! Principled learners stay engaged and communicate maturely."
+        }
+      ]
+    },
+    "pairTask": {
+      "titleAr": "تحدي مستويات الصوت وضبط الهمس",
+      "titleEn": "Voice Level Calibration & Respectful Posture",
+      "instructionAr": "يجلس الطالبان متقابلين: يتحدثان بصوت الهمس (المستوى ١) دون أن يسمعهما المقعد المجاور إطلاقاً، مع المحافظة على استقامة الظهر والتواصل البصري المحترم.",
+      "instructionEn": "Partners sit facing each other: Talk at voice level 1 (whisper) without neighboring desks hearing a single word, maintaining upright respectful posture."
+    },
+    "groupChallenge": {
+      "titleAr": "إصلاح الحوارات غير المهذبة (Fix the Dialogue)",
+      "titleEn": "Dialogue Restoration Workshop",
+      "instructionAr": "تتلقى كل مجموعة ٣ عبارات جافة (مثل: 'تحرك من مكاني!', 'أعطني قلمك الآن!', 'أنت لا تفهم شيئاً!')، وتعيد صياغتها بجمل إسلامية وأدبية راقية.",
+      "instructionEn": "Groups rewrite 3 rude phrases ('Move away!', 'Give me your pen!', 'You know nothing!') into polite, Sunnah-inspired sentences."
+    },
+    "realLifeMission": {
+      "titleAr": "مهمة إلقاء السلام بالابتسامة على ٣ معلمين وعمال",
+      "titleEn": "Salam, Smile & Door Holding Mission",
+      "taskAr": "إلقاء تحية الإسلام بابتسامة ناصعة وإمساك الباب بلطف للمارين ٣ مرات على الأقل اليوم!",
+      "taskEn": "Greet at least 3 teachers and support staff with a warm Salam and hold doors open for others today!",
+      "requiresTeacherSignoff": true
+    },
+    "reflectionQuestionsAr": [
+      "كيف أثر سلوكي اليوم في مشاعر الأشخاص المحيطين بي؟",
+      "كيف أختلف مع شخص في الرأي دون أن أقلل من احترامه أو أجرح كرامته؟",
+      "كيف يبدو الاستماع باحترام؟ وما صوته في صفنا؟"
+    ],
+    "reflectionQuestionsEn": [
+      "How did my behavior today affect the feelings of those around me?",
+      "How can I disagree with someone without disrespecting or humiliating them?",
+      "What does respectful listening look and sound like in our classroom?"
+    ]
+  },
+  {
+    "id": "responsibility",
+    "nameAr": "المسؤولية والإتقان",
+    "nameEn": "Responsibility",
+    "icon": "fa-list-check",
+    "color": "purple",
+    "definitionAr": "تحمل التزاماتك المدرسية والشخصية، وإتقان العمل، وحفظ الممتلكات والمرافق دون حاجة لرقيب إلا الله.",
+    "definitionEn": "Owning your personal and academic duties, mastering tasks, and caring for materials without needing reminders.",
+    "quranHadithAr": "قال رسول الله ﷺ: «كلكم راعٍ وكلكم مسؤول عن رعيته» (متفق عليه).",
+    "quranHadithEn": "The Prophet ﷺ said: 'Every one of you is a shepherd, and every one of you is responsible for his flock.'",
+    "pypProfile": [
+      "Principled",
+      "Balanced"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "متوازن"
+    ],
+    "scenarioGame": {
+      "titleAr": "لعبة: زجاجة الماء وقارورة الحبر في الحقيبة",
+      "titleEn": "Responsibility Challenge: Packed for Success",
+      "contextAr": "استيقظ فيصل متأخراً قبل المدرسة، وأراد رمي كتبه وقارورة الماء المفتوحة نصف إغلاق داخل الحقيبة مسرعاً للحاق بالحافلة. ماذا يفعل فيصل؟",
+      "contextEn": "Faisal woke up late. He wanted to toss notebooks and a half-closed water bottle haphazardly into his bag to catch the bus. What should Faisal do?",
+      "optionsAr": [
+        {
+          "text": "يرمي كل شيء في الحقيبة دون إحكام الغطاء ويركض للحافلة.",
+          "correct": false,
+          "feedback": "غير ملائم: عدم إحكام قارورة الماء قد يؤدي لانسكابها وتلف الدفاتر المدرسية؛ والتأني ٥ ثوانٍ يحمي الأدوات."
+        },
+        {
+          "text": "يتوقف لـ ٥ ثوانٍ: يشد غطاء الماء بإحكام، ويضعه في الجيب الجانبي المخصص، ويغلق سحاب الحقيبة.",
+          "correct": true,
+          "feedback": "إتقان ومسؤولية! وفر على نفسه ساعات من الحزن على دفاتر تالفة."
+        },
+        {
+          "text": "يترك الحقيبة مفتوحة تماماً ويتناولها من يد واحدة تتساقط منها الأقلام.",
+          "correct": false,
+          "feedback": "يحتاج تحسيناً: إغلاق سحاب الحقيبة يحفظ الممتلكات ويمنع ضياع الأدوات المدرسية."
+        }
+      ],
+      "optionsEn": [
+        {
+          "text": "Dump everything in without tightening the lid and dash to the bus.",
+          "correct": false,
+          "feedback": "Careless packing: Leaving water loose can spill and damage notebooks; a 5-second check protects your gear."
+        },
+        {
+          "text": "Pause for 5 seconds: Tighten the bottle cap firmly, place it in side pocket, and zip up the bag.",
+          "correct": true,
+          "feedback": "Mastery and Responsibility! A 5-second check prevents ruined books and lost gear."
+        },
+        {
+          "text": "Leave backpack unzipped so markers spill out as he runs.",
+          "correct": false,
+          "feedback": "Needs attention: Zipping backpacks keeps personal tools safe and prevents dropping supplies."
+        }
+      ]
+    },
+    "pairTask": {
+      "titleAr": "فحص انصراف الطاولة الثنائي (Pack-up Audit)",
+      "titleEn": "Mutual Pack-up Audit Protocol",
+      "instructionAr": "يفحص كل طالب طاولة زميله قبل الخروج: هل الأرضية نظيفة تماماً؟ هل الكرسي مدخل برفق؟ هل الحقيبة مغلقة؟ ثم يوقع له شفوياً بالاعتماد.",
+      "instructionEn": "Partners cross-audit desks before dismissal: Floor 100% clear? Chair tucked gently? Bag zipped? Give oral certification."
+    },
+    "groupChallenge": {
+      "titleAr": "لعبة الذاكرة: ما الذي نسيناه؟ (What Did I Forget?)",
+      "titleEn": "Memory & System Game: What Did I Forget?",
+      "instructionAr": "يعرض المعلم صورة لصف بعد الانصراف فيها ٤ أخطاء مسؤولية (ممحاة تحت كرسي، نافذة مفتوحة، كرسي يسد الممر، جهاز لوحي غير مشحون). ترصد المجموعات الأخطاء وتضع نظاماً يمنع تكرارها!",
+      "instructionEn": "Groups inspect a scene containing 4 post-dismissal mistakes (eraser under chair, open window, crooked chair, uncharged device) and design a preventive system!"
+    },
+    "realLifeMission": {
+      "titleAr": "مهمة الاستعداد للصلاة دون أي تذكير شفهي",
+      "titleEn": "Zero-Reminder Prayer Transition",
+      "taskAr": "حفظ الأدوات، خلع الحذاء تحت الطاولة بالفصل، والمشي بسكينة للمصلى دون أن يضطر المعلم لقول كلمة تذكير واحدة!",
+      "taskEn": "Pack supplies, place shoes under classroom desks, and walk with Sakinah to prayer without a single teacher reminder!",
+      "requiresTeacherSignoff": true
+    },
+    "reflectionQuestionsAr": [
+      "ما الواجب الذي أنجزته اليوم بنفسي دون أن يذكرني به أحد؟",
+      "ما النظام البسيط الذي سيساعدني على تذكر أدواتي ومهامي يومياً؟",
+      "كيف ساعد تحملي للمسؤولية في جعل صفنا مكاناً مريحاً للجميع؟"
+    ],
+    "reflectionQuestionsEn": [
+      "What duty did I complete today entirely independently without any reminder?",
+      "What simple system can help me remember my gear and responsibilities daily?",
+      "How did my personal responsibility make our classroom a smoother place for everyone?"
+    ]
+  },
+  {
+    "id": "honesty",
+    "nameAr": "الصدق والأمانة",
+    "nameEn": "Honesty & Integrity",
+    "icon": "fa-certificate",
+    "color": "rose",
+    "definitionAr": "قول الحقيقة دائماً، وحفظ المفقودات والأمانات، والجرأة على الاعتراف بالخطأ وتصحيحه.",
+    "definitionEn": "Always telling the truth, safeguarding lost items, bravely admitting mistakes, and repairing trust.",
+    "quranHadithAr": "قال رسول الله ﷺ: «عليكم بالصدق، فإن الصدق يهدي إلى البر، وإن البر يهدي إلى الجنة» (متفق عليه).",
+    "quranHadithEn": "The Prophet ﷺ said: 'Adhere to truthfulness, for truthfulness leads to righteousness, and righteousness leads to Paradise.'",
+    "pypProfile": [
+      "Principled",
+      "Reflective"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "متأمل"
+    ],
+    "scenarioGame": {
+      "titleAr": "لعبة: قلم الألوان الفاخر المفقود في الساحة",
+      "titleEn": "Honesty Challenge: The Found Art Pen",
+      "contextAr": "وجد خالد علبة أقلام فاخرة وجديدة منسية في ركن التربية الفنية. كان يتمنى شراء مثلها منذ أسابيع. ماذا يفعل خالد؟",
+      "contextEn": "Khalid finds a brand-new, expensive drawing set left behind in the art studio. He has dreamed of buying this exact set for weeks. What should Khalid do?",
+      "optionsAr": [
+        {
+          "text": "يضعها في حقيبته ويقول: 'من أضاعها فهو مهمل ولا يستحقها!'.",
+          "correct": false,
+          "feedback": "حرام وخيانة أمانة! اللقطة في المدرسة يجب ردها لصاحبها."
+        },
+        {
+          "text": "يسلمها فوراً لمعلم الفنية أو مسؤول المفقودات ليعلن عنها ويعيدها لزميلها.",
+          "correct": true,
+          "feedback": "أمانة الصحابة! 'أدِّ الأمانة إلى من ائتمنك'؛ الصدق والأمانة أغلى من كنوز الدنيا."
+        },
+        {
+          "text": "يخبئها تحت طاولة زميله ليرى إن كان سيبحث عنها.",
+          "correct": false,
+          "feedback": "مماطلة ولعب بالأمانات ينافي خلق المؤمن الصادق."
+        }
+      ],
+      "optionsEn": [
+        {
+          "text": "Slip it into his backpack, thinking: 'Whoever lost it was careless and doesn't deserve it!'",
+          "correct": false,
+          "feedback": "Breach of trust and unlawful! Lost property must be safeguarded and returned."
+        },
+        {
+          "text": "Hand it straight to the art teacher or Lost & Found so it returns to its rightful owner.",
+          "correct": true,
+          "feedback": "Noble integrity! 'Fulfill the trust to those who entrusted you'; honesty is worth more than all treasures."
+        },
+        {
+          "text": "Hide it under a table to see if anyone searches for it.",
+          "correct": false,
+          "feedback": "Tampering with lost property violates true Muslim character."
+        }
+      ]
+    },
+    "pairTask": {
+      "titleAr": "لعبة فرز: حقيقة أم افتراض أم إشاعة؟",
+      "titleEn": "Fact, Assumption or Rumor Sorting Game",
+      "instructionAr": "يقرأ الزميلان ٤ جمل شائعة في المدرسة، ويصنفانها بدقة: ما هي الحقيقة المؤكدة؟ وما هو الافتراض؟ وما هي الإشاعة التي يحرم نقلها عملاً بالحديث: 'كفى بالمرء كذباً أن يحدث بكل ما سمع'؟",
+      "instructionEn": "Partners sort 4 school statements: What is verified Fact? What is Assumption? What is Rumor that must never be spread based on the Hadith?"
+    },
+    "groupChallenge": {
+      "titleAr": "تمثيل الاعتذار الصادق وإصلاح الثقة (Repairing Trust)",
+      "titleEn": "Group Role-Play: Sincere Apology & Repairing Trust",
+      "instructionAr": "تمثل المجموعة حواراً راقياً لطالب نقل معلومة غير دقيقة عن زميله، ثم أدرك خطأه: كيف يعتذر له بشجاعة ويصحح المعلومة أمام من سمعها منه بصدق وأمانة؟",
+      "instructionEn": "Groups role-play a student who spread inaccurate info, realized his fault, and bravely apologized and corrected the record with honesty!"
+    },
+    "realLifeMission": {
+      "titleAr": "مهمة الصدق الكامل وإرجاع أي أداة مستعارة",
+      "titleEn": "Total Truthfulness & Borrowed Item Return",
+      "taskAr": "التحدث بالصدق التام طوال اليوم، وإرجاع أي قلم أو مسطرة أو كتاب استعرته من زميلك أو معلمك قبل نهاية الحصة الأخيرة بنظافة وشكر!",
+      "taskEn": "Speak 100% truthfulness all day, and return any borrowed stationery to its owner before dismissal with gratitude!",
+      "requiresTeacherSignoff": true
+    },
+    "reflectionQuestionsAr": [
+      "هل كنت صادقاً في كل كلامي وتصرفاتي اليوم دون تجميل أو إخفاء؟",
+      "هل تحققت من صحة كل معلومة سمعتها قبل أن أنقلها لغيري؟",
+      "كيف أصلح الثقة بيني وبين صديقي أو معلمي إذا ارتكبت خطأ غير مقصود؟"
+    ],
+    "reflectionQuestionsEn": [
+      "Was I completely truthful in all words and actions today without distortion?",
+      "Did I verify information before repeating it to anyone else?",
+      "How can I actively repair trust with a peer or teacher after an honest mistake?"
+    ]
+  }
+]

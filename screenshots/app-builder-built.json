@@ -1,0 +1,41 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Fursan Al-Qiyam",
+      "hasCanvas": false,
+      "bodyTextLen": 1641,
+      "bodyTextHash": "c408c8d4d04e0fa2239152b3feb41ed0c3da7de29afe9af408fedccd86fdc329",
+      "bodyTextPrefix": "فُرسان القِيَم منصة مهارات الحياة والآداب · مدارس جدة الخاصة الع",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Fursan Al-Qiyam",
+      "hasCanvas": false,
+      "bodyTextLen": 1435,
+      "bodyTextHash": "e214bd0b052d526c45a669800f9659f23255b4c178ab8178b64426b4a97547fd",
+      "bodyTextPrefix": "فُرسان القِيَم 0 الصف الأول الابتدائي الصف الثاني الابتدائي الصف",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": true,
+  "baselineReasons": [
+    "desktop: body text replaced (similar length, page start changed)",
+    "mobile: body text replaced (similar length, page start changed)"
+  ]
+}

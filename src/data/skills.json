@@ -1,0 +1,1521 @@
+[
+  {
+    "badgeColor": "emerald",
+    "character": {
+      "nameAr": "سعود وفهد",
+      "nameEn": "Saud & Fahad"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: صورة كف يد توضح الطرق بثلاث أصابع باليمين، وبطاقة ملونة على يمين الباب توضح مكان الوقوف.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: 3-finger visual icon on door right-side showing exact standing spot.",
+    "grade4TimerSecs": 45,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. ما المشكلة المحددة؟ (الباب مغلق والحصة بدأت)",
+        "٢. من سيتأثر بهذا الموقف؟ (المعلم، الطلاب المنصتون، وسعود نفسه)",
+        "٣. ما العواقب المتوقعة إذا فتح الباب فجأة؟ (تشتيت انتباه الصف وإزعاج الجميع)",
+        "٤. ما القيمة الغائبة في تصرف زميل سعود؟ (الاحترام وحفظ السكينة)",
+        "٥. اذكر حلين ممكنين للموقف.",
+        "٦. ما الحل الأمثل؟ (الطرق الثلاثي الهادئ، الوقوف جانباً، وإلقاء السلام بلطف)",
+        "٧. جملة مهذبة يقولها سعود: «عفواً يا أستاذ، أعتذر عن التأخر، هل تأذن لي بالدخول؟»"
+      ],
+      "investigationStepsEn": [
+        "1. What is the specific problem? (Closed door & class already underway)",
+        "2. Who is affected? (The teacher, listening peers, and Saud himself)",
+        "3. What are possible consequences of barging in? (Disrupting focus and startling the class)",
+        "4. What is the missing value? (Respect and personal composure)",
+        "5. Brainstorm 2 possible solutions.",
+        "6. What is the best solution? (3 gentle knocks, standing to side, greeting politely)",
+        "7. Respectful sentence: 'Excuse me teacher, apologies for the delay, may I enter please?'"
+      ],
+      "scenarioAr": "وصل سعود بعد بدء الحصة بثلاث دقائق. وجد الباب مغلقاً والمعلم يشرح، وبجانبه طالب آخر يدفعه ليفتح الباب سريعاً.",
+      "scenarioEn": "Saud arrives 3 minutes late. The door is closed and the teacher is teaching. Another student pushes him to barge in fast.",
+      "titleAr": "محقق المواقف: الباب الموصد وسعود المتأخر",
+      "titleEn": "Scenario Detective: The Closed Door & Late Arrival",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-door-open",
+    "id": "door_knocking",
+    "islamicValueAr": "قال رسول الله ﷺ: «الاستئذان ثلاث، فإن أذن لك وإلا فارجع» (متفق عليه) — خلق الرفق وحفظ الحرمات.",
+    "islamicValueEn": "The Prophet ﷺ said: 'Permission is to be asked thrice; if granted enter, otherwise return.' (Agreed upon) — Kindness and respect for privacy.",
+    "jpisValue": "Respect",
+    "jpisValueAr": "الاحترام",
+    "juniorCriteriaAr": [
+      "أقف بجانب الباب وأطرق ٣ طرقات خفيفة بأصابعي.",
+      "أنتظر بهدوء حتى يسمح لي معلمي بالدخول.",
+      "أدخل بابتسامة وأقول: «السلام عليكم» وأغلق الباب برفق."
+    ],
+    "juniorCriteriaEn": [
+      "Stand by the door and tap 3 soft times with my fingers.",
+      "Wait patiently until my teacher invites me in.",
+      "Step in with a smile, say 'Salam', and close the door softly."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أطرق باب فصلي بهدوء ٣ مرات وأنتظر معلمي مبتسماً.",
+    "juniorObjectiveEn": "I learn to tap our classroom door softly 3 times and wait smiling.",
+    "learningObjectiveAr": "نتعلم كيف نستأذن ونطرق الباب برفق حتى نُظهر قيمة الاحترام والسكينة وحفظ خصوصية الصف.",
+    "learningObjectiveEn": "We are learning how to knock and enter respectfully so that we can demonstrate Respect, tranquility, and classroom privacy.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أعرف الخطوات الخمس نظرياً وأميز بين الطرق الهادئ والعنيف",
+        "en": "Learning: Understand the 5 steps and distinguish gentle vs harsh knocking"
+      },
+      "tier2": {
+        "ar": "أتدرب: أطبق الطرق الخفيف وإغلاق الباب بنجاح في نشاط تبادل الأدوار",
+        "en": "Practising: Demonstrate gentle knock and soft door closure in role-play"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أمارس الاستئذان وإغلاق الباب برفق طوال اليوم دون تذكير",
+        "en": "Independent: Consistently practice respectful entry throughout the school day unprompted"
+      }
+    },
+    "minigame": {
+      "instructionAr": "رتب خطوات دخول الفصل بالترتيب الصحيح، ثم نفذها عملياً مع زميلك!",
+      "instructionEn": "Arrange the classroom entry steps in the correct sequence, then demonstrate physically!",
+      "steps": [
+        {
+          "id": 1,
+          "textAr": "الوقوف بهدوء على يمين الباب أو يساره وليس في الوسط",
+          "textEn": "Stand calmly to the right or left of the door, not in the center"
+        },
+        {
+          "id": 2,
+          "textAr": "طرق الباب بأطراف الأصابع ٣ طرقات خفيفة ومتباعدة",
+          "textEn": "Tap gently with fingertips 3 distinct quiet times"
+        },
+        {
+          "id": 3,
+          "textAr": "الانتظار بصبر حتى يسمعك المعلم ويأذن لك بالدخول",
+          "textEn": "Wait patiently for the teacher to grant permission"
+        },
+        {
+          "id": 4,
+          "textAr": "الدخول بابتسامة وإلقاء تحية الإسلام: «السلام عليكم»",
+          "textEn": "Step inside with a smile and greet with 'As-salamu Alaykum'"
+        },
+        {
+          "id": 5,
+          "textAr": "إمساك مقبض الباب وإغلاقه برفق تام دون أي تصفيق",
+          "textEn": "Hold the door handle and close it softly with zero slamming sound"
+        }
+      ],
+      "titleAr": "لعبة ترتيب خطوات الاستئذان",
+      "titleEn": "Door Etiquette Sequence Challenge",
+      "type": "put_in_order"
+    },
+    "partner": {
+      "promptAr": "يشرح الطالب لزميله في ٦٠ ثانية: لماذا أمرنا النبي ﷺ بالاستئذان ثلاثاً والوقوف جانباً؟ ثم يلخص الزميل كلامه ويضيف تفصيلاً ناقصاً.",
+      "promptEn": "Student explains to partner in 60 seconds: Why did the Prophet ﷺ command asking permission 3 times and standing to the side? Partner paraphrases and adds one detail.",
+      "titleAr": "مدرب الدقيقة الواحدة (One-Minute Coach)",
+      "titleEn": "One-Minute Coach Protocol"
+    },
+    "practise": {
+      "promptAr": "يتناوب الطالبان (أ) و (ب): يخرج الطالب (أ) ويطبق الطرق الثلاثي والوقوف بالجانب وإغلاق الباب برفق، بينما يلاحظه (ب) وفق معايير النجاح، ثم يتبادلان الأدوار!",
+      "promptEn": "Partners A & B switch: Student A steps outside to model the 3 gentle taps, standing to side, and quiet door closure while Student B observes against criteria. Then switch!",
+      "stemsAr": [
+        "«أظهرت قيمة الاحترام عندما طرقت برفق ٣ مرات ولم تدفع الباب بقوة.»",
+        "«في المرة القادمة يمكنك تحسين إغلاق الباب من خلال إمساك المقبض حتى النهاية دون تصفيق.»"
+      ],
+      "stemsEn": [
+        "'You demonstrated Respect when you knocked gently 3 times without banging.'",
+        "'Next time, you could improve by holding the door handle until it latches quietly without slamming.'"
+      ],
+      "titleAr": "تدريب تبادل الأدوار (Role-Play Switch)",
+      "titleEn": "Role-Play Switch & Physical Rehearsal"
+    },
+    "pypProfile": [
+      "Principled",
+      "Caring"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "مهتم"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "خلال اليوم الدراسي بأكمله: أي طالب يدخل الصف أو غرفة المعلمين يطبق خطوات الاستئذان الثلاث وإغلاق الباب برفق دون أي تذكير من المعلم!",
+      "taskEn": "Throughout the entire school day: Any student entering the classroom or staffroom demonstrates the 3-knock rule and soft door closure with zero teacher reminders!",
+      "titleAr": "مهمة فرسان اليوم: الاستئذان الذهبي في كل تنقل",
+      "titleEn": "Today's Real-Life Mission: Golden Door Etiquette"
+    },
+    "reflection": {
+      "questionAr": "كيف يحمي الاستئذان خصوصية الآخرين وكرامتهم؟ وما الذي ستفعله إذا طرقت ٣ مرات ولم يأذن لك أحد؟",
+      "questionEn": "How does asking permission protect others' privacy and dignity? What will you do if you knock 3 times and no one answers?"
+    },
+    "successCriteriaAr": [
+      "أشرح أهمية الاستئذان وحفظ خصوصية الدرس.",
+      "أرتب خطوات الاستئذان الخمس ترتيباً صحيحاً.",
+      "أطبق الطرق الخفيف الثلاثي والوقوف بالجانب وإغلاق الباب برفق بأمان.",
+      "أساعد زميلي في تبادل الأدوار وأعطيه تغذية راجعة مهذبة.",
+      "أحدد حديث الاستئذان النبوي وملمحي (ذو مبادئ) و(مهتم).",
+      "أتأمل في هدوء دخولي وأحدد خطوة لتحسينه."
+    ],
+    "successCriteriaEn": [
+      "Explain why respectful entry and privacy matter.",
+      "Put the 5 door-entry steps into correct sequence.",
+      "Demonstrate the 3 gentle knocks, standing to the side, and quiet door closure safely.",
+      "Help a partner improve during role-play using respectful sentence stems.",
+      "Identify the Hadith on Isti'dhan and the PYP attributes (Principled & Caring).",
+      "Reflect on my calm entrance and commit to a tangible improvement."
+    ],
+    "taglineAr": "ثلاث طرقات هادئة، وقوف بالجانب، وسلام برفق",
+    "taglineEn": "3 gentle knocks, standing to side, entering with Salam",
+    "titleAr": "١. أدب الاستئذان وطرق الباب برفق",
+    "titleEn": "1. Knocking & Gentle Door Entry"
+  },
+  {
+    "badgeColor": "amber",
+    "character": {
+      "nameAr": "فيصل",
+      "nameEn": "Faisal"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: مؤقت ٩٠ ثانية (بدل ٦٠)، وبطاقة ألوان للمواد (الكتاب، المقلمة، الزمزمية).",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: Extended 90-second launchpad timer with color-coded checklist for book, pencil case, bottle.",
+    "grade4TimerSecs": 90,
+    "groupChallenge": {
+      "scenarioAr": "يقوم المعلم بتمثيل دخول الصباح ويتعمد ارتكاب ٣ أخطاء آمنة (يترك حقيبته في الممر، يترك قارورة الماء مفتوحة فوق الأوراق، ويبحث عن قلمه بعد بدء الشرح). تتنافس المجموعات في رصد الأخطاء الثلاثة وتصحيحها بلباقة!",
+      "scenarioEn": "Teacher deliberately models morning arrival with 3 safe mistakes (leaving bag in aisle, open water bottle near paper, hunting for marker after talking starts). Groups spot and respectfully correct all 3!",
+      "targetMistakesAr": [
+        "١. الحقيبة تسد الممر",
+        "٢. زجاجة الماء مفتوحة فوق الورق",
+        "٣. عدم تجهيز القلم قبل بدء الدرس"
+      ],
+      "targetMistakesEn": [
+        "1. Bag blocking walking aisle",
+        "2. Open water bottle on papers",
+        "3. Stationery not prepped before class starts"
+      ],
+      "titleAr": "صحح خطأ المعلم (Beat the Teacher)",
+      "titleEn": "Beat the Teacher Observation Challenge",
+      "type": "beat_the_teacher"
+    },
+    "icon": "fa-briefcase",
+    "id": "bag_routine",
+    "islamicValueAr": "قال رسول الله ﷺ: «إن الله يحب إذا عمل أحدكم عملاً أن يتقنه» (رواه البيهقي في شعب الإيمان وحسنه الألباني) — قيمة الإتقان والمسؤولية الشخصية.",
+    "islamicValueEn": "The Prophet ﷺ said: 'Allah loves that when one of you does a deed, he masters it with excellence' (Bayhaqi, Hasan by Al-Albani) — Excellence & personal responsibility.",
+    "jpisValue": "Responsibility",
+    "jpisValueAr": "المسؤولية",
+    "juniorCriteriaAr": [
+      "أعلق حقيبتي وأغلق سحابها حتى لا يسقط شيء.",
+      "أخرج كتابي وقلمي وأضعهما مرتبين أمامي.",
+      "أتأكد أن قارورة مائي مغلقة جيداً في مكانها الآمن."
+    ],
+    "juniorCriteriaEn": [
+      "Hang my backpack and zip it completely so nothing drops.",
+      "Take out my book and pencil, placing them neatly on my desk.",
+      "Check that my water bottle is closed tight in its safe spot."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أجهز كتبي ومقلمتي على طاولتي وأعلق حقيبتي بنظام.",
+    "juniorObjectiveEn": "I learn to place my books on my desk and hang my backpack neatly.",
+    "learningObjectiveAr": "نتعلم كيف ننظم حقيبتنا وطاولتنا في ٦٠ ثانية حتى نُظهر قيمة المسؤولية والإتقان في طلب العلم.",
+    "learningObjectiveEn": "We are learning how to organize our backpack and desk in 60 seconds so that we can demonstrate Responsibility and excellence in learning.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أميز الطاولة المنظمة من الطاولة الفوضوية",
+        "en": "Learning: Distinguish organized desk from cluttered desk"
+      },
+      "tier2": {
+        "ar": "أتدرب: أنظم طاولتي وحقيبتي في أقل من دقيقة بنجاح",
+        "en": "Practising: Organize desk and bag in under 60s in practice drills"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: طاولتي وممري مرتبان دائماً طوال الأسبوع دون أي تنبيه",
+        "en": "Independent: Desk and aisle consistently spotless all week without reminders"
+      }
+    },
+    "minigame": {
+      "sceneAr": "وصل فيصل ورمى حقيبته في ممر الصف، وفتح علبة ألوانه مبعثرة على الطاولة، وزجاجة الماء مفتوحة بجانب دفتر الرياضيات المفتوح، وبدأ يبحث عن قلمه بعد رنين الجرس.",
+      "sceneEn": "Faisal arrives and dumps his backpack in the walking aisle, spills markers across the desk, leaves an open water bottle right next to his math book, and searches frantically for a pencil after the bell.",
+      "seeThinkWonderAr": {
+        "see": "ماذا تلاحظ في الصورة/المشهد؟ (حقيبة تسد الممر، ماء مهدد بالانسكاب، أقلام مبعثرة)",
+        "think": "ماذا تعتقد أنه سيحدث إذا تعثر زميل بالحقيبة أو انسكب الماء؟ (تلف الدفاتر، تعثر الطلاب، ضياع وقت الحصة)",
+        "wonder": "ما الأسئلة التي يجب أن يسألها فيصل لنفسه؟ (كيف أجعل طاولتي مرتبة في ٦٠ ثانية؟ أين أضع زجاجة الماء بأمان؟)"
+      },
+      "seeThinkWonderEn": {
+        "see": "What do you observe? (Backpack blocking aisle, open water bottle near notebook, scattered crayons)",
+        "think": "What could happen if a peer trips or water spills? (Damaged books, hallway injuries, lost learning time)",
+        "wonder": "What questions should Faisal ask himself? (How can I launch my desk in 60s? Where is the safest spot for my bottle?)"
+      },
+      "titleAr": "اكتشف الخطأ: طاولة فيصل المزدحمة",
+      "titleEn": "Spot the Problem: Faisal's Cluttered Launchpad",
+      "type": "spot_problem"
+    },
+    "partner": {
+      "promptAr": "ينظر كل طالب إلى طاولة زميله: هل الممر خالٍ؟ هل الزجاجة مغلقة؟ هل الأدوات جاهزة؟ يعطي زميله إشارة الإبهام للأعلى 👍 أو نصيحة سريعة.",
+      "promptEn": "Partners audit each other's desk: Is the aisle clear? Is the bottle capped? Are supplies ready? Give a thumbs-up 👍 or quick polite tip.",
+      "titleAr": "فحص جاهزية الشريك (Partner Readiness Audit)",
+      "titleEn": "Partner Readiness Audit"
+    },
+    "practise": {
+      "promptAr": "يطلق المعلم مؤقت الـ ٦٠ ثانية: يعلق كل طالب حقيبته، يخرج الكتاب والدفتر والمقلمة، يؤمن زجاجة الماء، ويغلق سحاب الحقيبة ويجلس بانتصاب!",
+      "promptEn": "Teacher starts 60-second timer: Every student hangs bag, retrieves book/notebook/pencil case, secures water bottle, zips bag, and sits upright!",
+      "stemsAr": [
+        "«أظهرت قيمة المسؤولية عندما أغلقت سحاب الحقيبة بالكامل وأمنت زجاجة الماء.»",
+        "«في المرة القادمة يمكنك تحسين تنظيمك بإخراج كتاب الحصة فقط وإبقاء باقي الكتب في الحقيبة.»"
+      ],
+      "stemsEn": [
+        "'You demonstrated Responsibility when you zipped your backpack and secured your water bottle.'",
+        "'Next time, you could improve by taking out only the current subject book to keep the desk clutter-free.'"
+      ],
+      "titleAr": "تحدي الـ ٦٠ ثانية لتجهيز الطاولة (Faisal's 60s Blitz)",
+      "titleEn": "Faisal's 60-Second Blitz Rehearsal"
+    },
+    "pypProfile": [
+      "Balanced",
+      "Principled"
+    ],
+    "pypProfileAr": [
+      "متوازن",
+      "ذو مبادئ"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "عند بداية كل حصة اليوم: التأكد من خلو جميع ممرات الصف من أي حقيبة أو أداة ملقاة بنسبة ١٠٠٪!",
+      "taskEn": "At the start of every lesson today: Ensure 100% of classroom aisles are completely free of bags and clutter!",
+      "titleAr": "مهمة فحص الممرات الصباحية",
+      "titleEn": "Morning Aisle Safety Mission"
+    },
+    "reflection": {
+      "questionAr": "ما النظام الشخصي الذي ستتبعه في بيتك وحقيبتك لتتأكد أنك أحضرت جميع أدواتك دون أن تنسى شيئاً؟",
+      "questionEn": "What personal routine can you set at home so you never forget necessary books or stationery?"
+    },
+    "successCriteriaAr": [
+      "أشرح كيف يوفر تجهيز الطاولة المبكر وقت التعلم ويمنع التشتت.",
+      "أرتب أدواتي على الطاولة بنظام دون مبعثرات.",
+      "أعلق حقيبتي وأغلق سحابها بالكامل وأؤمن زجاجة الماء.",
+      "أساعد زميل طاولتي في فحص جاهزية أدواته باحترام.",
+      "أربط مهارة تنظيم الحقيبة بحديث «إن الله يحب إذا عمل أحدكم عملاً أن يتقنه».",
+      "أتأمل في سرعة إعداد طاولتي وأضع خطة لأكون أسرع غداً."
+    ],
+    "successCriteriaEn": [
+      "Explain how early desk setup protects learning time and prevents distraction.",
+      "Arrange tools and stationery neatly on the desk without clutter.",
+      "Hang backpack, zip it completely, and secure water bottle safely.",
+      "Help my table partner audit desk readiness respectfully.",
+      "Link desk organization to the Hadith: 'Allah loves when you do a deed, to do it with mastery.'",
+      "Reflect on my setup speed and plan to be even more efficient tomorrow."
+    ],
+    "taglineAr": "تجهيز أدوات الحصة في ٦٠ ثانية والحرص على الأمانة",
+    "taglineEn": "Readying books and supplies in 60s with full ownership",
+    "titleAr": "٢. تفقد الحقيبة وتنظيم طاولة التعلم",
+    "titleEn": "2. Morning Bag Check & Desk Readiness"
+  },
+  {
+    "badgeColor": "blue",
+    "character": {
+      "nameAr": "سلمان وطارق",
+      "nameEn": "Salman & Tariq"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: خط بصري أصفر على يمين الممر، وشعار 'أقدام الفهد الهادئة' دون صوت.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: Visual yellow guide line on right corridor wall, 'Silent Steps' challenge.",
+    "grade4TimerSecs": 60,
+    "groupChallenge": {
+      "categoriesAr": [
+        "في الممرات: التزام اليمين والسكينة",
+        "في الصف: رفع اليد وتجهيز الطاولة",
+        "في كل مكان: كف الأذى والابتسامة"
+      ],
+      "categoriesEn": [
+        "In Hallways: Keeping right & composure",
+        "In Class: Hand raising & desk launch",
+        "Everywhere: Safety & kind smiles"
+      ],
+      "scenarioAr": "تصنف المجموعات بطاقات السلوكيات إلى: (داخل الصف / في الممرات / في الحمام / في كل مكان)، ثم ينفذ ممثل المجموعة حركة المشي الوقور أمام الصف بدقة وأمان!",
+      "scenarioEn": "Groups sort behavior cards into: (Classroom / Hallway / Restroom / Everywhere), then a squad champion demonstrates serene walking with zero speed-racing!",
+      "titleAr": "تتابع الروتين (Routine Relay)",
+      "titleEn": "Routine Relay Categorization",
+      "type": "routine_relay"
+    },
+    "icon": "fa-person-walking",
+    "id": "hallway_sakinah",
+    "islamicValueAr": "«عليكم بالسكينة والوقار» (متفق عليه)، وقوله تعالى: ﴿وَاقْصِدْ فِي مَشْيِكَ﴾ — أدب المسلم في هيئته ومشيه.",
+    "islamicValueEn": "The Prophet ﷺ said: 'Adhere to tranquility and dignity.' Also: 'And be moderate in your pace' (Quran 31:19).",
+    "jpisValue": "Respect",
+    "jpisValueAr": "الاحترام",
+    "juniorCriteriaAr": [
+      "أمشي بخطوات هادئة كالفهد الذكي دون صوت.",
+      "ألتزم جهة اليمين دائماً لأترك مسافة لأصدقائي.",
+      "أبتسم لمن أراه دون لمس الجدران أو الأبواب."
+    ],
+    "juniorCriteriaEn": [
+      "Walk with quiet, gentle footsteps without noise.",
+      "Keep to the right side to leave plenty of room for friends.",
+      "Smile at passersby without touching walls or doors."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أمشي في ممر مدرستي بهدوء في جهة اليمين دون ركض.",
+    "juniorObjectiveEn": "I learn to walk quietly on the right side of the hallway without running.",
+    "learningObjectiveAr": "نتعلم كيف نمشي بسكينة ووقار ونلتزم اليمين حتى نُظهر قيمة الاحترام والرفق بالآخرين وسلامة الجميع.",
+    "learningObjectiveEn": "We are learning how to walk calmly on the right side so that we can demonstrate Respect, dignity, and safety for everyone in our school.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أعرف قانون اليمين والسكينة نظرياً",
+        "en": "Learning: Understand right-side rule and tranquility conceptually"
+      },
+      "tier2": {
+        "ar": "أتدرب: أمشي بهدوء والتزم اليمين في تدريبات الصف والممرات",
+        "en": "Practising: Walk calmly on the right side during class and hallway drills"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: ألتزم بالسكينة التامة في كل تنقل مدرسي طوال الأسبوع",
+        "en": "Independent: Consistently move with tranquility throughout every school transition"
+      }
+    },
+    "minigame": {
+      "sceneAr": "سلمان يركض بأقصى سرعته في منتصف الممر ليلحق بصديقه، بينما طارق يزحف بيده على جدران الفصول ويطرق الأبواب بصوت مرتفع، وفصل مجاور يجري اختباراً قصيراً.",
+      "sceneEn": "Salman sprints at top speed down the center of the hallway to catch his friend, while Tariq drags his hands on classroom doors, making loud bangs while a neighboring class takes a quiz.",
+      "seeThinkWonderAr": {
+        "see": "ماذا تلاحظ في المشهد؟ (ركض سريع في المنتصف، ضرب على الأبواب، إزعاج للفصول)",
+        "think": "ما الخطر المحتمل؟ (اصطدام بشخص يخرج من الباب، انزلاق وسقوط، تشتيت اختبار الفصل المجاور)",
+        "wonder": "ما التساؤل التربوي؟ (كيف يعكس مشينا بالسكينة صورة المسلم الراقي ذي المبادئ؟)"
+      },
+      "seeThinkWonderEn": {
+        "see": "What do you observe? (Center hallway sprinting, slamming doors, disturbing adjacent rooms)",
+        "think": "What is the danger? (Colliding with someone exiting, dangerous slips, ruining a quiz)",
+        "wonder": "What is the reflective question? (How does walking with dignity reflect our Islamic values?)"
+      },
+      "titleAr": "اكتشف الخطأ: فوضى في ممر المدرسة",
+      "titleEn": "Spot the Problem: Hallway Commotion",
+      "type": "spot_problem"
+    },
+    "partner": {
+      "promptAr": "يمشي الطالبان معاً كزميلين: يراقب كل منهما الآخر للتأكد من المشي على اليمين وترك مسافة ذراع واحدة والتزام الصمت التام.",
+      "promptEn": "Partners walk together: Audit each other to ensure staying on the right, keeping one arm-length distance, and maintaining zero vocal noise.",
+      "titleAr": "ملاحظة السكينة والمحاذاة",
+      "titleEn": "Pacing & Spacing Partner Check"
+    },
+    "practise": {
+      "promptAr": "يقف الطلاب في خط مستقيم على الجانب الأيمن من الصف: يمشون مسافة ١٠ أمتار دون إصدار صوت حذاء واحد ودون ملامسة الجدران، مع تبادل ابتسامة السلام!",
+      "promptEn": "Students line up on the right side: Walk a 10-meter distance in absolute silence with zero foot-stomping and zero wall-touching, offering a warm nod of Salam!",
+      "stemsAr": [
+        "«أظهرت قيمة الاحترام والسكينة عندما التزمت الجانب الأيمن ومشيت بهدوء تام.»",
+        "«في المرة القادمة يمكنك تحسين وقارك بإبقاء يديك جانباً دون ملامسة الأبواب.»"
+      ],
+      "stemsEn": [
+        "'You demonstrated Respect and tranquility when staying on the right side calmly.'",
+        "'Next time, you can improve by keeping hands relaxed by your sides without touching doors.'"
+      ],
+      "titleAr": "تحدي السكينة الصامت (The Silent Glide)",
+      "titleEn": "The Silent Glide Physical Rehearsal"
+    },
+    "pypProfile": [
+      "Reflective",
+      "Principled"
+    ],
+    "pypProfileAr": [
+      "متأمل",
+      "ذو مبادئ"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "الانتقال الكامل للصف من الفصل إلى المصلى أو الملعب في طابور أيمن صامت بنسبة ١٠٠٪ دون أي تنبيه من المعلم!",
+      "taskEn": "Move the entire class to the Musalla or PE field on the right side in 100% serene silence without a single reminder!",
+      "titleAr": "مهمة الانتقال الصامت إلى حصة التربية البدنية أو المصلى",
+      "titleEn": "Silent Hallway Transition Mission"
+    },
+    "reflection": {
+      "questionAr": "كيف يحمي المشي الهادئ سلامتي وسلامة زملائي؟ وما أثر خفض الصوت في الممرات على الطلاب المنصتين في الفصول الأخرى؟",
+      "questionEn": "How does calm walking protect everyone's physical safety? How does lowering hallway noise respect learning in adjacent rooms?"
+    },
+    "successCriteriaAr": [
+      "أشرح لماذا خُصصت الممرات للمشي الهادئ وليس للركض والسباق.",
+      "ألتزم الجانب الأيمن دائماً أثناء الحركة في الممرات والسلالم.",
+      "أمشي بخطوات رزينة وصوت صامت (مستوى ٠) دون لمس الجدران.",
+      "أساعد زملائي في الطابور على المحافظة على مسافة الأمان دون تدافع.",
+      "أربط سكينة المشي بحديث «عليكم بالسكينة والوقار» والآية ﴿وَاقْصِدْ فِي مَشْيِكَ﴾.",
+      "أتأمل في هدوء مشيي بعد كل حصة وأصحح حركتي فوراً."
+    ],
+    "successCriteriaEn": [
+      "Explain why corridors are designated for peaceful walking, not racing.",
+      "Always stay strictly to the right side when moving through hallways and stairs.",
+      "Walk with calm footsteps at voice level 0 without touching walls or lockers.",
+      "Help line peers maintain safe spacing without jostling or shoving.",
+      "Connect hallway composure to the Hadith: 'Adhere to tranquility' and Quran 31:19.",
+      "Reflect on my walking pace after each transition and self-correct calmly."
+    ],
+    "taglineAr": "الممرات للمشي لا للسباق، بالسكينة نكسب الأجر",
+    "taglineEn": "Hallways are for walking, not racing; dignity earns reward",
+    "titleAr": "٣. سكينة الممرات (المشي بالوقار والتزام اليمين)",
+    "titleEn": "3. Hallway Sakinah (Walking Calmly & To the Right)"
+  },
+  {
+    "badgeColor": "indigo",
+    "character": {
+      "nameAr": "عمر وريان",
+      "nameEn": "Omar & Rayan"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: إشارات يد مبسطة ثلاث: (١ للإذن بالكلام، ٢ للحمام، ٣ للماء)، وتحدي تواصل بصري ٣٠ ثانية.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: Simplified 3-finger hand signals (1: Speak, 2: Restroom, 3: Water) with 30s eye-contact game.",
+    "grade4TimerSecs": 45,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. ما المشكلة؟ (الهمس الجانبي وتشتيت القارئ)",
+        "٢. من المتأثر؟ (الطالب القارئ، المعلم، والصف بأكمله)",
+        "٣. ما العواقب؟ (شعور القارئ بالحرج، ضياع فائدة الدرس)",
+        "٤. ما القيمة الغائبة؟ (الاحترام والمسؤولية)",
+        "٥. حلان بديلان للموقف.",
+        "٦. الحل الأفضل: (إبقاء الدفتر مغلقاً والإنصات للقارئ وتشجيعه بعد الانتهاء)",
+        "٧. جملة لبقة: «دعنا نستمع لزميلنا الآن وسأرى رسمك الجميل في وقت الفسحة!»"
+      ],
+      "investigationStepsEn": [
+        "1. What is the problem? (Side whispering distracting the reader)",
+        "2. Who is affected? (The reader, teacher, and whole class)",
+        "3. Consequences? (Reader feels embarrassed, learning flow ruined)",
+        "4. Missing value? (Respect and Responsibility)",
+        "5. Two alternative actions.",
+        "6. Best solution: (Keep notebook shut, listen attentively, encourage reader afterward)",
+        "7. Respectful whisper: 'Let us listen to our brother now; I would love to see your sketch at recess!'"
+      ],
+      "scenarioAr": "أثناء قراءة طالب لنص لغتي، حاول زميله بجانبه أن يهمس له ليعرض عليه رسماً في دفتره، فشعر القارئ بالحرج والتردد.",
+      "scenarioEn": "While a classmate reads an ELA passage, his partner tries to whisper to show him a sketch in his notebook, making the reader stumble and feel embarrassed.",
+      "titleAr": "محقق المواقف: الهمس الجانبي أثناء القراءة",
+      "titleEn": "Scenario Detective: Side Whispering During Reading",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-ear-listen",
+    "id": "attentive_listening",
+    "islamicValueAr": "من هدي صحابة النبي ﷺ في مجالس العلم: «كأن على رؤوسهم الطير» (رواه أبو داود والترمذي وصححه الألباني) — تعظيم مجالس العلم وتوقير المعلم وحسن الإنصات.",
+    "islamicValueEn": "From the noble Adab of the Sahabah in gatherings of knowledge: 'Sitting as if birds were perched upon their heads' (Abu Dawud & Tirmidhi) — Reverence for learning and attentive listening.",
+    "jpisValue": "Respect",
+    "jpisValueAr": "الاحترام",
+    "juniorCriteriaAr": [
+      "أنظر باهتمام إلى معلمي وهو يشرح.",
+      "أجلس بهدوء وأجعل أذني منصتة دون مقاطعة.",
+      "أرفع يدي بأدب وأنتظر دوري عندما أريد التحدث."
+    ],
+    "juniorCriteriaEn": [
+      "Look attentively at my teacher while they speak.",
+      "Sit still and listen carefully without interrupting.",
+      "Raise my hand politely and wait for my turn to speak."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أنصت لمعلمي بعيني وأذني عندما يتحدث في الفصل.",
+    "juniorObjectiveEn": "I learn to look at and listen carefully to my teacher when they speak.",
+    "learningObjectiveAr": "نتعلم كيف ننصت بحضور الذهن ونوقر المتحدث حتى نُظهر قيمة الاحترام وأدب طلب العلم.",
+    "learningObjectiveEn": "We are learning how to listen with active presence and respect the speaker so that we can demonstrate Respect and the etiquette of seeking knowledge.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أميز الاستماع النشط من الانشغال والتشتت",
+        "en": "Learning: Distinguish active listening from fidgeting and distraction"
+      },
+      "tier2": {
+        "ar": "أتدرب: أمارس الاستماع المركز وإعادة الصياغة مع زميلي بنجاح",
+        "en": "Practising: Practice focused listening and paraphrasing with partner"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أنصت بحضور ذهني ووقار طوال جميع الحصص دون تنبيه",
+        "en": "Independent: Consistently attentive across all subjects without reminders"
+      }
+    },
+    "minigame": {
+      "badDialogueAr": "«يا أستاذ! اسمعني أنا! هذا سهل جداً ولماذا تشرحه أصلاً؟!»",
+      "badDialogueEn": "'Teacher! Listen to me! This is so easy, why are you even explaining this?!'",
+      "goodDialogueAr": "«(يرفع يده بهدوء وينتظر إذن المعلم، ثم يقول بتهذيب): أستاذي الكريم، هل تأذن لي بمشاركة طريقة تفكيري بعد أن تكمل الشرح؟»",
+      "goodDialogueEn": "'(Raises hand calmly, waits for permission, then speaks respectfully): Teacher, may I share my reasoning once you finish explaining?'",
+      "sceneAr": "المعلم يشرح مسألة حسابية، فقاطعه ريان بصوت مرتفع دون رفع يده قائلاً: «يا أستاذ، هذا سهل جداً وأنا أعرفه!» مما شتت زميله عمر.",
+      "sceneEn": "The teacher is explaining a math problem when Rayan loudly shouts without raising his hand: 'Teacher, this is too easy, I already know it!', interrupting Omar's focus.",
+      "titleAr": "أصلح الحوار: المقاطعة أثناء الشرح",
+      "titleEn": "Fix the Dialogue: Interrupting Mid-Lesson",
+      "type": "fix_dialogue"
+    },
+    "partner": {
+      "promptAr": "يتحدث الطالب الأول عن هوايته في ٣ جمل، ويستمع الثاني دون أي مقاطعة، ثم يبدأ جملته بـ: «ما فهمته من كلامك هو...»، ثم يتبادلان الأدوار.",
+      "promptEn": "Partner A speaks for 3 sentences about a hobby; Partner B listens with zero interruptions, then begins with: 'What I understood from you is...', then switch.",
+      "titleAr": "الإنصات وإعادة الصياغة (Paraphrase Protocol)",
+      "titleEn": "Listen & Paraphrase Partner Drill"
+    },
+    "practise": {
+      "promptAr": "دقيقتان من الإنصات التام: يشرح المعلم مفهوماً، يضع الطلاب الأقلام، يتواصلون بالبصر، ولا يقاطع أحد. ثم يُطلب من ريان وعمر تلخيص الفكرة الرئيسية بإتقان!",
+      "promptEn": "2 minutes of total stillness: Teacher explains a concept, pencils down, full eye contact, zero interruptions. Then Omar & Rayan summarize the core point with precision!",
+      "stemsAr": [
+        "«أظهرت ملمح المتواصل الواعي عندما استمعت لزميلك دون مقاطعة حتى أنهى فكرته.»",
+        "«في المرة القادمة يمكنك تحسين تركيزك بوضع قلمك جانباً وتوجيه بصرك نحو المتحدث.»"
+      ],
+      "stemsEn": [
+        "'You showed Communicator excellence when listening to your peer without interrupting until he finished.'",
+        "'Next time, you can enhance your focus by setting your pencil down and directing full eye contact.'"
+      ],
+      "titleAr": "تدريب مجلس العلم الوقور (The Scholar Circle)",
+      "titleEn": "The Scholar Circle Rehearsal"
+    },
+    "pypProfile": [
+      "Communicator",
+      "Thinker"
+    ],
+    "pypProfileAr": [
+      "متواصل",
+      "مفكر"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "تحقيق ٥ جلسات استماع متتالية خلال الحصة بنسبة ١٠٠٪ دون أي مقاطعة ودون أي حديث جانبي!",
+      "taskEn": "Achieve 5 consecutive listening checks with 100% focus, zero interruptions, and zero side talk!",
+      "titleAr": "مهمة الـ ٥ علامات استماع متتالية",
+      "titleEn": "5 Consecutive Perfect Listening Checks"
+    },
+    "reflection": {
+      "questionAr": "لماذا كان كبار العلماء يصفون حسن الاستماع بأنه 'أصل العلم كله'؟ وما الشعور الذي تتركه في قلب زميلك حين تنصت له باهتمام؟",
+      "questionEn": "Why did great scholars describe active listening as the foundation of all learning? How does listening make a peer feel valued?"
+    },
+    "successCriteriaAr": [
+      "أشرح كيف يعظم حسن الإنصات العلم ويظهر التقدير للمعلم والزميل.",
+      "أوجه بصري وجسدي بالكامل نحو المتحدث وأضع الأقلام جانباً.",
+      "أستمع للفكرة كاملة دون مقاطعة وأفكر قبل الإجابة.",
+      "أرفع يدي بهدوء وأنتظر دوري باحترام وصبر.",
+      "أربط أدب الاستماع بهدي الصحابة: «كأن على رؤوسهم الطير».",
+      "أتأمل في قدرتي على التركيز وأحدد عادة تشتت سأتخلص منها."
+    ],
+    "successCriteriaEn": [
+      "Explain how active listening honors knowledge and shows appreciation for speakers.",
+      "Direct posture and eye contact fully to the speaker; set pencils down.",
+      "Listen to the full idea without interrupting, thinking deeply before responding.",
+      "Raise hand calmly and wait for turn with patience and dignity.",
+      "Connect attentive listening to the Companions' posture: 'as if birds were on their heads.'",
+      "Reflect on my focus level and eliminate one personal distraction."
+    ],
+    "taglineAr": "العين ترنو، والأذن تنصت، والعقل يتفكر",
+    "taglineEn": "Eyes focused, ears attentive, mind inquiring",
+    "titleAr": "٤. أدب طالب العلم والاستماع اليقظ للمعلم",
+    "titleEn": "4. Attentive Listening & Scholar Etiquette"
+  },
+  {
+    "badgeColor": "cyan",
+    "character": {
+      "nameAr": "خالد",
+      "nameEn": "Khalid"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: بطاقة خطة الـ ٢٠ ثانية لغسل اليدين مع أنشودة الصابون، ومؤشر صنبور الماء المغلق.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: Visual 20-second handwashing guide with bubble icons and tight-tap indicator.",
+    "grade4TimerSecs": 60,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة: (إهدار نعمة الماء وتشويه نظافة المكان)",
+        "٢. المتأثرون: (المدرسة، البيئة، الطلاب الآخرون)",
+        "٣. العواقب: (انزلاق الطلاب، هدر الموارد المائية، إثم الإسراف)",
+        "٤. القيمة الغائبة: (المسؤولية وحفظ النعمة)",
+        "٥. حلان ممكنان.",
+        "٦. الحل الأمثل: (إغلاق الصنبور فوراً، التقاط المناديل ورميها في السلة، وإبلاغ المشرف بلطف إذا كان هناك تسريب)",
+        "٧. جملة خالد: «نظافة مدرستي وترشيد مائها أمانة في عنقي ابتغاء الأجر»"
+      ],
+      "investigationStepsEn": [
+        "1. Problem: (Wasting water blessing and littering shared facilities)",
+        "2. Affected: (School community, environment, peer safety)",
+        "3. Consequences: (Slipping hazard, resource depletion, wastefulness)",
+        "4. Missing value: (Responsibility and Stewardship)",
+        "5. Two solutions.",
+        "6. Best solution: (Shut tap firmly, pick up towels into bin, notify staff if leaking)",
+        "7. Khalid's statement: 'Conserving water and keeping school spotless is a sacred trust.'"
+      ],
+      "scenarioAr": "دخل خالد المغاسل فوجد صنبور ماء مفتوحاً يتدفق بقوة دون وجود أحد، ووجد مناديل ورقية ملقاة بجانب السلة على الأرض.",
+      "scenarioEn": "Khalid enters the washroom and discovers a faucet gushing water with no one in sight, and wet paper towels scattered on the floor next to the bin.",
+      "titleAr": "محقق المواقف: صنبور الماء المسكوب والمناديل على الأرض",
+      "titleEn": "Scenario Detective: Running Tap & Paper Towels on Floor",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-soap",
+    "id": "restroom_etiquette",
+    "islamicValueAr": "«الطهور شطر الإيمان» (صحيح مسلم)، وقوله تعالى: ﴿وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ﴾، وهدي النبي ﷺ في الاقتصاد في الماء حيث كان يتوضأ بالمُدّ ويغتسل بالصاع (متفق عليه).",
+    "islamicValueEn": "The Prophet ﷺ said: 'Purity is half of faith' (Sahih Muslim), and Quran: 'Do not be wasteful, He loves not the wasteful' (7:31). The Sunnah was performing Wudu with a single Mudd of water (Agreed upon).",
+    "jpisValue": "Responsibility",
+    "jpisValueAr": "المسؤولية",
+    "juniorCriteriaAr": [
+      "أدخل بالقدم اليسرى مع الدعاء وأغلق الباب بلطف.",
+      "أغسل يدي بالماء والصابون لمدة ٢٠ ثانية.",
+      "أغلق صنبور الماء بإحكام وأخرج بالقدم اليمنى شاكراً الله."
+    ],
+    "juniorCriteriaEn": [
+      "Enter with left foot and close the door gently.",
+      "Wash my hands well with soap and water for 20 seconds.",
+      "Turn off the faucet firmly and step out with right foot."
+    ],
+    "juniorObjectiveAr": "أتعلم آداب دورة المياه: النظافة، غسل اليدين بالصابون، وحفظ الماء.",
+    "juniorObjectiveEn": "I learn restroom manners: cleanliness, washing hands with soap, and saving water.",
+    "learningObjectiveAr": "نتعلم كيف نلتزم بآداب الطهارة ونظافة المرافق وترشيد الماء حتى نُظهر قيمة المسؤولية والأمانة والنظافة الإسلامية.",
+    "learningObjectiveEn": "We are learning how to practice restroom hygiene, spotless cleanliness, and water conservation so that we can demonstrate Responsibility and Islamic cleanliness.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أحفظ أذكار الخلاء وخطوات النظافة الست",
+        "en": "Learning: Memorize restroom Duas and the 6 handwashing steps"
+      },
+      "tier2": {
+        "ar": "أتدرب: أطبق ترشيد الماء وغسل اليدين الصحي بنجاح",
+        "en": "Practising: Demonstrate water-saving handwash cleanly"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أحافظ على نظافة الحمام وترشيد مائه في كل استخدام دون تذكير",
+        "en": "Independent: Consistently maintain spotless hygiene and zero water waste unprompted"
+      }
+    },
+    "minigame": {
+      "instructionAr": "رتب خطوات الذهاب لدورة المياه والوضوء بالترتيب الشرعي والصحي الصحيح:",
+      "instructionEn": "Arrange the restroom and hygiene steps in the correct healthy and Sunnah order:",
+      "steps": [
+        {
+          "id": 1,
+          "textAr": "استئذان المعلم بهدوء، أخذ البطاقة، والمشي بسكينة دون ركض",
+          "textEn": "Ask teacher politely, take the pass, and walk with tranquility"
+        },
+        {
+          "id": 2,
+          "textAr": "قول دعاء الدخول وتقديم الرجل اليسرى عند عتبة الباب",
+          "textEn": "Recite entry Dua and step in with left foot"
+        },
+        {
+          "id": 3,
+          "textAr": "استخدام الحمام بنظافة تامة والتأكد من سحب السيفون ونظافة المكان",
+          "textEn": "Use facility cleanly, flush completely, ensure spotless area"
+        },
+        {
+          "id": 4,
+          "textAr": "غسل اليدين بالماء والصابون لمدة ٢٠ ثانية وتجفيفهما بالمناديل",
+          "textEn": "Wash hands with soap for 20s and dry with paper towel"
+        },
+        {
+          "id": 5,
+          "textAr": "إحكام إغلاق صنبور الماء والخروج بالرجل اليمنى قائلاً: «غفرانك»",
+          "textEn": "Shut tap firmly and exit with right foot saying 'Ghufranak'"
+        }
+      ],
+      "titleAr": "رتب خطوات الطهارة والنظافة",
+      "titleEn": "Restroom Etiquette Sequence Challenge",
+      "type": "put_in_order"
+    },
+    "partner": {
+      "promptAr": "يسمع الطالب لزميله دعاء دخول الخلاء ودعاء الخروج، ويراجع معه أهمية ترك الصنبور مغلقاً والمناديل في السلة.",
+      "promptEn": "Partners test each other on the entry and exit Duas, verifying the importance of closed taps and disposed towels.",
+      "titleAr": "مراجعة الأذكار والخطوات الصحية",
+      "titleEn": "Duas & Hygiene Partner Review"
+    },
+    "practise": {
+      "promptAr": "تدريب عملي في الصف: يمثل الطلاب الخطوات الست لغسل اليدين بالصابون (راحة اليد، ظهر اليد، بين الأصابع، الأظافر، والإبهام) لمدة ٢٠ ثانية مع ترشيد الماء تماماً!",
+      "promptEn": "Classroom simulation: Students practice the 6 steps of hand scrubbing (palms, back of hands, between fingers, fingernails, thumbs) for 20 seconds, ensuring zero water waste!",
+      "stemsAr": [
+        "«أظهرت ملمح الطالب ذي المبادئ عندما أغلقت الصنبور بإحكام لمنع هدر الماء.»",
+        "«في المرة القادمة يمكنك تحسين طهارتك بترديد دعاء الخروج 'غفرانك' بالرجل اليمنى.»"
+      ],
+      "stemsEn": [
+        "'You showed Principled character when firmly shutting the tap to conserve water.'",
+        "'Next time, you can enhance your practice by stepping out with right foot reciting 'Ghufranak'.'"
+      ],
+      "titleAr": "محاكاة غسل اليدين وترشيد الماء (20s Scrub Drill)",
+      "titleEn": "20-Second Clean Scrub Rehearsal"
+    },
+    "pypProfile": [
+      "Principled",
+      "Reflective"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "متأمل"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "أي طالب يستخدم دورة المياه اليوم يتأكد أن الصنبور مغلق تماماً وأن المغسلة خالية من أي مناديل أو قطرات فوضوية بنسبة ١٠٠٪!",
+      "taskEn": "Every student using the washroom today ensures taps are tightly closed and sinks are 100% spotless before leaving!",
+      "titleAr": "مهمة الصنبور المحكم والمكان الأنظف",
+      "titleEn": "Tight Tap & Spotless Facility Mission"
+    },
+    "reflection": {
+      "questionAr": "لماذا حذرنا النبي ﷺ من الإسراف في الماء حتى لو كنا على نهر جار؟ وكيف تشعر حين تجد دورة المياه نظيفة ومعتنى بها؟",
+      "questionEn": "Why did the Prophet ﷺ forbid water waste even beside a flowing river? How does finding a clean facility make you feel?"
+    },
+    "successCriteriaAr": [
+      "أشرح أهمية الطهارة كشطر من الإيمان والمسؤولية في الحفاظ على المرافق العامة.",
+      "أرتب خطوات دخول الحمام والخروج منه بالسنن النبوية الصحيحة.",
+      "أغسل يدي بالماء والصابون لمدة ٢٠ ثانية وأجففهما بنظافة.",
+      "أغلق صنبور الماء بإحكام تام وأترك المكان أنظف مما كان.",
+      "أردد دعاء الدخول ودعاء الخروج «غفرانك».",
+      "أتأمل في استهلاكي للماء وأتعهد بعدم الإسراف فيه أبداً."
+    ],
+    "successCriteriaEn": [
+      "Explain why cleanliness is half of faith and a shared responsibility for school spaces.",
+      "Sequence restroom entry, use, and exit steps according to Prophetic Sunnah.",
+      "Wash hands thoroughly with soap for 20 seconds and dry them cleanly.",
+      "Shut water taps firmly and leave the facility cleaner than I found it.",
+      "Recite the entry supplication and exit Dua 'Ghufranak'.",
+      "Reflect on my water usage and commit to never wasting a single drop."
+    ],
+    "taglineAr": "دعاء مأثور، نظافة تامة، وترشيد للنعمة",
+    "taglineEn": "Sunnah Duas, spotless hygiene, and water conservation",
+    "titleAr": "٥. طهارة وسكينة دورات المياه وحفظ الماء",
+    "titleEn": "5. Restroom Etiquette, Taharah & Water Care"
+  },
+  {
+    "badgeColor": "orange",
+    "character": {
+      "nameAr": "نواف وسلطان",
+      "nameEn": "Nawaf & Sultan"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: بطاقة فحص 'طاولتي مرآة صفي': فحص الفتات، إغلاق العلبة، ورمي المنديل في السلة.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: 'My Table is My Class Mirror' 3-point visual check card for crumbs, lunchbox, bin.",
+    "grade4TimerSecs": 90,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة: (بقايا طعام وأغلفة مهملة في الساحة)",
+        "٢. المتأثرون: (المدرسة، الطلاب، عمال النظافة)",
+        "٣. العواقب: (تجمع الحشرات، تعثر الزملاء، هدر النعمة)",
+        "٤. القيمة الغائبة: (الرحمة والشكر والمسؤولية)",
+        "٥. حلان ممكنان.",
+        "٦. الحل الأمثل: (المبادرة برفعها في سلة المهملات، وتذكير الزميل لاحقاً بلطف ومحبة)",
+        "٧. جملة سلطان اللطيفة: «يا أخي، جمعت غلافك لنكسب أجر إماطة الأذى معاً!»"
+      ],
+      "investigationStepsEn": [
+        "1. Problem: (Discarded packaging and food left on field)",
+        "2. Affected: (School environment, fellow students, cleaning staff)",
+        "3. Consequences: (Litter buildup, slipping hazard, lack of gratitude)",
+        "4. Missing value: (Compassion and Responsibility)",
+        "5. Two solutions.",
+        "6. Best solution: (Proactively toss it in bin, remind classmate privately with warmth)",
+        "7. Sultan's kind note: 'Brother, I picked up your wrapper so we share the charity reward together!'"
+      ],
+      "scenarioAr": "شاهد سلطان زميلاً أسقط شطيرته سهواً في الساحة وترك العلبة وذهب مسرعاً لحصة الرياضة دون أن يلتفت.",
+      "scenarioEn": "Sultan sees a classmate accidentally drop sandwich packaging on the field and dash off to PE without looking back.",
+      "titleAr": "محقق المواقف: علبة العصير المنسية في الساحة",
+      "titleEn": "Scenario Detective: Forgotten Juice Box on the Playground",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-utensils",
+    "id": "meal_break_stewardship",
+    "islamicValueAr": "«يا غلام، سمِّ الله، وكل بيمينك، وكل مما يليك» (متفق عليه)، و«إماطة الأذى عن الطريق صدقة».",
+    "islamicValueEn": "The Prophet ﷺ said: 'Say Bismillah, eat with your right hand, and eat from what is next to you.' Also: 'Removing harm from the path is charity.'",
+    "jpisValue": "Compassion",
+    "jpisValueAr": "الرحمة والتعاطف",
+    "juniorCriteriaAr": [
+      "أقول: «بسم الله» وآكل بيدي اليمنى بهدوء.",
+      "أضع وجبتي فوق مفرشي دون رمي الفتات على الأرض.",
+      "أجمع قمامتي في السلة وأترك مكاني نظيفاً وجميلاً."
+    ],
+    "juniorCriteriaEn": [
+      "Say 'Bismillah' and eat with my right hand calmly.",
+      "Keep my snack on my placemat without dropping crumbs.",
+      "Toss wrappers in the bin and leave my table spotless."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف آكل بيدي اليمنى، وأسمي الله، وأنظف طاولتي بعد الأكل.",
+    "juniorObjectiveEn": "I learn to eat with my right hand, say Bismillah, and clean my table.",
+    "learningObjectiveAr": "نتعلم كيف نحفظ النعمة ونأكل بآداب الإسلام ونترك مكاننا أنظف مما كان حتى نُظهر قيمة الرحمة والشكر والمسؤولية البيئية.",
+    "learningObjectiveEn": "We are learning how to honor food blessings, eat with Sunnah manners, and leave our eating area cleaner than we found it to demonstrate Compassion, gratitude, and environmental stewardship.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أعرف سنن الطعام النبوية وقواعد لا تترك أثراً",
+        "en": "Learning: Know Sunnah eating manners and Leave No Trace rules"
+      },
+      "tier2": {
+        "ar": "أتدرب: أنظف طاولتي وأفرز النفايات بنجاح في تدريب الفسحة",
+        "en": "Practising: Wipe table and sort trash cleanly during drills"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أترك منطقة طعامي أنظف مما كانت دائماً دون أي تذكير",
+        "en": "Independent: Consistently leave eating areas spotless every day unprompted"
+      }
+    },
+    "minigame": {
+      "sceneAr": "رن جرس نهاية الفسحة، فركض الطلاب نحو الصفوف تاركين علب العصير الفارغة وأكياس الشطائر الممزقة والفتات يتناثر على المقاعد وعلى الأرض!",
+      "sceneEn": "The recess bell rings, and students sprint toward class leaving empty juice cartons, torn sandwich wrappers, and crumbs scattered across benches and ground!",
+      "seeThinkWonderAr": {
+        "see": "ماذا ترى؟ (علب ملقاة، مقاعد متسخة، طعام مهدر، طلاب يركضون)",
+        "think": "ما أثر ذلك على عمال النظافة وعلى كرامة النعمة؟ (مشقة شديدة، جحود بالنعمة، بيئة ملوثة)",
+        "wonder": "كيف نطبق شعار 'لا تترك أثراً' كفرسان حقيقيين؟"
+      },
+      "seeThinkWonderEn": {
+        "see": "What do you see? (Discarded juice packs, messy benches, wasted crumbs, rushing students)",
+        "think": "What is the impact on cleaners and gratitude? (Heavy burden on staff, disrespect for food)",
+        "wonder": "How can we live the 'Leave No Trace' covenant as true champions?"
+      },
+      "titleAr": "اكتشف الخطأ: مقاعد الفسحة بعد جرس النهاية",
+      "titleEn": "Spot the Problem: Recess Benches After the Bell",
+      "type": "spot_problem"
+    },
+    "partner": {
+      "promptAr": "يتفقد الزميلان مكان جلوسهما معاً: هل تركنا المكان أنظف مما كان؟ إذا وجدا ورقة صغيرة يتعاونان في إماطتها طلباً للصدقة والأجر.",
+      "promptEn": "Partners audit their bench together: Did we leave it cleaner than before? If any scrap is found, they cooperate to remove it for Sadaqah reward.",
+      "titleAr": "فحص النظافة الثنائي بعد الفسحة",
+      "titleEn": "Recess Cleanliness Partner Audit"
+    },
+    "practise": {
+      "promptAr": "تدريب عملي: قبل انتهاء وقت الفسحة بدقيقة، يقف كل طالب ويفحص المقعد والأرض تحته، يمسح الطاولة، ويفرز النفايات في الحاويات بنظام!",
+      "promptEn": "Practical rehearsal: 1 minute before recess ends, every student inspects bench and ground, wipes table surface, and sorts trash into appropriate bins!",
+      "stemsAr": [
+        "«أظهرت خلق الرحمة وحفظ النعمة عندما جمعت علبة العصير ومسحت فتات الطاولة.»",
+        "«في المرة القادمة يمكنك تحسين شكرك بالجلوس أثناء الشرب وتسمية الله باليمين.»"
+      ],
+      "stemsEn": [
+        "'You demonstrated Compassion and gratitude when gathering wrappers and wiping crumbs.'",
+        "'Next time, you can improve by sitting down while drinking and eating with your right hand.'"
+      ],
+      "titleAr": "تحدي الـ ٦٠ ثانية: لا تترك أثراً (Leave No Trace Blitz)",
+      "titleEn": "The 60-Second Clean Sweep Rehearsal"
+    },
+    "pypProfile": [
+      "Caring",
+      "Balanced"
+    ],
+    "pypProfileAr": [
+      "مهتم",
+      "متوازن"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "إنهاء الفسحة اليوم دون أن يترك طلاب صفنا أي غلاف أو علبة أو فتات طعام على المقاعد أو في الساحة!",
+      "taskEn": "Finish recess today with zero wrappers, cartons, or crumbs left on benches or grounds by our class!",
+      "titleAr": "مهمة الفسحة النموذجية بنسبة ١٠٠٪ نظافة",
+      "titleEn": "100% Spotless Recess Zone Mission"
+    },
+    "reflection": {
+      "questionAr": "كيف تكون نظافة مكان طعامك شكراً عملياً لله على نعمة الغذاء؟ وكيف يخفف تعاوننا العبء عن عمال النظافة في مدرستنا؟",
+      "questionEn": "How is keeping your eating space clean a practical expression of gratitude to Allah? How does our teamwork respect school maintenance staff?"
+    },
+    "successCriteriaAr": [
+      "أشرح معنى شكر النعمة وكيف أن إماطة الأذى عن الطريق صدقة.",
+      "أغسل يدي قبل الأكل وأسمي الله «بسم الله» وآكل بيميني جالساً.",
+      "أحافظ على طعامي دون إسقاط أي فتات أو رمي بقايا في الساحة.",
+      "أمسح طاولتي ومقعدي وأجمع الأغلفة وأفرزها في الحاويات المخصصة.",
+      "أساعد زملائي في ترك منطقة الفسحة نظيفة تحت شعار «لا تترك أثراً».",
+      "أتأمل في نعم الله العظيمة وأحمد الله تعالى في ختام الأكل."
+    ],
+    "successCriteriaEn": [
+      "Explain gratitude for food blessings and why removing litter is a continuous charity.",
+      "Wash hands before eating, say 'Bismillah', and eat seated using my right hand.",
+      "Keep food secure without spilling crumbs or tossing snacks on the ground.",
+      "Wipe table and bench clean, collect wrappers, and sort into proper bins.",
+      "Help table peers leave the recess area spotless under 'Leave No Trace'.",
+      "Reflect on divine blessings and sincerely thank Allah ('Alhamdulillah') when done."
+    ],
+    "taglineAr": "سمِّ الله، كُل بيمينك، وشعارنا: «لا تترك أثراً»",
+    "taglineEn": "Say Bismillah, eat with right hand, Leave No Trace",
+    "titleAr": "٦. حفظ النعمة وإماطة الأذى وقت الفسحة",
+    "titleEn": "6. Mealtime Adab & Playground Stewardship"
+  },
+  {
+    "badgeColor": "teal",
+    "character": {
+      "nameAr": "زياد وحمزة",
+      "nameEn": "Ziyad & Hamza"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: بطاقات مصورة تحت الطاولة تبين مكان وضع الحذاء، والتدرب على الاصطفاف الصامت في الفصل.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: Visual card under desks showing shoe placement, and classroom rehearsal for calm, silent lineup.",
+    "grade4TimerSecs": 75,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة المحددة: (التعجل والخروج بالأحذية دون تفقد الوضوء أو تنظيم الأدوات بالفصل)",
+        "٢. المتأثرون: (الطلاب في الممر، هدوء الفصول المجاورة، وتنظيم الفصل)",
+        "٣. العواقب: (إرباك في الممر، نسيان الوضوء، وضياع السكينة قبل الصلاة)",
+        "٤. القيمة الغائبة: (الاحترام، السكينة، والمسؤولية الشخصية)",
+        "٥. حلان ممكنان: (أ: التوقف الفوري والعودة لتنظيم الأدوات، ب: تذكير الزملاء بلطف بروتين الفصل)",
+        "٦. الحل الأمثل لمدرسة JPIS: (الالتزام بخطوات روتين الصلاة: حفظ الأدوات، تفقد الوضوء، خلع الحذاء تحت الطاولة، والمشي بسكينة)",
+        "٧. الاستشهاد بالحديث النبوي: قال رسول الله ﷺ: «إذا أتيتم الصلاة فعليكم بالسكينة والوقار» (متفق عليه: رواه البخاري ومسلم)"
+      ],
+      "investigationStepsEn": [
+        "1. Specific problem: (Rushing into hallway with shoes on without checking Wudu or packing supplies)",
+        "2. Affected: (Peers in hallway, quietness of adjacent classes, classroom order)",
+        "3. Consequences: (Hallway clutter, forgotten Wudu, loss of Sakinah before prayer)",
+        "4. Missing value: (Respect, Sakinah, and Personal Responsibility)",
+        "5. Two possible solutions: (A: Immediate pause and return to pack supplies, B: Gentle peer reminders of classroom routine)",
+        "6. Best JPIS solution: (Follow the 12-step routine: pack supplies, check Wudu, place shoes under desks, and walk with Sakinah)",
+        "7. Prophetic Hadith: The Prophet ﷺ said: \"When you come to prayer, come with tranquility and dignity: pray whatever you catch and complete whatever you missed!\" (Agreed upon: Bukhari & Muslim)"
+      ],
+      "scenarioAr": "أعلن المعلم وقت الاستعداد لصلاة الظهر، فتعجل بعض الطلاب وخرجوا نحو الممر بأحذيتهم دون تفقد الوضوء أو ترتيب الأدوات، مما أحدث إرباكاً في الممر. كيف نحل هذا الموقف وفق روتين JPIS؟",
+      "scenarioEn": "The teacher announced preparation for Dhuhr prayer. Some students rushed into the corridor with shoes on without checking Wudu or packing books, creating hallway commotion. How should we solve this using the JPIS routine?",
+      "titleAr": "محقق المواقف: الاستعداد المنظم لصلاة الظهر بالفصل",
+      "titleEn": "Scenario Detective: Orderly Classroom-to-Prayer Preparation",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-mosque",
+    "id": "prayer_shoe_harmony",
+    "islamicValueAr": "قال رسول الله ﷺ: «إِذَا أُقِيمَتِ الصَّلَاةُ فَلَا تَأْتُوهَا تَسْعَوْنَ، وَأْتُوهَا تَمْشُونَ وَعَلَيْكُمُ السَّكِينَةُ...» (متفق عليه: رواه البخاري ٦٣٦ ومسلم ٦٠٢) — الحث على السكينة والوقار في التوجه للصلاة. (ملاحظة: المراجع وإجراءات الصلاة في انتظار المراجعة النهائية من قسم الدراسات الإسلامية بمدرسة JPIS).",
+    "islamicValueEn": "Prophet Muhammad ﷺ said: \"When the prayer is called, do not come to it running, but come walking with calmness and tranquility...\" (Agreed upon: Bukhari 636 & Muslim 602) — Walking with Sakinah. (Note: Islamic references and prayer procedures are pending final review by the JPIS Islamic Studies Department).",
+    "jpisValue": "Respect",
+    "jpisValueAr": "الاحترام",
+    "juniorCriteriaAr": [
+      "أحفظ كتبي في حقيبتي وأخلع حذائي بهدوء تحت طاولتي في الفصل.",
+      "أمشي مع صفي بسكينة إلى المصلى دون ركض أو لمس للجدران.",
+      "أصلي بانتباه وهدوء ثم أعود مع معلمي لألبس حذائي بنظام."
+    ],
+    "juniorCriteriaEn": [
+      "Pack my books into my bag and take off my shoes calmly under my classroom desk.",
+      "Walk with my class calmly to the prayer room without running or touching walls.",
+      "Pray attentively with the Imam, then return orderly to put my shoes back on."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أحفظ أدواتي، وأضع حذائي بهدوء تحت طاولتي بالفصل، وأمشي بسكينة لأصلي مع صفي وأعود بنظام.",
+    "juniorObjectiveEn": "I learn to pack my supplies, place my shoes calmly under my desk in class, walk with Sakinah to prayer, and return in order.",
+    "learningObjectiveAr": "نتعلم ونطبق روتين الاستعداد للصلاة بدقة: التوقف بهدوء، حفظ الأدوات بالحقيبة، تفقد الوضوء (من يحتاج الحمام يُبقي حذاءه)، خلع الحذاء بالفصل ووضعه مرتباً تحت الطاولة، الاصطفاف الصامت، المشي للمصلى بسكينة، أداء الصلاة بانتباه، والعودة المنظمة لارتداء الحذاء.",
+    "learningObjectiveEn": "We master the complete JPIS classroom-to-prayer procedure: stopping work calmly, packing supplies, checking Wudu (toilet users keep shoes on), removing shoes in class and placing them under desks, silent lineup, walking with Sakinah, praying attentively, and returning in an orderly line to collect shoes.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أعرف الخطوات الـ ١٢ لروتين الصلاة من حفظ الأدوات وخلع الحذاء بالفصل إلى المشي بسكينة والعودة المنظمة.",
+        "en": "Learning: Understand the 12 procedural steps from classroom pack-up to classroom shoe placement, calm walk, and orderly return."
+      },
+      "tier2": {
+        "ar": "أتدرب: أتقن حفظ أدواتي ووضع حذائي بهدوء تحت الطاولة والمشي بسكينة بدقة وأمان دون استعجال.",
+        "en": "Practising: Master packing supplies, neat classroom shoe placement under desk, and calm hallway walking with care and poise without rushing."
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: ألتزم بروتين الصلاة الكامل من الفصل إلى المصلى والعودة يومياً بسكينة وهدوء تام دون الحاجة لتذكير.",
+        "en": "Independent: Consistently demonstrate the full classroom-to-prayer routine daily with calm Sakinah unprompted."
+      }
+    },
+    "minigame": {
+      "instructionAr": "رتب الخطوات الإجرائية الرسمية للاستعداد للصلاة من الفصل حتى العودة بالترتيب الصحيح:",
+      "instructionEn": "Arrange the official procedural steps from classroom prep to prayer and orderly return in exact sequence:",
+      "steps": [
+        {
+          "id": 1,
+          "textAr": "التوقف عن العمل بهدوء عند إعلان المعلم وقت الصلاة",
+          "textEn": "Stop work calmly when the teacher announces prayer time"
+        },
+        {
+          "id": 2,
+          "textAr": "إعادة الكتب والأدوات إلى الحقائب أو الخزائن المخصصة",
+          "textEn": "Return books and supplies to bags or designated lockers"
+        },
+        {
+          "id": 3,
+          "textAr": "تفقد الحاجة لدورة المياه أو تجديد الوضوء",
+          "textEn": "Check whether needing the restroom or renewing Wudu"
+        },
+        {
+          "id": 4,
+          "textAr": "الطالب الذي يحتاج دورة المياه أو الوضوء يُبقي حذاءه في قدميه",
+          "textEn": "Students needing the restroom or Wudu keep their shoes on"
+        },
+        {
+          "id": 5,
+          "textAr": "الطالب المستعد للمصلى يخلع حذاءه بهدوء داخل الفصل",
+          "textEn": "Students ready for prayer remove their shoes calmly in the classroom"
+        },
+        {
+          "id": 6,
+          "textAr": "وضع الحذاء مرتباً تحت الطاولة أو بجانب الجدار المخصص بالفصل",
+          "textEn": "Place shoes neatly under desks or along designated classroom wall"
+        },
+        {
+          "id": 7,
+          "textAr": "الاصطفاف الصامت والآمن عند باب الفصل",
+          "textEn": "Line up silently and safely at the classroom door"
+        },
+        {
+          "id": 8,
+          "textAr": "المشي بسكينة للمصلى دون ركض أو تدافع أو صراخ أو لمس الجدران",
+          "textEn": "Walk calmly to the prayer room without running, pushing, shouting, or touching walls"
+        },
+        {
+          "id": 9,
+          "textAr": "دخول المصلى والاستعداد للصلاة باحترام ووقار",
+          "textEn": "Enter and prepare for Salah respectfully"
+        },
+        {
+          "id": 10,
+          "textAr": "أداء الصلاة بهدوء وانتباه تام خلف الإمام",
+          "textEn": "Perform Salah quietly and attentively following the Imam"
+        },
+        {
+          "id": 11,
+          "textAr": "العودة إلى الفصل في صف منتظم ومنضبط",
+          "textEn": "Return to the classroom in an orderly line"
+        },
+        {
+          "id": 12,
+          "textAr": "أخذ الحذاء وارتداؤه بهدوء داخل الفصل",
+          "textEn": "Collect and put on shoes calmly inside the classroom"
+        }
+      ],
+      "titleAr": "ترتيب خطوات روتين الاستعداد والصلاة في مدرسة JPIS",
+      "titleEn": "JPIS Classroom-to-Prayer Routine Sequencing Challenge",
+      "type": "put_in_order"
+    },
+    "partner": {
+      "promptAr": "يتأكد الرفيقان (أ) و(ب): ١. حفظ الأدوات في الحقيبة، ٢. وضع الحذاء مرتباً تحت الطاولة في الفصل، ٣. السير بسكينة دون لمس الجدران، ٤. العودة المنظمة بعد الصلاة.",
+      "promptEn": "Partners A & B verify: 1. Supplies packed, 2. Shoes placed neatly under classroom desk, 3. Walking with Sakinah without touching walls, 4. Orderly return.",
+      "titleAr": "فحص رفيق روتين الصلاة (Prayer Routine Buddy Check)",
+      "titleEn": "Prayer Routine Buddy Check"
+    },
+    "practise": {
+      "promptAr": "تدريب عملي داخل الفصل: التوقف الهادئ، إغلاق الحقائب، خلع الحذاء وترتيبه تحت الطاولة، والاصطفاف الصامت للسير بسكينة دون لمس الجدران.",
+      "promptEn": "Classroom rehearsal: Calm stop, packing bags, placing shoes neatly under desks, and silent lineup for walking with Sakinah without touching walls.",
+      "stemsAr": [
+        "«أحسنت في حفظ أدواتك ووضع حذائك بهدوء تحت طاولتك بالفصل والمشي بوقار.»",
+        "«في المرة القادمة، تأكد من التزام المشي بسكينة دون لمس الجدران لحفظ النظام والسلامة.»"
+      ],
+      "stemsEn": [
+        "\"You demonstrated excellence by packing supplies and placing shoes neatly under your desk.\"",
+        "\"Next time, remember to walk with calm Sakinah without touching the walls to protect safety.\""
+      ],
+      "titleAr": "محاكاة روتين الاستعداد للصلاة في الفصل (Classroom-to-Prayer Drill)",
+      "titleEn": "Classroom-to-Prayer Routine Rehearsal Drill"
+    },
+    "pypProfile": [
+      "Principled",
+      "Caring"
+    ],
+    "pypProfileAr": [
+      "ذو مبادئ",
+      "مهتم"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "في صلاة الظهر اليوم: ١٠٠٪ من الأدوات محفوظة بالحقائب، الأحذية موضوعة بانتظام تحت الطاولات بالفصل، مشي بسكينة دون لمس الجدران، وعودة منظمة!",
+      "taskEn": "During Dhuhr prayer today: Desks packed, 100% of shoes placed neatly under classroom desks, walking with Sakinah without touching walls, and an orderly return!",
+      "titleAr": "مهمة صلاة الظهر لمدرسة JPIS: فصل مرتب وسكينة تامة",
+      "titleEn": "JPIS Dhuhr Prayer Mission: Orderly Class & Serene Sakinah"
+    },
+    "reflection": {
+      "questionAr": "كيف يساعدنا ترتيب الفصل ووضع الأحذية بنظام والمشي بسكينة على تهيئة قلوبنا للخشوع والسكينة في الصلاة؟",
+      "questionEn": "How does calm classroom preparation, neat shoe placement under desks, and walking with Sakinah prepare our hearts for reverence and focus in Salah?"
+    },
+    "successCriteriaAr": [
+      "أتوقف عن العمل بهدوء وأعيد كتبي وأدواتي إلى حقيبتي أو مكاني المخصص.",
+      "أتفقد وضوئي: إن احتجت دورة المياه أُبقي حذائي، وإن كنت جاهزاً أخلع حذائي بهدوء داخل الفصل.",
+      "أضع حذائي مرتباً تحت طاولتي أو بجانب الجدار المخصص وفق توجيه المعلم.",
+      "أصطف صامتاً وأمشي إلى المصلى بسكينة دون ركض أو تدافع أو لمس للجدران.",
+      "أدخل المصلى باحترام وأؤدي الصلاة بهدوء وخشوع وانتباه تام.",
+      "أعود إلى الفصل في صف منظم وآخذ حذائي وأرتديه بهدوء."
+    ],
+    "successCriteriaEn": [
+      "Stop work calmly and return books and supplies to my bag, locker, or designated space.",
+      "Check Wudu and restroom: If needing the toilet keep shoes on; otherwise remove shoes calmly in the classroom.",
+      "Place shoes neatly under my desk or beside the designated classroom wall per teacher guidance.",
+      "Line up silently and walk to the prayer room calmly without running, pushing, or touching walls.",
+      "Enter respectfully and perform Salah quietly, reverently, and attentively.",
+      "Return to the classroom in an orderly line and calmly collect and put on my shoes."
+    ],
+    "taglineAr": "حفظ الأدوات، خلع الحذاء بالفصل، المشي بسكينة، أداء الصلاة بانتباه، والعودة المنظمة",
+    "taglineEn": "Packing supplies, classroom shoe placement, calm hallway walk, attentive prayer, and orderly return",
+    "titleAr": "٧. روتين الاستعداد والصلاة في المصلى",
+    "titleEn": "7. Classroom-to-Prayer Routine & Reverent Worship"
+  },
+  {
+    "badgeColor": "red",
+    "character": {
+      "nameAr": "راكان وبدر",
+      "nameEn": "Rakan & Badr"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: تمرين 'فقاعة الفضاء' بمد الذراعين يمنة ويسرة للتأكد من عدم ملامسة الزميل.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: 'Space Bubble' arm-span exercise ensuring arm's-length clearance from peers.",
+    "grade4TimerSecs": 45,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة: (المزاح الجسدي والدفع في الطوابير)",
+        "٢. المتأثرون: (بدر، الطلاب أمامه، راكان نفسه)",
+        "٣. العواقب: (سقوط وإصابات جسدية، شجار، عقوبات)",
+        "٤. القيمة الغائبة: (الشجاعة في ضبط النفس، كف الأذى)",
+        "٥. حلان بديلان لتفريغ الطاقة.",
+        "٦. الحل الأمثل: (ضبط النفس والانتظار حتى بدء التمارين الرياضية في الملعب)",
+        "٧. جملة راكان لنفسه: «القوة الحقيقية هي قدرتي على التحكم في جسدي ومشاعري»"
+      ],
+      "investigationStepsEn": [
+        "1. Problem: (Physical pranks and pushing in lineups)",
+        "2. Affected: (Badr, peers ahead, Rakan himself)",
+        "3. Consequences: (Falls, severe bruises, conflict, discipline calls)",
+        "4. Missing value: (Courageous self-control, Safety)",
+        "5. Two alternatives to channel energy.",
+        "6. Best solution: (Exercise restraint and release energy during active sports drills)",
+        "7. Rakan's self-talk: 'True strength is the power to master my own body and impulses.'"
+      ],
+      "scenarioAr": "أثناء الوقوف في طابور التربية البدنية، شعر راكان بطاقة عالية، وأراد أن يدفع زميله بدر للأمام من باب المزاح ليضحك الآخرين.",
+      "scenarioEn": "While lining up for PE class, Rakan feels energetic and is tempted to shove Badr forward as a playful prank to make others laugh.",
+      "titleAr": "محقق المواقف: الحماس في طابور حصة التربية البدنية",
+      "titleEn": "Scenario Detective: PE Line Pranks",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-shield-halved",
+    "id": "personal_space_safety",
+    "islamicValueAr": "«المسلم من سلم المسلمون من لسانه ويده» (متفق عليه)، و«ليس الشديد بالصُّرَعَة، إنما الشديد الذي يملك نفسه عند الغضب».",
+    "islamicValueEn": "The Prophet ﷺ said: 'A Muslim is one from whose tongue and hand others are safe.' Also: 'The strong is the one who controls himself.'",
+    "jpisValue": "Courage",
+    "jpisValueAr": "الشجاعة وضبط النفس",
+    "juniorCriteriaAr": [
+      "أترك مسافة ذراع واحدة بيني وبين زميلي في الطابور والصف.",
+      "أحافظ على يدي وقدمي بلطف دون دفع أو سحب.",
+      "أستخدم الكلمات الطيبة والابتسامة عند التعامل مع أصدقائي."
+    ],
+    "juniorCriteriaEn": [
+      "Keep one arm's distance between myself and my friend.",
+      "Keep my hands and feet calm with zero pushing or pulling.",
+      "Use kind words and smiles whenever interacting with friends."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أحافظ على مساحتي ومساحة أصدقائي وأبقي يدي وقدمي آمنتين.",
+    "juniorObjectiveEn": "I learn to keep my hands and feet safe and respect my friends' personal space.",
+    "learningObjectiveAr": "نتعلم كيف نتحكم في أيدينا وأقدامنا ونحترم المساحة الشخصية للآخرين حتى نُظهر قيمة الشجاعة وضبط النفس وكف الأذى.",
+    "learningObjectiveEn": "We are learning how to control our hands, feet, and personal boundaries so that we can demonstrate Courage, self-discipline, and protection of others.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أميز بين المزاح المقبول والمزاح الجسدي الخطير",
+        "en": "Learning: Distinguish playful conversation from unsafe physical touch"
+      },
+      "tier2": {
+        "ar": "أتدرب: أضبط مسافة الأمان ويدي وقدمي في تدريبات الطابور",
+        "en": "Practising: Maintain arm's-length buffer and still hands in drills"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أمارس كف الأذى التام طوال الأسبوع في كل مرافق المدرسة",
+        "en": "Independent: Consistently protect physical boundaries everywhere without reminders"
+      }
+    },
+    "minigame": {
+      "badDialogueAr": "«ابتعد! أنت بطيء وتسد طريقي!» (مع الدفع باليد)",
+      "badDialogueEn": "'Get out of the way! You are slow and blocking me!' (accompanied by shoving)",
+      "goodDialogueAr": "«(يقف بهدوء على مسافة أمان ويقول بابتسامة): عفواً يا أخي، هل تسمح لي بالمرور بلطف؟»",
+      "goodDialogueEn": "'(Stands calmly at safe distance and says with a smile): Excuse me brother, may I please pass?'",
+      "sceneAr": "أثناء الخروج، وجد راكان طالباً أمامه يمشي بتمهل، فدفعه بيده في ظهره قائلاً: «تحرك بسرعة، أنت تسد الباب!» فكاد الطالب يسقط.",
+      "sceneEn": "During dismissal, Rakan finds a student walking slowly ahead and pushes him in the back saying: 'Move fast, you are blocking the door!', almost causing him to fall.",
+      "titleAr": "أصلح الحوار: الازدحام عند باب الفصل",
+      "titleEn": "Fix the Dialogue: Doorway Congestion",
+      "type": "fix_dialogue"
+    },
+    "partner": {
+      "promptAr": "يتأكد كل طالب مع زميله المقابل من احترام الفقاعة الشخصية، والاتفاق على كلمة سر مهذبة: «فضلاً، مسافة أمان» للتذكير اللطيف.",
+      "promptEn": "Partners calibrate personal space bubbles and agree on a polite reminder cue: 'Safe bubble please' for gentle reminders.",
+      "titleAr": "معايرة مسافة الاحترام الثنائية",
+      "titleEn": "Respectful Spacing Partner Calibration"
+    },
+    "practise": {
+      "promptAr": "يقف الطلاب في الطابور: يمد كل طالب ذراعه للأمام ليتأكد من وجود مسافة ذراع كاملة تفصله عن زميله دون أي تلامس، ثم يضع يديه جانباً بثبات ووقار!",
+      "promptEn": "Lineup drill: Every student extends an arm forward to calibrate an arm's-length safe bubble from the peer ahead, then drops hands quietly to the sides!",
+      "stemsAr": [
+        "«أظهرت شجاعة وضبط نفس عندما سيطرت على حماسك ولم تدفع زميلك في الطابور.»",
+        "«في المرة القادمة يمكنك تحسين مساحتك الشخصية بالرجوع خطوة صغيرة للخلف لترك مسافة ذراع.»"
+      ],
+      "stemsEn": [
+        "'You showed courage and self-discipline when managing excitement without pushing in line.'",
+        "'Next time, you can improve by taking one small half-step back to preserve an arm's-length buffer.'"
+      ],
+      "titleAr": "تدريب دائرة الأمان والذراع (The Safety Shield Drill)",
+      "titleEn": "The Arm's-Length Safety Shield Drill"
+    },
+    "pypProfile": [
+      "Caring",
+      "Principled"
+    ],
+    "pypProfileAr": [
+      "مهتم",
+      "ذو مبادئ"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "قضاء اليوم الدراسي كاملاً في الطابور والفسحة والرياضة بـ صفر تدافع وصفر ملامسات مزاح جسدية!",
+      "taskEn": "Spend the entire school day with zero pushing, zero shoving, and zero physical horseplay!",
+      "titleAr": "مهمة اليوم الخالي من المزاح الجسدي بنسبة ١٠٠٪",
+      "titleEn": "Zero Physical Horseplay Mission"
+    },
+    "reflection": {
+      "questionAr": "لماذا اعتبر النبي ﷺ أن الشديد الحقيقي هو من يملك نفسه عند الغضب والحماس وليس المصارع القوي؟",
+      "questionEn": "Why did the Prophet ﷺ teach that true strength is self-mastery when excited or angry, rather than physical force?"
+    },
+    "successCriteriaAr": [
+      "أشرح مفهوم 'الفقاعة الشخصية' ومسافة الأمان (طول الذراع).",
+      "أبقي يدي وقدمي لنفسي في الطابور والمقاعد وممرات المدرسة.",
+      "أمتنع تماماً عن المزاح الجسدي (الدفع، الضرب، أو شد الملابس).",
+      "أستخدم الكلمات المهذبة لطلب المرور: «عفواً يا أخي، هل تسمح بالمرور؟».",
+      "أربط سلامة الجوارح بحديث «المسلم من سلم المسلمون من لسانه ويده».",
+      "أتأمل في انفعالاتي وأمارس ضبط النفس والشجاعة عند الحماس أو الغضب."
+    ],
+    "successCriteriaEn": [
+      "Explain the 'personal bubble' concept and safe spacing (arm's length).",
+      "Keep hands, feet, and objects to myself in lineups, desks, and hallways.",
+      "Refrain completely from physical horseplay (pushing, hitting, pulling clothes).",
+      "Use polite verbal requests: 'Excuse me brother, may I please pass?'.",
+      "Connect physical boundaries to the Hadith: 'A Muslim is one from whose tongue and hand others are safe.'",
+      "Reflect on emotional control and practice courageous restraint when excited or upset."
+    ],
+    "taglineAr": "المسلم من سلم الناس من يده ولسانه، أمان للجميع",
+    "taglineEn": "A Muslim harms none with hand or tongue; safety for all",
+    "titleAr": "٨. كف الأذى وحفظ الجوارح (سلامة اليدين والقدمين)",
+    "titleEn": "8. Personal Space & Safe Hands and Feet"
+  },
+  {
+    "badgeColor": "purple",
+    "character": {
+      "nameAr": "عبدالعزيز وسعود",
+      "nameEn": "Abdulaziz & Saud"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: بطاقة دور 'الفارس المعين' لكل طاولة، يوزع الأوراق ويجمع الأقلام برفق.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: 'Helper Knight' lanyard role rotating daily for paper and supply distribution.",
+    "grade4TimerSecs": 60,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة: (ثقل الصندوق وخطورة سقوطه وتجاهل الزملاء)",
+        "٢. المتأثرون: (زياد، الأدوات المعرضة للتلف، المعلم)",
+        "٣. العواقب: (سقوط الصندوق، كسر الأدوات، شعور زياد بالخذلان)",
+        "٤. القيمة الغائبة: (الرحمة والتعاطف والمبادرة)",
+        "٥. حلان بديلان.",
+        "٦. الحل الأمثل: (المبادرة السريعة بحمل الصندوق من الجانب الآخر مشاركة للجهد)",
+        "٧. جملة حمزة: «أبشر يا أخي زياد، دعني أحمل معك ونتقاسم الثقل معاً!»"
+      ],
+      "investigationStepsEn": [
+        "1. Problem: (Heavy box about to drop, peers ignoring distress)",
+        "2. Affected: (Ziyad, art supplies, class schedule)",
+        "3. Consequences: (Spilled supplies, broken materials, feeling abandoned)",
+        "4. Missing value: (Compassion and Proactive Teamwork)",
+        "5. Two solutions.",
+        "6. Best solution: (Step up immediately, grip the opposite side, share load)",
+        "7. Hamza's words: 'I've got you Ziyad, let us carry this together as brothers!'"
+      ],
+      "scenarioAr": "شاهد حمزة زميله زياد يحمل صندوقاً كرتونياً ثقيلاً يحتوي على أدوات التربية الفنية وكان يكاد يسقط منه، فمر طالبان بجانبه مسرعين متجاهلين تعبه.",
+      "scenarioEn": "Hamza sees his classmate Ziyad struggling to carry a heavy box of art supplies that is slipping from his hands, while two peers run past pretending not to see.",
+      "titleAr": "محقق المواقف: صناديق التربية الفنية الثقيلة",
+      "titleEn": "Scenario Detective: Heavy Art Supplies in Hallway",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-handshake-angle",
+    "id": "helping_teamwork",
+    "islamicValueAr": "قوله تعالى: ﴿وَتَعَاوَنُوا عَلَى الْبِرِّ وَالتَّقْوَىٰ﴾، وقال ﷺ: «والله في عون العبد ما كان العبد في عون أخيه».",
+    "islamicValueEn": "Quran: 'Cooperate in righteousness and piety' (5:2). The Prophet ﷺ said: 'Allah aids the servant as long as he aids his brother.'",
+    "jpisValue": "Compassion",
+    "jpisValueAr": "الرحمة والتعاطف",
+    "juniorCriteriaAr": [
+      "أشارك أقلامي وألواني مع زميلي بلطف عندما يحتاج إليها.",
+      "أستمع لفكرة زميلي وأشجعه بكلمة طيبة.",
+      "نساعد بعضنا في تنظيف طاولتنا كفريق عمل واحد."
+    ],
+    "juniorCriteriaEn": [
+      "Share pencils and crayons with my peer kindly when needed.",
+      "Listen to my partner's idea and encourage them with kind words.",
+      "Help each other clean our group table as one team."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أساعد زملائي في مجموعتي ونعمل معاً بحب وفرح.",
+    "juniorObjectiveEn": "I learn to help my group friends and share our supplies kindly.",
+    "learningObjectiveAr": "نتعلم كيف نبادر بمساعدة زملائنا ونعمل كبنيان مرصوص حتى نُظهر قيمة الرحمة والإيثار والتعاون الإيجابي.",
+    "learningObjectiveEn": "We are learning how to proactively support our classmates and work as one united team so that we can demonstrate Compassion, brotherhood, and cooperative teamwork.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أميز مواقف التعاون الإيجابي من التفرج السلبي",
+        "en": "Learning: Distinguish helpful cooperation from bystander apathy"
+      },
+      "tier2": {
+        "ar": "أتدرب: أشارك الأدوات وأبادر بالعون في التدريبات الصفية",
+        "en": "Practising: Share tools and initiate assistance during drills"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أكون سفيراً دائماً للعون والإيثار في كل يوم مدرسي",
+        "en": "Independent: Consistently proactive and supportive across all daily moments"
+      }
+    },
+    "minigame": {
+      "justificationRequiredAr": "لماذا اخترت الرحمة والتعاطف؟ لأن المسلم الصادق يشعر بألم أخيه ويبادر بإعانته فوراً بدلاً من التفرج والضحك!",
+      "justificationRequiredEn": "Why Compassion? Because a caring Muslim feels his brother's distress and immediately stoops to assist rather than standing as a laughing bystander!",
+      "scenarioAr": "اصطدم مقعد سعود بمقلمة عبدالعزيز سهواً وتناثرت أقلامه ودفاتره على الأرض. وقف الطلاب في الطاولة يتفرجون ويضحكون دون أن ينحني أحد لمساعدته، وشعر عبدالعزيز بالضيق الشديد.",
+      "scenarioEn": "Saud's desk accidentally bumps Abdulaziz's pencil case, sending crayons across the floor. Table peers stand staring and giggling without helping, leaving Abdulaziz frustrated.",
+      "targetValue": "Compassion",
+      "targetValueAr": "الرحمة والتعاطف (Compassion)",
+      "titleAr": "ما القيمة الغائبة؟ المقلمة المتناثرة والوقوف متفرجاً",
+      "titleEn": "Which Value Is Missing? Spilled Stationery Bystander",
+      "type": "which_value"
+    },
+    "partner": {
+      "promptAr": "يتفق الزميلان على فحص المقلمة: من لديه قلم رصاص إضافي أو ممحاة يضعها في وسط الطاولة كـ 'صندوق إحسان مشترك' عند حاجة أي منهما.",
+      "promptEn": "Partners establish a 'shared supply station' between desks: spare pencils or erasers kept ready to lend generously whenever needed.",
+      "titleAr": "مشاركة الأدوات الكريمة",
+      "titleEn": "Generous Supply Sharing Protocol"
+    },
+    "practise": {
+      "promptAr": "تدريب تفاعلي: يسقط المعلم أو طالب قلماً أو مسطرة سهواً، يتسابق الطلاب المجاورون بهدوء لالتقاطه وتسليمه لزميلهم بابتسامة: «تفضل يا أخي» دون إحداث جلبة!",
+      "promptEn": "Interactive drill: A pencil is dropped accidentally; neighboring students quietly stoop to pick it up and return it with a smile: 'Here you go, brother!' without disruption!",
+      "stemsAr": [
+        "«أظهرت خلق الرحمة والإيثار عندما بادرت بمساعدة زميلك في جمع أقلامه دون تردد.»",
+        "«في المرة القادمة يمكنك تحسين عونك بالاستئذان أولاً: 'هل تسمح لي بمساعدتك؟'.»"
+      ],
+      "stemsEn": [
+        "'You demonstrated Compassion and selflessness when swiftly assisting your peer.'",
+        "'Next time, you can refine your help by asking first: 'May I assist you with this?'.'"
+      ],
+      "titleAr": "تحدي الالتقاط الفوري (The Instant Assist Drill)",
+      "titleEn": "The Instant Assist Practical Rehearsal"
+    },
+    "pypProfile": [
+      "Caring",
+      "Open-minded"
+    ],
+    "pypProfileAr": [
+      "مهتم",
+      "منفتح"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "يقدم كل طالب اليوم ٣ مساعدات حقيقية وصادقة لزملائه أو معلمه دون أن يُطلب منه ذلك ودون مباهاة!",
+      "taskEn": "Every student performs 3 genuine, spontaneous acts of assistance for peers or teacher unprompted!",
+      "titleAr": "مهمة سفراء الإحسان: ٣ مساعدات غير متوقعة",
+      "titleEn": "Ihsan Ambassadors: 3 Spontaneous Acts of Help"
+    },
+    "reflection": {
+      "questionAr": "من استفاد من تصرفي اليوم؟ هل استأذنت قبل تقديم المساعدة؟ ومتى تتحول المساعدة إلى تدخل سلبي إذا استوليت على عمل زميلي؟",
+      "questionEn": "Who benefited from my action? Did I ask before helping? How can help become unhelpful if I take over my partner's task?"
+    },
+    "successCriteriaAr": [
+      "أشرح كيف يجعل التعاون الصف مجتمعاً قوياً يحب فيه المسلم لأخيه ما يحب لنفسه.",
+      "أبادر فوراً بمساعدة زميلي إذا سقطت أدواته دون انتظار أن يطلب.",
+      "أشارك أدواتي الإضافية بكرم ولطف وأشجع من يحتاج مساعدة.",
+      "أستأذن زميلي بلطف قبل تقديم المساعدة ولا أستولي على عمله.",
+      "أربط التعاون بالحديث الشريف: «المؤمن للمؤمن كالبنيان يشد بعضه بعضاً».",
+      "أتأمل في أثر المساعدة الخفية في نشر المحبة بين الزملاء."
+    ],
+    "successCriteriaEn": [
+      "Explain how cooperation strengthens our class community and brotherly love.",
+      "Proactively assist a peer immediately when books spill without waiting to be asked.",
+      "Generously share spare supplies and encourage classmates needing support.",
+      "Ask permission politely before helping and never take over their learning task.",
+      "Connect teamwork to the Hadith: 'Believers are like a solid structure strengthening each other.'",
+      "Reflect on the positive ripple effect of unnoticed acts of kindness."
+    ],
+    "taglineAr": "الله في عون العبد ما كان العبد في عون أخيه",
+    "taglineEn": "Allah aids His servant as long as he aids his brother",
+    "titleAr": "٩. التعاون والإيثار (عون الأخ لأخيه كفريق واحد)",
+    "titleEn": "9. Brotherly Teamwork & Helping Classmates"
+  },
+  {
+    "badgeColor": "rose",
+    "character": {
+      "nameAr": "ريان وفهد",
+      "nameEn": "Rayan & Fahad"
+    },
+    "grade4ScaffoldAr": "سقالة الصف ٤: مؤقت ٩٠ ثانية للانصراف مع فحص 'الأرضية النظيفة كالثلج' ودعاء المجلس المكتوب بخط عريض.",
+    "grade4ScaffoldEn": "Grade 4 Scaffold: 90-second pack-up countdown with 'Floor Clear' buddy badge and large-font Dua card.",
+    "grade4TimerSecs": 90,
+    "groupChallenge": {
+      "investigationStepsAr": [
+        "١. المشكلة: (العثور على أداة مفقودة والإغراء بأخذها)",
+        "٢. المتأثرون: (صاحب القلم، فهد، أمانة الصف)",
+        "٣. العواقب: (خيانة الأمانة، حزن الزميل، فقدان الثقة)",
+        "٤. القيمة الغائبة في نصيحة الزميل: (الأمانة والصدق)",
+        "٥. حلان بديلان.",
+        "٦. الحل الأمثل: (تسليمه فوراً للمعلم أو وضعه في صندوق المفقودات)",
+        "٧. جملة فهد الصادقة: «المسلم أمين لا يأخذ ما ليس له؛ سأسلمه للمعلم ليعود لصاحبه!»"
+      ],
+      "investigationStepsEn": [
+        "1. Problem: (Finding lost property and peer pressure to steal)",
+        "2. Affected: (Owner of marker, Fahad, classroom trust)",
+        "3. Consequences: (Breach of trust, owner's distress, guilt)",
+        "4. Missing value: (Honesty and Integrity)",
+        "5. Two solutions.",
+        "6. Best solution: (Hand directly to teacher or place in Lost & Found box)",
+        "7. Fahad's words: 'A Muslim is honest; I will give this to the teacher so it returns to its brother!'"
+      ],
+      "scenarioAr": "أثناء فحص فهد لأرضية مقعده قبل الخروج، وجد قلماً جميلاً وباهظ الثمن لا يخصه، فقال له زميله: 'خذه في جيبك فهو من نصيبك!'.",
+      "scenarioEn": "While scanning under his desk at dismissal, Fahad finds a shiny, expensive marker that belongs to someone else. A classmate whispers: 'Pocket it, finders keepers!'.",
+      "titleAr": "محقق المواقف: القلم الغالي الثمن تحت المقعد",
+      "titleEn": "Scenario Detective: The Lost Expensive Marker",
+      "type": "scenario_detective"
+    },
+    "icon": "fa-clock",
+    "id": "packup_dismissal",
+    "islamicValueAr": "«أدِّ الأمانة إلى من ائتمنك» (أبو داود والترمذي)، ودعاء كفارة المجلس: «سبحانك اللهم وبحمدك، أشهد أن لا إله إلا أنت، أستغفرك وأتوب إليك».",
+    "islamicValueEn": "The Prophet ﷺ said: 'Fulfill the trust to those who entrusted you.' And Kaffarat Al-Majlis Dua for seeking forgiveness.",
+    "jpisValue": "Honesty",
+    "jpisValueAr": "الصدق والأمانة",
+    "juniorCriteriaAr": [
+      "أفحص أرضية طاولتي وأتأكد أنها نظيفة وخالية من الأقلام والأوراق.",
+      "أضع كتبي في حقيبتي وأغلق سحابها بهدوء.",
+      "أدخل كرسيي برفق وأصطف في طابور الانصراف بانتظام."
+    ],
+    "juniorCriteriaEn": [
+      "Check under my desk to make sure the floor is clean and clear.",
+      "Pack my books into my bag and zip it gently.",
+      "Push my chair in softly and join the dismissal line safely."
+    ],
+    "juniorObjectiveAr": "أتعلم كيف أرتب طاولتي وأدخل كرسيي وأستعد للعودة للبيت بنظام.",
+    "juniorObjectiveEn": "I learn to pack my bag, push in my chair, and prepare to go home safely.",
+    "learningObjectiveAr": "نتعلم كيف نحزم أدواتنا وننظف مقاعدنا ونحفظ أمانة الصف حتى نُظهر قيمة الأمانة والمسؤولية وحسن الختام.",
+    "learningObjectiveEn": "We are learning how to pack our belongings, scan under desks, and guard classroom property so that we can demonstrate Honesty, Responsibility, and honorable closure.",
+    "mastery": {
+      "tier1": {
+        "ar": "أتعلم: أعرف خطوات الانصراف الخمس ودعاء كفارة المجلس",
+        "en": "Learning: Know the 5 pack-up steps and Kaffarat Al-Majlis Dua"
+      },
+      "tier2": {
+        "ar": "أتدرب: أنفذ فحص الطاولة وإدخال الكرسي في ٩٠ ثانية بنجاح",
+        "en": "Practising: Complete desk scan and silent chair tuck in 90s"
+      },
+      "tier3": {
+        "ar": "أطبق باستقلالية: أترك مقعدي أنظف مما كان وأصطف بسكينة كل يوم دون تذكير",
+        "en": "Independent: Consistently leave space spotless and line up with dignity"
+      }
+    },
+    "minigame": {
+      "instructionAr": "رتب خطوات ختام اليوم الدراسي بالترتيب المنظم لترك الصف كالفرسان:",
+      "instructionEn": "Arrange the end-of-day pack-up steps in the correct orderly sequence:",
+      "steps": [
+        {
+          "id": 1,
+          "textAr": "التوقف الفوري عند جرس المعلم والاستماع للتعليمات الختامية",
+          "textEn": "Freeze upon teacher's chime and listen to final instructions"
+        },
+        {
+          "id": 2,
+          "textAr": "ترتيب الدفاتر والأقلام داخل الحقيبة وإغلاق السحاب بالكامل",
+          "textEn": "Pack books and stationery into bag and zip completely"
+        },
+        {
+          "id": 3,
+          "textAr": "فحص درج الطاولة والأرضية تحت المقعد والتقاط أي قصاصة ورقية",
+          "textEn": "Scan desk drawer and floor under seat for scraps"
+        },
+        {
+          "id": 4,
+          "textAr": "إدخال الكرسي برفق تحت الطاولة دون صوت صرير مزعج",
+          "textEn": "Push chair gently under table without floor screeching"
+        },
+        {
+          "id": 5,
+          "textAr": "الاصطفاف بسكينة في طابور الخروج وترديد دعاء كفارة المجلس",
+          "textEn": "Line up calmly reciting Kaffarat Al-Majlis supplication"
+        }
+      ],
+      "titleAr": "رتب خطوات حزم الأمتعة والانصراف الذهبي",
+      "titleEn": "End-of-Day Pack-Up Sequence Challenge",
+      "type": "put_in_order"
+    },
+    "partner": {
+      "promptAr": "ينظر الطالب إلى مقعد زميله وينظر الزميل إلى مقعده: هل هناك قلم منسي؟ هل الأرضية نظيفة؟ هل الكرسي في مكانه؟ يمنحان بعضهما إشارة الاعتماد!",
+      "promptEn": "Partners cross-audit desks: Any forgotten markers? Floor spotless? Chair tucked? They give each other the thumbs-up sign of clearance!",
+      "titleAr": "الفحص المتبادل للأمانة قبل الخروج",
+      "titleEn": "Mutual Floor & Desk Audit"
+    },
+    "practise": {
+      "promptAr": "تدريب عملي: يطلق المعلم مؤقت الـ ٩٠ ثانية، وينتهي الصف بأكمله من الترتيب، فحص الأرضيات، إدخال الكراسي، والاصطفاف الصامت كفرسان حقيقيين!",
+      "promptEn": "Classroom rehearsal: 90-second countdown; whole class completes desk tidy, floor scan, chair push-in, and silent lineup like true champions!",
+      "stemsAr": [
+        "«أظهرت قيمة الأمانة والمسؤولية عندما تفقدت أرضية مقعدك وتأكدت من خلوها من المهملات.»",
+        "«في المرة القادمة يمكنك تحسين هدوء انصرافك برفع الكرسي قليلاً عند إدخاله لمنع الصرير.»"
+      ],
+      "stemsEn": [
+        "'You showed Honesty and Responsibility when scanning your floor thoroughly.'",
+        "'Next time, you can improve by lifting your chair slightly to prevent floor screeches.'"
+      ],
+      "titleAr": "تحدي الـ ٩٠ ثانية للصف المثالي (The 90-Second Reset)",
+      "titleEn": "The 90-Second Reset Practical Rehearsal"
+    },
+    "pypProfile": [
+      "Reflective",
+      "Principled"
+    ],
+    "pypProfileAr": [
+      "متأمل",
+      "ذو مبادئ"
+    ],
+    "realLifeMission": {
+      "requiresTeacherSignoff": true,
+      "taskAr": "عند جرس الانصراف الأخير اليوم: يغادر الفصل بأكمله بنسبة ١٠٠٪ كراسي مدخلة وأرضية تلمع من النظافة دون ورقة واحدة ملقاة!",
+      "taskEn": "At final dismissal bell today: 100% of chairs tucked, floor shining spotless, with zero forgotten supplies!",
+      "titleAr": "مهمة الانصراف الذهبي: صفر مهملات وصفر كراسي مائلة",
+      "titleEn": "Golden Dismissal Mission: Zero Trash & Tucked Chairs"
+    },
+    "reflection": {
+      "questionAr": "كيف تكون الأمانة تاج الفارس المسلم؟ وكيف يشهد المكان لنا يوم القيامة بما فعلنا فيه من خير ونظافة؟",
+      "questionEn": "How is honesty and integrity the crown of a Muslim student? How will our learning spaces testify to our care and righteousness?"
+    },
+    "successCriteriaAr": [
+      "أشرح كيف أن نظافة الصف وحفظ أدواته أمانة استودعنا الله إياها.",
+      "أتوقف فوراً عند إشارة المعلم وأجمع أدواتي الشخصية في حقيبتي.",
+      "أفحص الدرج والأرضية تحت المقعد للتأكد من خلوها من أي ورقة أو قلم.",
+      "أدخل الكرسي برفق تحت الطاولة دون صرير أو عرقلة للممر.",
+      "أصطف في طابور الانصراف بسكينة وأردد دعاء كفارة المجلس.",
+      "أتأمل في إنجازي اليومي وأعزم على بدء الغد بنشاط وهمة."
+    ],
+    "successCriteriaEn": [
+      "Explain how classroom furniture and cleanliness are a sacred trust (Amanah).",
+      "Freeze upon dismissal signal and pack all personal supplies neatly.",
+      "Scan drawer and floor under desk thoroughly: zero trash, zero left stationery.",
+      "Push chair gently under table without dragging or screeching on floor.",
+      "Form calm dismissal line reciting the Kaffarat Al-Majlis Dua.",
+      "Reflect on today's learning and commit to starting tomorrow with high energy."
+    ],
+    "taglineAr": "ترك الصف أنظف مما كان، والعودة إلى البيت برضا",
+    "taglineEn": "Leaving class spotless, heading home with proud hearts",
+    "titleAr": "١٠. الاستعداد للانصراف وحفظ الأمانة",
+    "titleEn": "10. Pack-Up Mastery & End-of-Day Amanah"
+  }
+]

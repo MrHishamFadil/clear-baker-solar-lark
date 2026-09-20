@@ -1,0 +1,50 @@
+[
+  {
+    "id": "chk-1",
+    "textAr": "طرق الباب ٣ طرقات والاستئذان بهدوء",
+    "textEn": "Knocked 3 times and entered with Salam",
+    "done": false
+  },
+  {
+    "id": "chk-2",
+    "textAr": "تعليق الحقيبة وتجهيز أدوات الحصة في ٦٠ ثانية",
+    "textEn": "Bag hung & desk organized in 60s",
+    "done": false
+  },
+  {
+    "id": "chk-3",
+    "textAr": "المشي في الممرات بالسكينة وعلى اليمين",
+    "textEn": "Calm hallway walking on the right",
+    "done": false
+  },
+  {
+    "id": "chk-4",
+    "textAr": "الإنصات للمعلم واحترام المتحدث",
+    "textEn": "Attentive listening with eyes on speaker",
+    "done": false
+  },
+  {
+    "id": "chk-5",
+    "textAr": "خلع الحذاء بهدوء في الفصل وترتيبه تحت الطاولة",
+    "textEn": "Shoes removed calmly in class & placed under desk",
+    "done": false
+  },
+  {
+    "id": "chk-6",
+    "textAr": "غسل اليدين بعد الفسحة وتنظيف المقعد",
+    "textEn": "Washed hands & wiped break bench",
+    "done": false
+  },
+  {
+    "id": "chk-7",
+    "textAr": "كف الأذى وحفظ اليدين والقدمين",
+    "textEn": "Safe hands & feet respecting personal space",
+    "done": false
+  },
+  {
+    "id": "chk-8",
+    "textAr": "إدخال الكرسي وفحص الأرضية قبل الانصراف",
+    "textEn": "Chairs tucked & floor checked at pack-up",
+    "done": false
+  }
+]
